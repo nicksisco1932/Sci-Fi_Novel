@@ -1,30 +1,47 @@
 ## Chapter 1 – The Return
-The first thing Cassian heard was the beeping.
-Steady. Mechanical. Familiar. It ticked like a metronome through the static of his mind—too clean, too precise. His body lay somewhere beyond the sound, distant, heavy, but the rhythm called him back.
-Voices murmured. Calm, professional. Not quite his language, but close enough to stir something old in him. Training? Memory?
+Beeping.
+Steady.
+Mechanical.
+Too clean. Too precise.
+His body lay somewhere beyond it. Distant. Heavy.
+The rhythm pulled him through static.
+Voices murmured. Calm. Professional.
+Not quite his language. Close enough to stir old wiring.
 A soft hiss. Footsteps.
 Then—something touched his ear.
-A spike of instinct shattered the fog. He moved before thought caught up.
-His eyes flashed open. His right hand shot out, snatching the \*\*knife\*\* lying beside a tray—gleaming, innocuous, meant for food. They'd left it too close. His legs surged beneath him as if uncoiling from centuries of tension.
+A spike of instinct shattered the fog.
+He moved before thought caught up.
+His eyes flashed open. His right hand shot out, snatching the \*\*knife\*\* beside a tray—gleaming, innocuous, meant for food.
+Too close.
+His legs surged beneath him, uncoiling from centuries of tension.
 In one motion he spun, grabbed the nearest figure, and slammed them against the bulkhead with an elbow to the throat. His other arm snapped up, blade pressed hard against the second attendant’s neck before their hands even twitched.
 They froze. One gurgled in surprise, pinned by the throat. The other stood stock-still, eyes wide behind a sterile visor.
 Everything was bright. Too bright.
-Cassian’s vision swam—cold metal, silver white, blinking status lights. The kind of silence that only exists in clean rooms and burial vaults.
-His pulse thundered. His grip trembled. The weight of the knife became real in his hand. Real, and wrong.
+Cassian’s vision swam—cold metal, silver white, blinking status lights.
+Clean-room silence. Burial-vault silence.
+His pulse thundered. His grip trembled.
+The weight of the knife became real in his hand.
+Real. Wrong.
 The pinned one croaked something—strange, melodic syllables. Cassian didn’t recognize the words.
-The standing figure tried again, slowly, carefully, but it still wasn’t right. Too fluid, too evolved. The language had changed.
+The standing figure tried again. Slow. Careful.
+Still not right.
+Too fluid. Too evolved.
+The language had changed.
 Then, without sudden movement, they tapped a small interface on their wrist. A harmonic pulse bloomed in the air—subtle, resonant. The words that followed shifted mid-sentence, phonemes locking into patterns his mind could grasp.
 “You’re on Earth. Hive Spindle 9. You’ve returned.”
-Cassian blinked. Earth? Hive? He stared at them, the words meaning something, but not enough.
+Cassian blinked. Earth? Hive?
+He stared at them.
+The words meant something. Not enough.
 “We were trying to insert a linguistic interface,” the attendant added carefully, voice now fully translated. “To help you understand. You reacted… instinctively.”
-Cassian blinked again. They weren’t fighting back. The room wasn’t hostile.
-They were helping.
+Cassian blinked again.
+They weren’t fighting back.
+The room wasn’t hostile.
 He stepped back, body still tense, the blade now shaking in his grip.
 “Where am I?” he asked. His voice cracked like a rusted hinge.
 The attendants remained still. The monitor shrieked with his heart rate, but no one moved to subdue him.
 The adrenaline faded.
 His knees buckled.
-The last thing he heard before he hit the floor was the soft, repeated phrase from one of the attendants:
+The last thing he heard before he hit the floor:
 "It's alright. You're safe now."
 ---
 ## Chapter 2 – Before the Jump
