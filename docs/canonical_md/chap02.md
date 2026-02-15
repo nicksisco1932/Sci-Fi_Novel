@@ -1,26 +1,31 @@
 ## Chapter 2 – Before the Jump
-The sky above Earth was still blue back then.
-Cassian sat on the edge of the launch pad’s pre-departure station, legs dangling over the polished composite ledge, watching clouds shift slowly over the Pacific Array. There were launch towers in the distance, bristling like needles against the curve of the Earth. The sun glinted off the ocean, fractured into gold and platinum waves.
-He took a long breath. The air was sharp, sea-salted. Real.
-A technician approached from behind, her smile warm, eyes hidden behind retinal calibration lenses.
+The sky over Earth was blue that day.
+Cassian sat on the edge of the launch pad’s pre-departure station, legs dangling over the polished composite ledge, watching clouds drift over the Pacific Array. Launch towers stood in the distance against the curve of Earth. Sunlight broke on the ocean in gold and platinum.
+He took a long breath. The air was sharp with salt.
+A technician approached from behind, eyes hidden behind dark sunglasses.
 “You're cleared for Phase 3 induction,” she said. “Vitals are optimal. Neural mesh is stable. You’ll be the farthest-traveled human in history, Cass.”
-He smirked, brushing his palm across the synthweave of his uniform. “Only if I come back.”
-“You will,” she said. “You’re too damn stubborn not to.”
-They walked back toward the transfer pod. Engineers moved around them with the quiet urgency of launch prep. Everyone had a purpose, a task. But everyone, Cassian noticed, also paused for him. Some saluted. Others simply nodded. He was the edge of humanity’s reach—the tip of its intention.
-As he climbed into the acceleration cradle, the AI began its system startup. The cockpit dimmed, lights pulsing in concentric rings around his vision.
+He smirked, brushing his palm across the synthweave of his uniform; the contact raised a faint ripple along his skin. “Only if I come back.”
+“You will,” she said. “You’re too damn stubborn not to.” He exhaled through his nose.
+They walked toward the transfer pod. Engineers moved around them with quiet launch urgency. Each person had a task. A few paused for him—salute, nod—then returned to their stations.
+As he climbed into the acceleration cradle, the AI began system startup. The cockpit dimmed; lights pulsed in concentric rings around his vision.
 > "Cassian Rho. Helion-class scout vessel online. Initiate interface check."
 > "Confirmed," he replied. "Execute primary calibration."
 > "Neural-linguistic overlay: locked. Quantum entanglement relay: ready. Hyperspace gate: stable."
 > "All green."
-He exhaled, eyes half-closed, as the hum of launch systems synced with his pulse.
+He exhaled as the hum of launch systems synced with his pulse.
 > "Cassian," the AI said quietly.
-He paused. There was a subtle shift in tone. Not a report. A hesitation.
+He paused. A slight shift in tone. Not a report. A hesitation.
 > "What is it?"
-> "There is an anomaly in the destination field."
+> "There is an anomaly. Destination field."
 His brow furrowed. "Show me."
-But before the AI could respond—
+The engines ignited.
+Pressure slammed him into the cradle. Air tore from his lungs in a harsh, guttural exhale that almost rose into a shout before he swallowed it down. His chest tried to expand and met resistance.
+He forced a measured inhale against the weight. Again.
+The acceleration climbed past the familiar curve.
+Anomaly—
+The load spiked.
 ---
 Darkness. Silence.
-The hiss of the translation device reawakening.
-Cassian's body jerked slightly on the cot in Hive Spindle 9, as if the memory had reached back and pulled him forward.
+The hiss of the translation device.
+Cassian's body jerked on the cot in Hive Spindle 9.
 ---

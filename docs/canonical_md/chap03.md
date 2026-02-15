@@ -1,26 +1,54 @@
 ## Chapter 3 – A Flaw in the Pattern
-Korin Tal did not like anomalies.
-Not because they were dangerous—though some were—but because they meant something had slipped. A variable had gone unaccounted for. A prediction had failed.
-He stood motionless in the atrium of the Central Cognition Sector, eyes fixed on the data pillar in front of him. Light streamed down the length of the tower—white, orderly, serene—until it pulsed red at the base.
-Red wasn’t supposed to happen.
-He inhaled once, then again. Controlled. Quiet.
-The interface flickered, translating the incident into clean notation: \*Unscheduled biological signature. Temporal mismatch. Arrival: atmospheric breach, 0456 UTC.\*
-He narrowed his eyes.
+An alert tone cut through the office.
+It lasted less than a second.
+
+Beyond the glass wall, the Hive moved as one structure. Elevation rails carried residents between stacked districts in steady cadence. Windows aligned in disciplined rows along white towers, lit in uniform bands. Heat rose through spindle crowns. Light held to schedule across every tier.
+
+Rain tracked down the glass in straight lines, absorbed by runoff channels before it reached the lower tiers.
+
+Then the data pillar pulsed red.
+
+Red did not belong in this room.
+
+The interface resolved into clean notation: \*Unscheduled biological signature. Temporal mismatch. Arrival: atmospheric breach, 0456 UTC.\*
+
+Korin read it once. Then again.
+
 "Patch me to Spindle 9 oversight," he said, voice barely above a whisper.
-A moment’s pause, then the air responded. \*"Connection established. Field reports in compression. A subject has been sedated. No casualties."\*
+A moment's pause, then the air responded. \*"Connection established. Field reports in compression. A subject has been sedated. No casualties."\*
 “No casualties,” he repeated under his breath, jaw tightening. “How comforting.”
-He turned away from the tower. The floor beneath his feet responded, altering traction to match his shifting gait. Even his footsteps were supposed to be efficient.
+
+He turned from the glass. The floor adjusted traction to his gait.
+
 A flaw meant review. A flaw meant recalibration.
-He had designed entire sectors of the Hive to operate without human friction. Now some ancient relic from before Harmony had plummeted into their system like a temporal parasite.
-He exhaled through his nose. Deeply. Deliberately.
+
+He had helped architect this Hive phase to remove friction from decision flow. Now a source from before Harmony had breached atmosphere and entered system records alive.
+
 "I want full telemetry. Everything from breach to sedation. Neural scans. Language overlays. Real-time biometrics."
 \*"Understood. Packet en route. Estimated decode time: sixteen seconds."\*
-The delay was inexcusable. He said nothing.
-Instead, he stepped back into his chamber, where the walls curved with subdued fractal patterns—his personal reinforcement schema, designed to keep his mind structured, focused, intact.
-And yet—
-There, at the corner of the interface, was the outline of a human figure.
+
+Sixteen seconds was inexcusable.
+
+He said nothing.
+
+Instead, he stepped into his private chamber, where the walls curved in subdued fractal symmetry—his reinforcement schema for signal discipline.
+
+At the corner of the interface, a human outline resolved.
+
 Unclassified.
+
 Outdated.
+
 Impossible.
-The system tagged the entry with a name it hadn’t used in over four hundred years.
+
+The system tagged the entry with a name absent from active records for over four hundred years.
+
+If the tag was valid, this was no isolated anomaly. It was structural.
+
 \*\*Cassian Rho.\*\*
+
+Korin remained still.
+
+Then he severed external routing.
+
+“Lock the record to executive clearance. Flag origin source as priority deviation.”
