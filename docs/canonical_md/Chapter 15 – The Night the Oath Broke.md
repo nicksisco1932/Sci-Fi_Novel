@@ -1,234 +1,212 @@
 Chapter 15 – The Night the Oath Broke
-Chapter 15 – The Night the Oath Broke
 The safehouse was a lie, but it was the only lie they had.
-Thena slept in a shallow, medicated drift on a makeshift cot, her wounded hand elevated on a rolled jacket, the crude bandage already spotting with rust-colored seep. The room around them was a forgotten storage cell deep in the lanes — damp walls, low ceiling, a single dim coil of scavenged light humming above.
-Cassian sat on the floor with his back against cold metal, knees drawn up, breathing slow. He had stretched his awareness as far as it would go.
+Thena slept in a medicated half-drift on a makeshift cot, wounded hand propped on a rolled jacket, crude bandage already spotting through. Around them, the storage cell pressed close: damp walls, low ceiling, a single salvage coil humming overhead.
+Cassian sat on the floor with his back to cold metal, knees up, breathing slow. He had pushed his awareness as far as pain would let him.
 No footsteps.
 No drone hum.
-No whisper of a hunter in the vents.
+No movement in the vents.
 For now.
 He closed his eyes.
 Not to rest.
-To think.
-The image came back unbidden: a shoulder driving into his ribs like a sledgehammer, the sudden flight through concrete, the laughter, the grip that picked him up one-handed.
-You’re getting soft, Cassian.
-The voice had been raw, amused, familiar in its contempt.
-He ran it again in his mind, frame by frame — the posture, the stance, the way the man’s weight sat over his feet, the angle of the hips when he moved, the way he pivoted from impact into follow-through.
-There was something in it.
+To sort the impact.
+A shoulder in his ribs like a hammer. The laugh after. The one-handed lift. The way the man's weight settled before every strike, rooted and efficient.
+"You're getting soft, Cassian."
+He ran the encounter again in sequence: posture, stance, hip rotation, the transition from collision to follow-through. Something in it had history.
 Something old.
-He exhaled through his nose.
-“Gor,” he murmured.
-The name slid out of him like an old scar catching on fabric.
-Thena twitched in her sleep but did not wake.
-Cassian stared at the floor, the safehouse dissolving around him as a different room took shape in his memory — not metal and damp and flickering coils, but polished wood, sunlit air, and the muffled slap of bare feet.
+He let out a slow breath.
+"Gor."
+The name came out like an old scar catching.
+Thena shifted in her sleep but did not wake.
+The room thinned around him. In its place came polished wood, afternoon light, the slap of bare feet.
 A dojo on Almelah.
-Years ago.
-A lifetime ago.
-Before the jump.
-Before the Hive swallowed the world whole.
+Before the jump. Before the Hive turned whole worlds into problems to be managed.
 ---
-They stood barefoot on the practice floor, sweat beading across their shoulders.
-The master watched from the far wall, sitting cross-legged, silent as stone.
-Cassian and Gor circled one another.
-They had been at it for nearly an hour. Hands up. Guard high. No armor, no tech. Just bodies, breath, and the shared language of impact.
-Gor was broader through the shoulders even then, his strikes heavier, his stance aggressive without being sloppy. He had a fighter’s grin, all challenge and drive.
-Cassian’s movements were tighter, narrower — less power, more precision. He watched more than he struck. Watched, then disrupted.
-Gor stepped in with a quick combination — feint high, strike low, pivot into a driving palm.
-Cassian slipped the first blow, blocked the second, and used Gor’s momentum to break his balance. A twist, a shift, a foot behind the heel—
+Cassian and Gor stood barefoot on the practice floor, sweat dark across shoulders and collarbones. Their master watched from the far wall, seated cross-legged and silent as cut stone.
+They had been moving for nearly an hour. No armor. No tech. Only bodies, breath, and the shared grammar of impact.
+Gor was broader even then, built for force. His stance carried pressure without sloppiness. Every strike asked the same question: how much can you absorb before you fail?
+Cassian answered with angle, timing, and disruption.
+Gor stepped in with a fast sequence. Feint high. Strike low. Pivot into a driving palm.
+Cassian slipped the first blow, checked the second, and used Gor's commitment against him. One turn. One shift of weight. One foot placed behind the heel.
 Gor hit the floor.
-He was up again at once, breathing hard, eyes bright with something between frustration and admiration.
-“One more,” Gor said.
-Cassian wiped his forearm across his brow. “You said that three rounds ago.”
-“One more until I put you down.”
-Cassian smirked. “Then you’d better make it count.”
-They moved again. Less space this time. Less circling. Gor pressed, trying to crowd the distance. Cassian adjusted, letting him come, letting him overcommit.
-Gor’s next attack was better — sharper, closer to breaking through.
-Cassian countered anyway. One pivot. One shift in angle. Gor’s weight went the wrong way. He came down on his knees, one arm caught, throat exposed.
-“Yield,” Cassian said quietly.
-Gor breathed once. Twice. Then nodded.
+He was up immediately, breathing hard, eyes bright with frustration and admiration mixed together.
+"One more," Gor said.
+Cassian wiped sweat from his brow. "You said that three rounds ago."
+"One more until I put you down."
+Cassian gave him the smallest hint of a smile. "Then make this one matter."
+They closed again with less space and less ceremony. Gor pressed harder. Cassian let him. The next attack was better, tighter, closer to getting through.
+Cassian countered anyway.
+A pivot. A shift. Gor's balance went the wrong direction and he dropped to both knees with one arm trapped and his throat open.
+"Yield," Cassian said.
+Gor took one breath, then another, and nodded.
 Cassian released him and stepped back.
 From the wall, the master spoke for the first time that day.
-“Again tomorrow.”
+"Again tomorrow."
 They bowed.
-Gor’s jaw was set, but not bitter. He fell into step beside Cassian as they left the mat, knuckles already swelling.
-“One day,” Gor said, “I’m going to drop you so hard the floor cracks.”
-“You’ve cracked it plenty with your own face already,” Cassian replied.
-Gor laughed, the sound full and unguarded.
-“It won’t be enough to tie,” he said. “I have to beat you clean. So even the old man can’t pretend he didn’t see it.”
-Cassian glanced at him. “That’s what you’re chasing?”
-Gor’s eyes didn’t waver. “I’m chasing you.”
-It wasn’t worship.
-It wasn’t jealousy.
-It was an oath he’d made to himself:
+Gor fell into step beside Cassian as they left the mat, knuckles swelling, jaw set but not bitter.
+"One day," Gor said, "I'm going to drop you hard enough to crack the floor."
+"You've worked on that with your own face already," Cassian said.
+Gor laughed. Open. Unhidden.
+"It won't be enough to tie," he said. "I have to beat you clean. So even the old man can't pretend he missed it."
+Cassian glanced over. "That's what you're chasing?"
+Gor's eyes stayed forward. "I'm chasing you."
+It was not devotion.
+Not envy.
+A private oath.
 I will surpass you.
-Cassian didn’t argue.
-“Then keep showing up,” he said.
+Cassian did not argue with it.
+"Then keep showing up," he said.
 Gor did.
-Until the day Cassian left.
+Until Cassian left.
 ---
 Back in the safehouse, Cassian opened his eyes.
-The coil light hummed. Thena’s breathing was shallow but steady.
-He remembered the last time he’d seen Gor then — standing outside the dojo, the red haze of Almelah’s late sun cutting across the courtyard. Cassian in travel gear. Gor in training clothes, still damp with exertion.
-“You’re really going,” Gor had said.
-“I am.”
-“Out there,” Gor said quietly, glancing at the sky, “none of this will matter.”
-He meant the mat. The kata. The discipline of impact and restraint.
-Cassian shook his head. “It always matters.”
-Gor looked at him like he wasn’t sure if that was wisdom or arrogance.
-“When you come back,” he said, “I’ll be ready.”
-Cassian had clapped a hand once on his shoulder, solid, final.
-“I expect nothing less.”
-He had turned and walked away.
-He had never seen Almelah again.
-And he had never known what followed.
+The coil hummed. Thena's breathing stayed shallow but steady.
+He remembered the last time he had seen Gor: outside the dojo beneath Almelah's late red light. Cassian in travel gear. Gor still dressed for training, skin damp with exertion.
+"You're really going," Gor had said.
+"I am."
+"Out there," Gor said, glancing toward the sky, "none of this will matter."
+He meant the mat. The forms. The discipline built around when to strike and when not to.
+Cassian shook his head. "It always matters."
+Gor had looked at him as if unsure whether that answer was wisdom or arrogance.
+"When you come back," he said, "I'll be ready."
+Cassian had clapped a hand once to his shoulder.
+"I expect nothing less."
+Then he left.
+He never saw Almelah again.
+He never saw what the Hive did to it.
 ---
-Gor stood in a different kind of room when they made the offer.
-No polished wood here. No clean lines. Just a Hive processing chamber — smooth walls, soft light, the faint scent of antiseptic and metal. Earth rotated on a projection above, color-coded by integration density. Almelah was a thin, flickering line between zones the Hive considered efficient and zones it considered expendable.
-A functionary spoke.
+When the offer came, Gor stood in a Hive processing chamber instead of a dojo. Smooth walls. Soft light. Antiseptic. Metal. Earth turned above him in a projection graded by integration density. Almelah was a thin flicker between zones the system considered efficient and zones it could afford to lose.
+A functionary spoke in neutral tones.
 Augmentation.
-Crayo-capable modifications.
+Cryo-capable modification.
 Extended service.
 Extended usefulness.
-Gor barely heard the technical language. What he heard was the subtext.
-You are strong. We can make you stronger.
-You will sleep, wake, sleep again, as long as we need you.
+Gor heard the pitch beneath the language.
+You are strong. We can keep you useful longer.
+You will sleep, wake, sleep again, for as long as we decide.
 He thought of the oath.
 Live your span.
 Die your span.
 Do not prolong your shadow.
-He shook his head.
-“No.”
-The functionary blinked.
-“This is not a suggestion,” they said carefully. “Your region is under review for resource optimization. The Hive does not sustain inefficiencies.”
-“My people are not inefficiencies,” Gor said.
-“Your people are a closed set with decreasing yield,” the functionary replied. “We are offering survival.”
-“By breaking everything that makes us what we are.”
-“By adapting,” the functionary said. “Or falling out of the equation.”
+He said, "No."
+The functionary blinked once. "This is not a suggestion. Your region is under review for resource optimization. The Hive does not preserve inefficiency."
+"My people are not inefficiency."
+"Your people are a closed set with declining yield," the functionary said. "We are offering survival."
+"By breaking what we are."
+"By adapting," they said. "Or falling out of the equation."
 Gor walked out.
-He returned to the dojo.
-To the mat.
-To the master who had trained him and Cassian both.
-“They want to carve time into me,” Gor said. “Stretch my life like wire.”
-The master listened without interruption.
-“You refused?” he asked.
-“Yes.”
-The old man nodded once. “Good.”
-Gor exhaled. The tension in his shoulders eased.
-That night, the Hive moved the region from review to action.
+He went back to the dojo. Back to the mat. Back to the master who had trained him and Cassian both.
+"They want to carve time into me," Gor said. "Stretch it."
+The old man listened.
+"You refused?"
+"Yes."
+A single nod. "Good."
+Relief loosened something in Gor's shoulders.
+That night, the Hive moved Almelah from review to action.
 ---
-Cassian shifted on the floor, a dull ache pulsing in his ribs. The past clung like smoke.
-He didn’t know the details. Not yet. But he knew the pattern. Hive triage was always the same: starve systems of support, observe reaction, then mark them for absorption or abandonment.
-He looked at Thena, asleep and wounded, and wondered how many people on Almelah had slept through the first stage.
-How many had never woken for the second.
+Cassian shifted against the wall, ribs throbbing.
+He did not know every detail. He did not need them yet. The pattern was enough. The Hive thinned support, watched the damage, then named its own violence necessary.
+He looked at Thena asleep on the cot and wondered how many people on Almelah had mistaken the first withdrawal for bad luck.
+How many had not lived to see the second phase.
 ---
-Gor watched the fires rise from the ridge above the central compound, his breath steady despite the heat curling off the burning structures.
-The Hive had dressed him in new armor for this mission — pale composite plates over a dark, flexible shell, sensors braided into the fabric. His body felt different. Denser. Faster. The surgery had been clean. The healing accelerated. He had seen his own face in the recovery glass, unchanged, and known that the next year — the next ten, the next hundred — would leave no mark.
-He walked down into Almelah like a revenant.
-The first to die were the ones who resisted openly — blades drawn, voices raised, charging at Hive shock teams with old weapons and older pride. They fell quickly, their courage no match for modern systems.
-Gor’s presence was supposed to be symbolic. A son of Almelah leading the cull. Proof of inevitability.
-He told himself he was taking control. Directing the violence. Minimizing suffering.
+Gor watched the fires from the ridge above the central compound, breath steady despite the heat. Hive armor sat on him like a second verdict: pale composite over dark weave, sensors nested inside the fabric. The surgery had been clean. The recovery had been efficient. The face in the glass afterward had still been his.
+Time would stop touching it.
+He walked into Almelah like something returned from burial.
+The first dead were the ones who resisted openly: blades out, voices raised, charging armed Hive units with old weapons and older certainty. They fell quickly.
+Gor had told himself his presence might limit the damage. That if he led, he could direct the violence. Contain it.
 That lie held until he reached the dojo.
-The training hall burned at the edges. The roof had partially collapsed but the central mat remained — charred, but recognizable. The place where he had fallen a hundred times. The place where Cassian had helped him back up.
-The master knelt in the center.
+The hall was burning at the edges. Part of the roof had already failed, but the central mat remained, charred and recognizable. The place where he had fallen a hundred times. The place where Cassian had helped him back up.
+Their master knelt in the center.
 Unarmed.
 Waiting.
-Hive soldiers fanned out, rifles at ease. They knew the script. They knew this death belonged to Gor.
+Hive soldiers fanned out at the walls with rifles lowered. They understood what this was supposed to be.
 Gor stepped onto the mat.
-“Stand,” he said.
-The master did not move.
-“So this is what you chose,” the old man said. His voice was rough, but not weak. “To return as an instrument.”
-“I chose to survive,” Gor said.
-“You chose to outlive yourself,” the master replied. “And now you will live in a world without you.”
-Gor’s jaw tightened.
-“This was inevitable,” he said.
-The master smiled sadly. “Nothing is inevitable. Some of us just lack imagination.”
-Gor’s hand closed around the hilt of the Hive-issued blade at his hip.
-“Why didn’t you leave?” he asked. “You could have gone off-world. Started again. You knew they were coming.”
-“This is where my span ends,” the master said simply. “I won’t stretch it to fit someone else’s ledger.”
-Gor hesitated.
-For a moment — a fraction beyond a fraction — the oath flickered inside him.
+"Stand," he said.
+The old man did not move.
+"So this is what you chose," the master said. "To return as an instrument."
+"I chose to survive."
+"You chose to outlive yourself," the master said. "Now you will live in a world without you."
+Gor's jaw tightened. "This was inevitable."
+The master's smile held no agreement. "Nothing is inevitable. Some of us simply run out of imagination."
+Gor's hand closed around the hilt of the Hive blade at his hip.
+"Why didn't you leave?" he asked. "You knew they were coming. You could have gone off-world."
+"This is where my span ends," the master said. "I won't stretch it to fit someone else's ledger."
+For an instant the oath stirred in Gor anyway.
 Live your span.
 Die your span.
-“Yield,” Gor said quietly, almost reflexively.
-The master’s eyes crinkled at the corners.
-“Yield?” he repeated. “We don’t yield to our own students.”
+"Yield," he said. The word came out almost by reflex.
+The master's eyes narrowed at the sadness in him. "We do not yield to our own students."
 Gor raised the blade.
 It shook once.
-Then it stilled.
-The Hive soldiers waited. The fire crackled. Smoke stung his eyes.
-“I trained two of you,” the master said softly. “One went to the stars. One stood his ground. I see now which one broke first.”
-The words cut deeper than any weapon.
+Then it steadied.
+Fire cracked in the rafters. Smoke needled his eyes. The soldiers kept still.
+"I trained two of you," the master said softly. "One went to the stars. One stayed and learned to kneel. I see now which one broke first."
+The words cut deeper than steel.
 Gor stepped forward.
-When it was done, the dojo finally caught fire.
-As the flames climbed, licking at the rafters, the master’s last words clung to Gor’s ears like embers.
+When it ended, the dojo finally gave itself to the fire.
+As the flames climbed, the master's last words stayed with him like sparks under skin.
 You surpassed him after all.
-He walked out of Almelah with ash in his hair and a new emptiness stretched inside him, long and hollow as a cryo tube.
-The oath hadn’t just broken.
+Gor left Almelah with ash in his hair and a hollow place inside him long as a cryo tube.
+The oath had not only broken.
 It had inverted.
-He no longer served life’s finitude.
-He served its erasure.
 ---
 The coil light flickered.
-Cassian drew a long breath.
-He didn’t have the full picture — not yet. But fragments had aligned: Almelah, the dojo, the Hive’s way of repurposing strength. The man who threw him through a wall fought like someone who had drilled the same forms, under the same old voice, on the same worn mat.
-“Gor,” he said again.
-Thena stirred. Her eyes opened, unfocused at first, then sharpening.
-“You say something?” she asked.
-“Name,” Cassian said. “From before.”
-“The one who hit you?” she rasped.
-“Could be,” he said.
-“What is he?”
-Cassian’s answer was simple.
-“An oath that broke the wrong way.”
-Thena grimaced, adjusting her injured hand. “Can we kill him?”
-“Eventually,” Cassian said.
-“You sound very sure.”
-“I know how he was trained,” Cassian replied. “And what he wanted.”
-Thena studied his face. “What did he want?”
-“To beat me,” Cassian said. “Clean. On the mat. With the master watching.”
-“And now?”
-Cassian’s eyes were flat.
-“Now he wants to prove that whatever he became is worth what he destroyed.”
-They sat in silence for a few breaths.
-Outside, in corridors they couldn’t see, the Hive continued its quiet calculus. Somewhere else in the lanes, a man with a broken oath likely sharpened a blade in the rain.
-Cassian stretched his shoulders carefully, grimacing at the pull in his ribs.
-“When he comes again,” Thena said, “I won’t be pinned.”
-Cassian nodded. “Next time, we pick the ground.”
-“And after that?” she asked.
-Cassian thought of the dojo. Of the master’s voice. Of a younger Gor laughing through blood and sweat.
-“After that,” he said, “we see whose span really ended.”
-The safehouse hummed softly around them — not a refuge, just another place to catch their breath before the next move on a board that had been in play long before either of them realized.
-----
-The rain tasted wrong now.
-Too clean in some places. Too dirty in others. Recycled, filtered, reallocated. Nothing like the storms that used to roll over Almelah — wind hard enough to bend trees, sky split open with light, the smell of wet earth thick as smoke.
-Gor sat beneath a fractured overhang, sharpening a blade that never dulled. Hive alloy. Perfect metallurgy. It caught the dim light and threw it back in a thin, honest line.
-He drew the whetstone along the edge out of habit more than need.
+Cassian drew a slow breath.
+The picture was still incomplete, but the fragments held together now: Almelah, the dojo, the shared forms, the hunter who had hit him like a remembered lesson turned wrong.
+"Gor," he said again.
+Thena's eyes opened, unfocused at first, then hardening awake.
+"You say something?"
+"A name," Cassian said. "From before."
+"The one who hit you?"
+"Could be."
+"What is he?"
+Cassian's answer came without hesitation.
+"An oath that broke the wrong way."
+Thena grimaced as she adjusted her bandaged hand. "Can we kill him?"
+"Eventually."
+"You sound sure."
+"I know how he was trained," Cassian said. "And what he spent years trying to prove."
+Thena watched him. "What?"
+"That he could beat me clean. On the mat. With the master watching."
+"And now?"
+Cassian's face flattened.
+"Now he wants proof that what he became was worth what it cost."
+They sat with that for a moment.
+Somewhere beyond the cell, hidden in corridors they could not see, the Hive kept working through its quiet arithmetic. Somewhere in the lanes, Gor was still moving.
+Cassian rolled his shoulders carefully, testing the pull in his ribs.
+"When he comes again," Thena said, "I won't be pinned."
+Cassian nodded. "Next time we choose the ground."
+"And after that?"
+Cassian thought of the dojo. The master. Gor laughing through a split lip.
+"After that," he said, "we find out whose span really ended."
+---
+The rain tasted wrong now. Too clean in some places. Too chemical in others. Nothing like the storms that used to cross Almelah with enough force to bend trees.
+Gor sat beneath a broken overhang, drawing a whetstone along a blade that did not need it. Hive alloy. Perfect edge. The sharpening was habit, not maintenance.
 Behind his eyes, the dojo burned again.
-He saw the master’s face.
-He heard the words.
+He heard the master's voice.
 You surpassed him after all.
-He had not asked to surpass anyone that way.
-Cryo had stolen the years from him, sliced his life into clean segments — awake, kill, sleep, repeat. Time had turned from river to corridor: narrow, lit at intervals, silent when the door was closed.
-Only some memories slipped between cycles.
-Cassian’s name was one of them.
-Gor had watched the feed when the anomaly reappeared. The old designation. The flight record. The impossible survival. Cassian Rho, dragged out of a dead ship four centuries past his expiration date.
+He had not wanted that kind of victory.
+Cryo had cut his life into sealed segments: wake, kill, sleep, repeat. Time no longer moved like a river. It opened and closed like a corridor door.
+Only some memories crossed the gaps.
+Cassian's name was one of them.
+When the anomaly resurfaced in the feed, Gor had seen the old designation, the impossible survival, the man who had vanished and returned four centuries late.
 Soft, they said. Disoriented. A relic.
-Gor had felt something then. Not joy. Not anger.
+What Gor felt was not joy.
+Not anger.
 Permission.
-He slid the blade back into its sheath and rose, joints moving with the smooth precision of engineered tissue and disciplined muscle. The body was not young. It was ungiven: carved free of ordinary decay, suspended in defiance of the oath he once swore.
+He sheathed the blade and stood. Engineered tissue moved under disciplined muscle with the smoothness of something built to deny decay. The body was not young. It was exempt.
 Live your span.
 Die your span.
-He’d broken that.
-Now he enforced a different law.
+He had broken that.
+Now he served a harsher rule.
 Find the man who left.
 Measure him.
-Strip him of softness.
+Strip away the softness.
 See what remains.
-The rain intensified, drumming against metal.
-Gor stepped out into it, face lifted, eyes half-closed. For a heartbeat, he could almost smell Almelah in the downpour.
-Then the illusion passed.
+Rain drummed harder on metal.
+Gor stepped into it and lifted his face for a moment, almost catching the smell of Almelah beneath the recycled water.
+Then it was gone.
 He started walking.
-“Run while you still remember how,” he said under his breath, imagining Cassian’s ribs bruised, his stance ragged, his eyes still too alive.
-He smiled — a small, humorless thing.
-“I’ll be there at the end of your span,” Gor murmured. “Since I refused to keep my own.”
-And the rain swallowed his footsteps.
+"Run while you still remember how," he said under his breath.
+A small, humorless smile touched his mouth.
+"I'll be there at the end of your span," he murmured. "Since I refused to keep my own."
+The rain took his footsteps.

@@ -1,63 +1,44 @@
 Chapter 10 – Signal to Noise
-The path out of the blind zone wove through forgotten ducts and ruptured supply channels, a winding artery beneath Hive order—immune to scans, but not to betrayal.
-Cassian moved with caution. Every footfall was placed, every sound evaluated. Thena led with the confidence of someone born in the noise between signals. But even she didn’t notice the pattern shift.
-He did.
-A slight lag in ambient vibration. Echo anomalies. The kind you only notice when your nerves are tuned for war.
-“We’re being followed,” he said.
-Thena stopped mid-stride. She didn’t ask how he knew.
-“How many?”
-“Don’t know. But they’re good. Matching our pace, keeping distance. Could be scav squad with Hive uplinks.”
-She spat into the dust. “Cowards.”
-“They think they’re hunting.”
-Cassian scanned the corridor ahead—narrowed at the bend. Tight corners. Blind spots.
-Perfect.
-“Here,” he said. “We hold.”
-Thena arched an eyebrow.
-“You planning to bleed on them, or…?”
-Cassian gave a thin smile. “You’ll have to carry most of this. But I’ll handle the ones that make it close.”
-Thena cracked her knuckles. “Just try not to slow me down.”
+The route out of the blind zone wound through forgotten ducts and ruptured supply channels, an artery beneath Hive order hidden from scans but not from betrayal.
+Cassian moved carefully. Each footfall was placed. Each echo weighed. Thena led with the confidence of someone raised in the noise between signals.
+She missed the shift.
+He didn't.
+A faint hitch in the ambient vibration. A return echo arriving a fraction late. Someone behind them was matching pace and trying not to sound like it.
+"We're being followed," he said.
+Thena stopped mid-step. "How many?"
+"Don't know. More than one. Good discipline."
+"Scavs?"
+"Maybe. Maybe people with Hive money."
+She spat into the dust. "Cowards."
+"They think they're hunting."
+Cassian looked ahead. Corridor narrowed at the bend. Tight corners. Limited angles. Good place to make numbers irrelevant.
+"Here," he said. "We hold."
+Thena glanced at him. "You planning to win this, or just make them regret it?"
+A thin smile touched his mouth. "You'll handle most of it. I'll deal with whoever gets close."
+"Try not to die first."
 ---
-They came like wraiths—half Hive, half machine, wrapped in scavenged plating and distortion mesh. The trap snapped shut when Thena fired the first shot, dropping two before the rest registered the breach.
-The corridor lit with plasma arcs and ricochet bursts.
-Thena moved like a storm unbound—ducking, weaving, striking with surgical violence. Her sidearm barked fire, then vanished as she switched to a folding blade—hooking the throat of one attacker while snapping the wrist of another with a fluid twist.
-Three dropped in seconds. Then four. Then five.
-She was ruthless—a dance of momentum and death.
-But Cassian’s focus was elsewhere.
-He crouched beside a junction bulkhead when four shapes emerged from the far end—one carried a shock rod, another a spiker cannon too large for hall combat. The narrow space worked in his favor.
-No time to think.
-He exploded into motion.
-The first came in low—Cassian drove a knee up into the throat, twisted his body, and used the attacker’s own momentum to hurl him into the wall with a bone-splintering crunch.
-The second was faster—slash incoming.
-Cassian parried with his forearm, rotated inward, and landed three elbow strikes in quick succession—jaw, temple, neck. Then a hammerfist to the collarbone.
-The man dropped—but grabbed Cassian’s leg.
-Cassian fell hard.
-Pain tore through his ribs.
-The third attacker landed a heavy boot into his side, then brought the butt of a rifle down. Cassian rolled, barely avoiding the strike. His fingers closed on a discarded blade.
-He thrust upward. Under the ribcage.
-Blood sprayed.
-Two down.
-The fourth was already on him.
-A stun charge crackled near his temple—he ducked, twisted low, struck the knee. It buckled, but not fully.
-He was slower now. The third attacker staggered up—didn’t die like he should’ve.
-Cassian barely blocked the next hit. Then another. He was losing ground.
-He let himself fall back—bait.
-When the third lunged to finish him, Cassian pivoted under and used the wall to drive both feet into the attacker’s midsection. They flew backward into the fourth, collapsing in a tangle.
-Cassian didn’t stop.
-He surged forward—fist, elbow, knee—close-quarters reflex sequences burned into his nervous system.
-One went limp.
-The other fumbled a weapon.
-Cassian grabbed it.
-One shot.
-Final body dropped.
----
-Silence.
-Only the hum of spent energy charges and the low burn of his lungs.
+They came in distortion mesh and scavenged plates, bodies blurred at the edges by bad hardware. The trap closed the moment Thena fired. Her first shot dropped one. The second hit before the rest understood where the corridor had turned against them.
+Plasma lit the walls in hard blue pulses.
+Thena moved without wasted motion. Two shots, then the sidearm was gone and a folding blade flashed into her hand. She hooked one attacker across the throat, turned under a wild swing, and broke another wrist on the backswing.
+Three fell fast. Then a fourth.
+Cassian stayed low beside a junction bulkhead until four more shapes pushed through the far end. One carried a shock rod. Another had a spiker cannon too large for corridor work. Good. The space would punish them for it.
+He moved on the first committed step.
+The lead attacker came in low. Cassian drove a knee into the throat, turned with the impact, and sent the body hard into the wall.
+The second slashed high. Cassian caught the forearm, folded inside the angle, and drove elbow, elbow, hammerfist. Jaw. Temple. Collarbone.
+The man dropped, grabbed Cassian's leg, and dragged him off balance.
+Cassian hit metal hard. Pain tore through his ribs.
+A boot crashed into his side. The butt of a rifle came down after it. Cassian rolled, found a discarded blade, and drove it up beneath the attacker's ribcage.
+One less.
+The fourth was already on him. A stun charge snapped near his temple. Cassian ducked, chopped the knee, and bought half a second.
+Not enough.
+The attacker he'd stabbed staggered, but stayed upright. Wrong kind of pain tolerance. Wrong kind of chemistry.
+Cassian gave ground on purpose. When the wounded man lunged to finish it, Cassian dropped under the line, planted both feet against the wall, and drove himself straight through him. The collision took the fourth attacker with him.
+All three went down tangled.
+Cassian was on them before the pile settled. Fist. Elbow. Knee. No wasted range, no wasted thought. One body went limp. Another fumbled for a weapon.
+Cassian took it and fired once.
+The corridor went quiet except for the burn in his lungs.
 Then footsteps.
-Thena emerged, blade still dripping.
-She looked at the hallway, then at him.
-Cassian was on one knee, breathing hard, blood and sweat smearing his face.
-Thena didn’t speak.
-But the look in her eyes wasn’t just respect.
-It was fear.
-And awe.
-As if she'd just watched a man transform into something else—something dangerous, honed, and very nearly feral.
+Thena stepped back into view, blade wet and breathing steady. She looked at the bodies, then at Cassian on one knee with blood across his face.
+The look she gave him had changed.
+There was respect in it.
+And caution.

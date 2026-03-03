@@ -1,27 +1,28 @@
 Chapter 9 – Fractures in the Core
-Cassian came to with the taste of metal in his mouth and the sharp burn of sterilization gel seeping through wounds not yet closed. The light above him flickered erratically, casting angular shadows that twisted with every blink.
+Cassian came to with metal in his mouth and sterilization gel burning through wounds that were not finished closing. The light above him flickered in uneven pulses, cutting the room into hard angles every time he blinked.
 Not a cell. Not Hive standard. The air was warm, impure, alive.
-He groaned and rolled to one side, muscles shrieking in protest. Every breath tasted like rust.
-"You made it," a voice said. Female. Rough around the edges. It didn’t belong to Hive Earth.
-He blinked until her silhouette resolved. Leathers, makeshift armor, a patchwork of scavenged tech welded to worn gear. Her face was unreadable, except for the eyes—intelligent, suspicious, alive.
+He rolled onto one elbow. Muscle seized along his ribs. Every breath tasted like rust.
+"You made it," a woman's voice said. Rough around the edges. Not Hive.
+He blinked until her silhouette resolved. Leathers. Makeshift armor. Scavenged tech welded into worn gear. Her face gave away nothing except the eyes: alert, suspicious, fully awake.
 "You pulled me out."
-"You launched yourself through a ventilation ejection tube during a system update cycle. That’s not pulling you out. That’s you being very lucky."
-Cassian sat up with effort. The room was small, surrounded by sheeted metal and rusted hull plating. It looked like the belly of a forgotten ship. The hum of external power relays and coolant fans buzzed nearby.
+"You launched yourself through a maintenance shaft during a system update. I kept you from dying after. That's a different skill set."
+Cassian got himself upright in stages. The room was small, boxed in by sheet metal and rusted hull plating. It felt like the belly of a ship someone had stopped remembering. External relays hummed through the walls.
 "Where are we?"
-"Somewhere between grid sectors. Hive patrols don’t comb this deep. Too much noise. Too many blind zones."
+"Between grid sectors. Patrols don't sweep this deep unless something forces them. Too much noise. Too many blind spots."
 "You with the resistance?"
-She smirked. "If there was a resistance, you wouldn't be talking to me."
-He steadied himself against the wall. His balance was off. Three months of tests. Of pressure. Of her. Alyen.
-He swallowed the bitterness. "Why help me?"
-"Because I saw your name in a flagged system file the day the Spindle trembled. I was there, Cassian. I felt it. The grid lagged for 2.6 seconds. Nothing lags in the Hive. Not unless something bigger than protocol is involved."
-He met her eyes. "You knew me before?"
-"No. But I knew what you were. A warning that didn’t make it in time."
-Cassian looked down at his hands. Scars on top of newer scars. Something inside him still pulsed with urgency. He could almost hear the echo: stop the expansion.
+She gave him half a smile. "If there were a resistance, I wouldn't advertise."
+He steadied himself against the wall. Three months of tests. Pressure. Alyen's voice. The memory sat in his muscles.
+He swallowed it. "Why help me?"
+"Because your name hit a flagged system file the day the Spindle shuddered. I was there. I felt the grid stumble. Nothing in the Hive stumbles unless something bigger than protocol is leaning on it."
+"You knew me before?"
+"No. But I knew you mattered to someone powerful. And I knew the system wanted you sealed fast."
+Cassian looked down at his hands. Old scars. Newer ones laid over them. Under the pain, the same urgency still pulsed.
+Stop the expansion.
 "What now?"
-"You get stronger. Fast. Because they know you escaped, and they’ll come."
-He nodded slowly, jaw tight. There was no safety. Only motion. Only resistance.
-She extended a hand. "Name's Thena. The others will want to meet you."
-"Others?"
-"Two more like you. Different stories. Same nightmare. We don't know what happened to you, but we all came back different. And not one of us trusts the Hive."
-Cassian stood, legs shaking.
-"Then let's get moving."
+"You get stronger. Fast. Because they know you got out, and when they come down here they won't come politely."
+He nodded once. There was no safety in what she'd said. Only motion.
+She held out a hand. "Thena. People in these lanes will want to know whether dragging you in was worth the risk."
+"People?"
+"Contacts. Neighbors. Survivors. Don't make them into anything grander than that."
+Cassian got his feet under him. His legs shook, but they held.
+"Then let's move before your hospitality expires."
