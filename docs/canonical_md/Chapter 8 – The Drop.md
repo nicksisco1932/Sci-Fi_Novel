@@ -1,60 +1,58 @@
 Chapter 8 – The Drop
 Cassian couldn’t breathe.
-The tube wasn’t just a shaft—it was a wind tunnel designed for maintenance drones, not human bodies. The air screamed around him, clawing at every inch of his skin, trying to force him backward. He tucked tight, arms close, body aerodynamic, but it wasn’t enough. He was accelerating in the wrong direction, sliding into the artificial gale with no end in sight.
-He caught flashes—cabling, fan blades, pressure valves. He wasn’t supposed to be here.
+The tube wasn’t just a shaft—it was a wind tunnel designed for maintenance drones, not human bodies. Air hammered through it with engineered force, clawing at every inch of him, trying to pin him backward even as it dragged him deeper. He tucked tight, arms close, body streamlined, but it wasn’t enough. Direction meant nothing in the violence of it. He was accelerating the wrong way with no way to stop.
+He caught flashes—cabling, fan blades, pressure valves. Nothing sized for a man. Nothing meant to forgive one.
 Then—
 A flicker ahead. An opening. A rectangular void in the left wall. Deliberately cut. Deliberately left open.
 Cassian had seconds.
-The airflow shoved at him, roaring in his ears.
-He flared his body sideways. The force ripped at his joints. The opening came too fast.
+The airflow slammed him sideways, roaring in his ears.
+He flared his body against it. The force ripped at his joints. The opening came too fast to judge cleanly.
 He twisted. Kicked.
 Slammed into the edge of the breach.
 His ribs shrieked. His shoulder crunched. Something tore.
 But he was out.
-He tumbled into darkness, bounced once, then slammed against metal. Pain exploded down his spine.
+He tumbled into darkness, bounced once, then struck metal hard enough to light his spine on fire.
 And then—
 Nothing.
 ---
-Flashes. Memory or dream?
-Cassian stood in combat stance. Oxygen thin. Gravity light. His feet skidded across powdered ash.
-Across from him: an eight-foot-tall figure—lanky, coiled, bipedal. No face. No armor. Just pale gray skin stretched over long limbs, humanoid but not. Not quite.
+Memory crashed back with the impact.
+Cassian stood in combat stance. Oxygen thin. Gravity light. Powdered ash shifted under his boots.
+Across from him: an eight-foot-tall figure—lanky, coiled, bipedal. No face. No armor. Just pale gray skin drawn tight over long limbs, humanoid but not. Not quite.
 It moved.
-Cassian moved faster.
-He ducked under the first swing, pivoted around a second. Elbow strike to the side of its torso. Low kick to its knee. He followed with a heel-turn and hammerfist across the neck.
-The thing absorbed the blows.
-Cassian pressed the advantage.
-He dropped into a spinning low sweep, catching the creature mid-step. Its legs gave for half a second—enough. He followed with a rising knee and palm-strike that would’ve cracked a normal sternum.
+Cassian moved first.
+He slipped under the opening swing, pivoted around a second, drove an elbow into its side. Low kick to the knee. Heel-turn. Hammerfist across where a neck should have been.
+The thing took it.
+Cassian pressed. Sweep. Knee. Palm-strike that would have caved a normal sternum.
 Still the thing didn’t fall.
-Cassian shifted tactics.
-He danced back, baited it forward, then moved in with marine-close quarters: three quick jabs, a feint left, and a shoulder drive that drove the creature into a stone pillar. He twisted behind it, wrapped an arm around its throat, and slammed it downward.
-Dust exploded.
-The thing was still.
+Cassian changed angles. Baited it forward. Closed hard. Three quick jabs, a feint left, a shoulder drive that slammed it into a stone pillar. He twisted behind it, locked an arm across its throat, and drove it down into the ash.
+Dust burst.
+The thing lay still.
 Cassian backed off.
 Waited.
-It stood up slowly. No limp. No hesitation.
-And then—it began to move with new intent.
-Faster. Smoother.
+It rose without hurry. No limp. No hesitation.
+Then it changed.
+Faster. Cleaner. As if the exchange had taught it something.
 Cassian barely registered the shift before the flurry began.
-An open-palm strike nearly dislocated his jaw. A reverse step smashed into his side. A sweeping leg hit his knee and dropped him just enough for a spinning elbow to slam into his shoulder.
+An open-palm strike snapped his head sideways. A reverse step crushed his ribs. A sweeping leg clipped his knee and dropped him just enough for a spinning elbow to hammer his shoulder.
 He staggered.
-It didn’t stop.
-Cassian parried three, four strikes, but the fifth clipped his temple. He twisted into a counter—but it read him. It anticipated.
-It was done holding back.
-Cassian stepped into his own instincts. Helion training, edge-of-space boarding maneuvers—he used it all.
-Grapples. Throws. Dirty tricks. Finger strikes to nerves. Nothing landed hard enough.
+It kept coming.
+Cassian parried three blows, four, then the fifth clipped his temple. He turned into a counter—
+Too late. It was reading him now.
+It was done testing.
+Cassian reached for everything he had. Helion training. Boarding drills. Improvised violence. Grapples. Throws. Finger strikes to nerves and joints. Nothing landed hard enough. Nothing slowed it for long.
 The creature’s final strike lifted him into the air.
 And hurled him off the cliff.
-He struck branches on the way down. Rolled. Bounced. Blood blurred vision.
+He tore through branches on the way down. Rolled. Bounced. Came to in blood and dirt and sky.
 Then—
 A drone. Humming low. Floating beside him. His ship’s insignia burned across its chassis.
 > "Recovery sequence initiated. Stay conscious."
-He limped. Dragged himself through alien ferns, under violet trees. The planet was alive with sound. Distant hums. Electric pulses.
-He reached the overlook. Looked back toward the cliff he fell from.
+He dragged himself through alien ferns beneath violet trees. The planet throbbed with sound—distant hums, electrical pulses, something vast moving just beyond comprehension.
+He reached an overlook and looked back toward the cliff.
 They were there.
 Thousands of them. Lined along the ridgeline.
 Silent.
 And in unison—
-Their minds projected into his.
+Their minds touched his.
 > "Stop the expansion."
-The words weren’t heard.
-They were felt.
+The words bypassed hearing.
+They landed whole.
