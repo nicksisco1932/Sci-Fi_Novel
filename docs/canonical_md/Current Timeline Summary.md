@@ -24,24 +24,27 @@ A powerful hunter enters the story and turns the chase personal. Thena is wounde
 Ch. 16:
 Cassian and Thena abandon the false safety of the off-grid safehouse and move deeper into the Lower Grid. Anonymous aid becomes harder to dismiss when dead infrastructure wakes around them, times their escape, and vectors them toward a prepared route without revealing its source.
 
+Ch. 17:
+On the far side of the bridge, Cassian and Thena enter a prepared relay station where the hidden source begins an unmistakable two-way exchange through terminals and staged supplies. The contact proves it can outplay Hive pursuit, identifies a clinic tracker, and presses Cassian for the exact warning that surfaced in his memory.
+
 ---
 Shadow Narrative (Unfolding):
 The Reversionist is still a chipped human joined to an evolved analytical AI remnant, the same intelligence line that once tried to warn Cassian before the jump.
-She remains hidden. Her aid reaches Cassian through sabotage, infrastructure, signals, and intermediaries rather than direct introduction.
+She remains hidden. Her aid now includes direct terminal contact, but still no physical reveal.
 Gor's shadow narrative now runs in parallel: a man who chose survival through augmentation and became the instrument of the system that broke his world.
 
 ---
 Story Energy Right Now:
 Cassian is alive, wounded, and moving through blind zones with limited help.
 Thena is a practical ally, but not a full explanation.
-The Reversionist is still hidden, but the indirect aid is becoming operationally explicit.
+The Reversionist is still hidden, but the contact has become conversational and impossible to dismiss.
 Korin remains analytical; Alyen is escalating.
 Gor has entered the board as a personal hunter tied to Cassian's pre-jump life.
-The tension is now survival + guidance + moral history: who is moving Cassian through the dark, what followed him back, and what old debt has come to collect.
+The tension is now survival + contact + moral history: who is guiding Cassian, what intelligence warned him before the jump, and what old debt has come to collect.
 
 ---
 Next Options:
-1. Cassian and Thena follow the prepared route and discover what kind of refuge or trap waits at the end of it.
-2. Stronger Reversionist contact, still indirect, but now unmistakably intentional.
+1. Cassian and Thena follow the west descent toward the next prepared threshold and test how much this hidden source actually controls.
+2. Cassian decides how much to tell the hidden contact about the anomaly warning and his resurfacing memories.
 3. Korin and Alyen diverge further over how to recover or kill Cassian.
 4. Gor's present-day hunt and Almelah's fall continue to unfold in parallel.
