@@ -30,7 +30,7 @@ Not anymore.
 Harmony had promised unity once: shared cognition, layered intention, optimized governance. That promise still held in places like Spindle 1, the Arkline Arcologies, and the Equatorial Core Belts. There the Hive felt seamless. Uplinks held. Services arrived. Compliance could still pass for culture.
 Farther out, the weave broke.
 Spindle 22. Spindle 31. The Polar Grids. Places the algorithms had learned to treat as acceptable loss.
-Healthcare failed when identities stopped syncing. Ambulance drones rerouted mid-flight toward higher-tier citizens. Food allocation stalled on dead uplinks. Translation overlays collapsed, and whole districts slipped into hybrid dialects the Consensus no longer bothered to parse.
+Healthcare failed when identities stopped syncing. Ambulance drones rerouted mid-flight toward higher-tier citizens. Food allocation stalled on dead uplinks. Translation overlays collapsed, and whole districts slipped into hybrid dialects the Consensus no longer bothered to understand.
 Terminals went dark in buildings no one repaired. People learned checkpoint rituals like inherited superstition: where to stand, how to speak, how still to keep their hands.
 They were not rebels.
 They were what was left over.

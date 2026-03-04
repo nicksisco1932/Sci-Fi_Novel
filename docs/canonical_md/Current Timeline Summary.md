@@ -21,6 +21,9 @@ Korin and Alyen pursue from above while the Reversionist remains unseen, influen
 Ch. 13-15:
 A powerful hunter enters the story and turns the chase personal. Thena is wounded. Cassian later identifies the hunter as Gor of Almelah, a warrior from his past who broke his people's oath, entered Hive service, and became a cryo-extended weapon. The conflict widens from escape and mystery into history, judgment, and unfinished rivalry.
 
+Ch. 16:
+Cassian and Thena abandon the false safety of the off-grid safehouse and move deeper into the Lower Grid. Anonymous aid becomes harder to dismiss when dead infrastructure wakes around them, times their escape, and vectors them toward a prepared route without revealing its source.
+
 ---
 Shadow Narrative (Unfolding):
 The Reversionist is still a chipped human joined to an evolved analytical AI remnant, the same intelligence line that once tried to warn Cassian before the jump.
@@ -31,14 +34,14 @@ Gor's shadow narrative now runs in parallel: a man who chose survival through au
 Story Energy Right Now:
 Cassian is alive, wounded, and moving through blind zones with limited help.
 Thena is a practical ally, but not a full explanation.
-The Reversionist is still hidden, indirect, and increasingly important.
+The Reversionist is still hidden, but the indirect aid is becoming operationally explicit.
 Korin remains analytical; Alyen is escalating.
 Gor has entered the board as a personal hunter tied to Cassian's pre-jump life.
-The tension is now survival + mystery + moral history: who is helping Cassian, what followed him back, and what old debt has come to collect.
+The tension is now survival + guidance + moral history: who is moving Cassian through the dark, what followed him back, and what old debt has come to collect.
 
 ---
 Next Options:
-1. Cassian and Thena push deeper through the Lower Grid while pressure closes in from both Hive pursuit and Gor's hunt.
-2. First stronger Reversionist contact, still indirect, but less deniable.
+1. Cassian and Thena follow the prepared route and discover what kind of refuge or trap waits at the end of it.
+2. Stronger Reversionist contact, still indirect, but now unmistakably intentional.
 3. Korin and Alyen diverge further over how to recover or kill Cassian.
 4. Gor's present-day hunt and Almelah's fall continue to unfold in parallel.
