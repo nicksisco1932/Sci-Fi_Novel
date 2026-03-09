@@ -15,7 +15,7 @@ His legs surged beneath him.
 In one motion he spun, grabbed the nearest figure, and slammed them against the bulkhead with an elbow to the throat. His other arm snapped up, blade pressed hard against the second attendant’s neck before their hands even twitched.
 They froze. One gurgled in surprise, pinned by the throat. The other stood stock-still, eyes wide behind a sterile visor.
 Everything was bright. Too bright.
-Cassian’s vision swam—cold metal, silver white, blinking status lights.
+Cassian’s vision swam—cold metal, silver white, blinking status lights. Every surface was rounded where it could be, easy to clean, hard to catch on. Even the tray slots were aligned with machine precision.
 Clean-room silence. Burial-vault silence.
 Pulse thundering. Grip trembling.
 Knife weight. Real. Wrong.
@@ -32,7 +32,7 @@ Meaning arrived in fragments.
 “We were trying to insert a linguistic interface,” the attendant added carefully, voice now fully translated. “To help you understand. You reacted… instinctively.”
 Cassian blinked again.
 They weren’t fighting back.
-No one closed distance.
+No one closed distance. The room’s monitors had shifted from white to a muted amber, as if even the alarms here had been taught not to sound confrontational.
 He stepped back, body still tense, the blade now shaking in his grip.
 “Where am I?” he asked. His voice cracked like a rusted hinge.
 The attendants remained still. The monitor shrieked with his heart rate, but no one moved to subdue him.

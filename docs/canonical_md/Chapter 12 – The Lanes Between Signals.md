@@ -8,8 +8,8 @@ The stairwell ended at a single sliding door.
 Its panel sparked when Thena forced it open.
 Beyond lay the Lower Grid.
 Dim. Dense. Alive.
-The ceiling hung low beneath scavenged plates. Biolum strips sputtered at uneven intervals, painting the thoroughfare in weak green. The air smelled of ozone, frying starch, old coolant. Voices moved through the static of broken comm units.
-Cassian stepped forward. Adults in patched clothing moved around him without staring. Children darted between them with toys made from dead drone parts. No one hurried. No one wasted motion.
+Cassian saw hand-painted arrows layered over dead wayfinding glyphs, warnings rewritten so many times the wall looked skinned. The ceiling hung low beneath scavenged plates. Biolum strips sputtered at uneven intervals, painting the thoroughfare in weak green. The air smelled of ozone, frying starch, old coolant. Voices moved through the static of broken comm units.
+Cassian stepped forward. Adults in patched clothing moved around him without staring. Children darted between them with toys made from dead drone parts. No one hurried. No one wasted motion. At one doorway, a woman scraped oxidation off a relay contact with a sewing needle while a kettle hissed on a coil burner beside her boot. Across from her, three cups waited under a condensate pipe as if they had been standing in line longer than the people.
 Life had not stopped here.
 It had simply been left to solve itself.
 Thena nudged him once. "Stay sharp. Strangers get noticed."
@@ -46,10 +46,10 @@ This zone had not been deprioritized.
 It had been abandoned.
 Sound thickened ahead.
 When they stepped through the last arch, a market spilled out under a dead skylight.
-Reclaimed circuits on stained cloth. A gutted security drone spread across a workbench. Children arguing over a broken projector core in dialects that slid between old Earth languages and corrupted Consensus code. Food frying over an improvised burner built from incinerator coils.
+Reclaimed circuits on stained cloth. A gutted security drone spread across a workbench. Children arguing over a broken projector core in dialects that slid between old Earth languages and corrupted Consensus code. Food frying over an improvised burner built from incinerator coils. A repairer weighed capacitors against hand-cut metal slugs on a balance scale because nothing electronic here could be trusted to stay honest.
 "Don't browse," Thena said. "People here sell what they need to keep."
 Cassian nodded, but his attention was already on the structure underneath the mess.
-The plaza still ran on habits the system had taught it. People queued at dead terminals. Hands rose in old scan gestures. They waited for lights that never came.
+The plaza still ran on habits the system had taught it. People queued at dead terminals. Hands rose in old scan gestures. They waited for lights that never came. A vendor slapped two knuckles against a crate before passing a wrapped ration strip across it; the buyer answered with the same tap before taking it. Not payment. Confirmation. Nothing changed hands here without someone acknowledging the risk.
 A boy tugged at his mother's sleeve and pointed to a payment node that kept rejecting her ration chip.
 "Try again," she whispered.
 She guided his hand into the gesture. Fingers open. Palm up. Eyes forward.

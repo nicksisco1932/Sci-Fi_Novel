@@ -16,6 +16,11 @@ At this stage, the editorial work is to:
 - Supporting character references: relevant files in `docs/canonical_md/`
 - Non-authoritative artifact: `main.tex`
 
+## Early Chapter Source Selection
+- Use `docs/canonical_md/chap01.md`, `docs/canonical_md/chap02.md`, and `docs/canonical_md/chap03.md` as the active opening-chapter source.
+- Treat `docs/canonical_md/Chapter 1 – Scene 1- The Return.md` as a superseded composite snapshot.
+- Do not edit the composite file unless the task is explicitly to reconcile or consolidate the early chapters into a new canonical form.
+
 ## Per-Chapter Process
 1. Read `AGENTS.md`.
 2. Read `docs/lore_registry.md`.

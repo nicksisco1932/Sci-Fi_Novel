@@ -1,5 +1,5 @@
 Chapter 5 – The Opening Move
-Korin didn’t move as Cassian stepped into the room. He simply turned his body slightly, making space—not retreating, merely assigning it—as if they were both guests at a private gathering no one had been invited to.
+Korin didn’t move as Cassian stepped into the room. He simply turned his body slightly, making space—not retreating, merely assigning it—as if they were both guests at a private gathering no one had been invited to. The room had already adjusted around him: light muted, terminal dimmed, every surface reduced to what a conversation of this rank was supposed to require.
 Cassian said nothing. He stood just inside the door, shoulders loose, weight balanced with care, gaze steady.
 Korin’s voice was warm. Polished. A practiced neutrality draped in charm.
 “It’s good to see you up, Mr. Rho. You’re recovering faster than projected.”
@@ -30,7 +30,7 @@ A board had been placed between them.
 And the first move had just been made.
 ---
 Korin let the silence do its work a moment longer before he broke it. “Very well,” he said smoothly. “Let’s put some cards on the table.”
-He took a slow step toward the room’s terminal and woke a subdued schematic in mid-air. He watched Cassian as much as the display.
+He took a slow step toward the room’s terminal and woke a subdued schematic in mid-air. Even the projection had been tuned for restraint: low contrast, muted color, nothing that could be accused of aggression. He watched Cassian as much as the display.
 “You are in Hive Spindle 9. Southern hemisphere. Earth is no longer a single geopolitical entity, but rather a unified cognitive mesh governed by layered consensus and infrastructure. The current cycle is standard year 2416. You’ve been missing for just over four centuries.”
 Cassian didn’t respond. His posture remained still, but his jaw tightened once.
 Korin tapped the display again.

@@ -2,9 +2,9 @@ Chapter 4 – The Walk
 Cassian’s legs ached, but they obeyed. Mostly.
 He kept his pace even anyway, refusing to favor the weakness in one hip unless the turn demanded it.
 The rehabilitation ward of Hive Spindle 9 was sterile, but not cold—engineered to appear tranquil, soothing. Pale moss-colored light glowed from the walls. The air carried a faint botanical note under the antiseptic. Synthetic sunlight streamed through simulated skylights that adapted to his biorhythm, too even to feel like weather. Someone had tried to make it feel like Earth used to. It didn’t work.
-He took slow, measured steps down the corridor, past observation panels and sealed med-chambers. An attendant nodded politely, monitoring him from a respectful distance, never close enough to touch him and never far enough to disappear.
+He took slow, measured steps down the corridor, past observation panels and sealed med-chambers. Doors opened before anyone reached them and closed without a sound once they passed. Somewhere ahead, soft chimes marked a medication interval, followed by the low murmur of staff voices trained never to rise. An attendant nodded politely, monitoring him from a respectful distance, never close enough to touch him and never far enough to disappear.
 Cassian nodded back. “Just stretching,” he said softly, voice low. Still hoarse.
-It felt good to move. Better still were the few seconds at a time when no one was within arm’s reach to guide, steady, or redirect him. Even at this pace, the walk took more out of him than he let the attendant see. The halls were too perfect. Too quiet.
+It felt good to move. Better still were the few seconds at a time when no one was within arm’s reach to guide, steady, or redirect him. Even at this pace, the walk took more out of him than he let the attendant see. The halls were too perfect. Too quiet. Even recovery here had a cadence, a managed politeness meant to keep bodies compliant without ever admitting that was the point.
 By the time he returned to his room, something in him had settled into a workable rhythm.
 Then a small wrongness caught at the edge of it.
 He registered the angle before he named the threat.
