@@ -13,7 +13,7 @@ At this stage, the editorial work is to:
 - Primary working draft: `docs/canonical_md/`
 - Continuity reference: `docs/lore_registry.md`
 - Timeline reference: `docs/canonical_md/Current Timeline Summary.md`
-- Supporting character references: relevant files in `docs/canonical_md/`
+- Supporting character references: relevant files in `docs/character_dossiers/`
 - Non-authoritative LaTeX artifact: `Legacy/latex_artifacts/main_artifact_snapshot.tex`
 
 ## Opening Chapter Source Selection
@@ -26,7 +26,7 @@ At this stage, the editorial work is to:
 2. Read `docs/lore_registry.md`.
 3. Read `docs/canonical_md/Current Timeline Summary.md`.
 4. Read the target chapter in `docs/canonical_md/`.
-5. Read any relevant character or world reference files if the scene depends on them.
+5. Read any relevant character or world reference files, including `docs/character_dossiers/`, if the scene depends on them.
 6. Apply surgical prose edits that improve humanity, clarity, and specificity without changing lore or intent.
 7. Update `docs/lore_registry.md` first if a proper noun or lore detail must change.
 8. If an edit would break continuity, stop and issue a `Continuity Alert` instead of forcing the change.
