@@ -21,6 +21,7 @@ At this stage, the editorial work is to:
 - Treat `Legacy/canonical_md_superseded/Chapter 1 – Scene 1- The Return.md` as a superseded composite snapshot.
 - Do not edit the composite snapshot unless the task is explicitly to reconcile or consolidate the early chapters into a new canonical form.
 - Treat chapter filenames as chapter titles; active chapter markdown files should begin directly with prose rather than duplicating the title as an inline heading or plain first line.
+- Keep chapter prose as blank-line-separated Markdown paragraphs so Obsidian renders each paragraph as its own block.
 
 ## Per-Chapter Process
 1. Read `AGENTS.md`.

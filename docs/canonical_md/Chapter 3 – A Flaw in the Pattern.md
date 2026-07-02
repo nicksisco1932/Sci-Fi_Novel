@@ -1,4 +1,5 @@
 An alert tone cut through the office.
+
 It lasted less than a second.
 
 Beyond the glass wall, the Hive moved as one structure. Elevation rails carried residents between stacked districts in steady cadence. Windows aligned in disciplined rows along white towers, lit in uniform bands. Heat rose through spindle crowns. Light held to schedule across every tier. Far below, pedestrians stopped at crossing prompts before the guidance tone even sounded, then resumed in the same measured flow when the lane shifted green.
@@ -14,7 +15,9 @@ The interface resolved into clean notation: *Unscheduled biological signature. T
 Korin read it once. Then again.
 
 "Patch me to Spindle 9 oversight," he said, voice barely above a whisper.
+
 A moment's pause, then the air responded. *"Connection established. Field reports in compression. A subject has been sedated. No casualties."*
+
 “No casualties,” he repeated under his breath, jaw tightening. “How comforting.”
 
 He turned from the glass. The floor adjusted traction to his gait. A wall display dimmed itself as he passed, yielding visual priority without needing the command spoken aloud.
@@ -24,6 +27,7 @@ A flaw meant review. A flaw meant recalibration.
 He had helped architect this Hive phase to remove friction from decision flow. Now a source from before Harmony had breached atmosphere and entered system records alive.
 
 "I want full telemetry. Everything from breach to sedation. Neural scans. Language overlays. Real-time biometrics."
+
 *"Understood. Packet en route. Estimated decode time: sixteen seconds."*
 
 Sixteen seconds was inexcusable.
