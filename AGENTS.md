@@ -7,9 +7,9 @@ Improve clarity, pacing, and voice while preserving plot, lore, and character in
 - Treat `docs/canonical_md/` as the active source for chapter-by-chapter narrative refinement.
 - At this stage, the job is to make each chapter read more human, expand selectively where clarity, tension, or character depth need it, and sharpen concrete detail while preserving canon and continuity.
 - Use the continuity files and relevant character material before changing narrative content.
-- Treat `main.tex` as an artifact snapshot, not the working source of truth.
-- Do not edit `main.tex` unless explicitly asked to synchronize or export the canonical markdown drafts into LaTeX.
-- If `main.tex` and `docs/canonical_md/` differ, edit `docs/canonical_md/` and note that LaTeX sync is pending.
+- Treat archived LaTeX files under `Legacy/latex_artifacts/` as artifact snapshots, not the working source of truth.
+- Do not edit or recreate a LaTeX export unless explicitly asked to synchronize or export the canonical markdown drafts into LaTeX.
+- If archived LaTeX and `docs/canonical_md/` differ, edit `docs/canonical_md/` and note that LaTeX sync is pending.
 
 ## Non-Negotiables
 - Do not change proper nouns, timeline facts, or established lore unless explicitly asked.

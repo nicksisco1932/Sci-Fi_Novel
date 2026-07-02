@@ -14,12 +14,12 @@ At this stage, the editorial work is to:
 - Continuity reference: `docs/lore_registry.md`
 - Timeline reference: `docs/canonical_md/Current Timeline Summary.md`
 - Supporting character references: relevant files in `docs/canonical_md/`
-- Non-authoritative artifact: `main.tex`
+- Non-authoritative LaTeX artifact: `Legacy/latex_artifacts/main_artifact_snapshot.tex`
 
-## Early Chapter Source Selection
-- Use `docs/canonical_md/chap01.md`, `docs/canonical_md/chap02.md`, and `docs/canonical_md/chap03.md` as the active opening-chapter source.
-- Treat `docs/canonical_md/Chapter 1 – Scene 1- The Return.md` as a superseded composite snapshot.
-- Do not edit the composite file unless the task is explicitly to reconcile or consolidate the early chapters into a new canonical form.
+## Opening Chapter Source Selection
+- Use `docs/canonical_md/Chapter 1 – The Return.md`, `docs/canonical_md/Chapter 2 – Before the Jump.md`, and `docs/canonical_md/Chapter 3 – A Flaw in the Pattern.md` as the active opening-chapter source.
+- Treat `Legacy/canonical_md_superseded/Chapter 1 – Scene 1- The Return.md` as a superseded composite snapshot.
+- Do not edit the composite snapshot unless the task is explicitly to reconcile or consolidate the early chapters into a new canonical form.
 
 ## Per-Chapter Process
 1. Read `AGENTS.md`.
@@ -30,10 +30,10 @@ At this stage, the editorial work is to:
 6. Apply surgical prose edits that improve humanity, clarity, and specificity without changing lore or intent.
 7. Update `docs/lore_registry.md` first if a proper noun or lore detail must change.
 8. If an edit would break continuity, stop and issue a `Continuity Alert` instead of forcing the change.
-9. Leave `main.tex` alone unless the task is specifically to sync or export the canonical markdown back into LaTeX.
+9. Leave archived LaTeX artifacts alone unless the task is specifically to sync or export the canonical markdown back into LaTeX.
 
-## `main.tex` Status
-`main.tex` is currently a manuscript artifact, not the active prose source.
+## Archived LaTeX Status
+`Legacy/latex_artifacts/main_artifact_snapshot.tex` is currently a manuscript artifact, not the active prose source.
 
 For now:
 - keep it as a reference or compilation snapshot if it is still useful
@@ -42,5 +42,4 @@ For now:
 - treat any future markdown-to-LaTeX reconciliation as a separate sync pass
 
 ## Practical Rule
-If the same chapter exists in both `docs/canonical_md/` and `main.tex`, edit the markdown chapter unless the task explicitly says to update LaTeX.
-
+If the same chapter exists in both `docs/canonical_md/` and an archived LaTeX artifact, edit the markdown chapter unless the task explicitly says to update LaTeX.

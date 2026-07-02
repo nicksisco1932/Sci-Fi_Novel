@@ -1,12 +1,12 @@
 ## Chapter 2 – Before the Jump
 The sky over Earth was blue that day.
 Cassian sat on the edge of the launch pad’s pre-departure station, legs dangling over the polished composite ledge, watching clouds drift over the Pacific Array. Launch towers stood in the distance against the curve of Earth. Sunlight broke on the ocean in gold and platinum.
-He took a long breath. The air was sharp with salt.
+Below the station, visitors lined the far observation rail behind smart glass, held back at a distance ceremonial enough to pass for safety. Every time a readiness tone rolled across the Array, conversation thinned for a beat, then resumed. He took a long breath. The air was sharp with salt.
 A technician approached from behind, eyes hidden behind dark sunglasses.
 “You're cleared for Phase 3 induction,” she said. “Vitals are optimal. Neural mesh is stable. You’ll be the farthest-traveled human in history, Cass.”
 He smirked, brushing his palm across the synthweave of his uniform; the contact raised a faint ripple along his skin. “Only if I come back.”
 “You will,” she said. “You’re too damn stubborn not to.” He exhaled through his nose.
-They walked toward the transfer pod. Engineers moved around them with quiet launch urgency. Each person had a task. A few paused for him—salute, nod—then returned to their stations.
+They walked toward the transfer pod. Engineers moved around them with quiet launch urgency. Each person had a task. A few paused for him—salute, nod—then returned to their stations. One ground tech reached out as he passed and touched two fingers to the hull spine beside the access ladder, old superstition hidden inside routine.
 As he climbed into the acceleration cradle, the AI began system startup. The cockpit dimmed; lights pulsed in concentric rings around his vision.
 > "Cassian Rho. Helion-class scout vessel online. Initiate interface check."
 > "Confirmed," he replied. "Execute primary calibration."

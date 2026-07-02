@@ -36,6 +36,9 @@ Cassian and Thena arrive below the mapped Hive in a buried undercity where no sy
 Ch. 20:
 Cassian and Thena make first contact with a below-the-map enclave that survives on human protocol, manual checks, and distrust of anything system-touched. The enclave admits them provisionally, but the encounter turns immediately when a local watcher is reported missing and Cassian becomes a suspect rather than a guest.
 
+Ch. 21:
+Interrogation inside the enclave turns transactional when evidence from the missing watcher points away from Hive procedure and toward a personal hunter testing the perimeter by hand. Cassian's read of the threat buys only conditional shelter: he and Thena will help trace the disappearance under watch while the enclave decides whether his value outweighs the risk.
+
 ---
 Shadow Narrative (Unfolding):
 The Reversionist is still a chipped human joined to an evolved analytical AI remnant, the same intelligence line that once tried to warn Cassian before the jump.
@@ -44,16 +47,16 @@ Gor's shadow narrative now runs in parallel: a man who chose survival through au
 
 ---
 Story Energy Right Now:
-Cassian is alive, wounded, and moving through blind zones with limited help.
+Cassian is alive, wounded, and inside human terrain that will use him before it trusts him.
 Thena is a practical ally, but not a full explanation, and her credibility below the map is limited.
 The Reversionist is still hidden, the contact is undeniable, and its limits are now operationally decisive.
 Korin remains analytical; Alyen is escalating.
-Gor has entered the board as a personal hunter tied to Cassian's pre-jump life.
-The tension is now survival + suspicion + moral history: whether human terrain will shelter Cassian or reject him, what warned him before the jump, and whether Gor can predict him better than the Hive ever could.
+Gor has entered the board as a personal hunter tied to Cassian's pre-jump life and is now pressing at the enclave's edge.
+The tension is now survival + conditional shelter + moral history: whether Cassian can make himself useful before he makes himself intolerable, what warned him before the jump, and whether Gor can turn personal knowledge into access.
 
 ---
 Next Options:
-1. Cassian and Thena try to survive interrogation inside the enclave without exposing too much about the anomaly or the hidden contact.
-2. Gor reads Cassian's choices and closes distance without needing the Hive's network support.
+1. Cassian and Thena go under watch to the runoff cut and try to read what happened to the missing watcher before Gor reads them first.
+2. Gor keeps testing below-the-map human protocol instead of Hive infrastructure, forcing the enclave to adapt to a different kind of pursuit.
 3. Korin and Alyen diverge further over how to recover or kill Cassian.
 4. Gor's present-day hunt and Almelah's fall continue to unfold in parallel.
