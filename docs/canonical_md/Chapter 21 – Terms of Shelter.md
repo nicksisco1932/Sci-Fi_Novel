@@ -1,4 +1,3 @@
-Chapter 21 – Terms of Shelter
 The newcomer laid the rain-dark coat across the table with both hands, careful not to smear what was already on it.
 
 Water.

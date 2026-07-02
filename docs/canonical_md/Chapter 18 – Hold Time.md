@@ -1,4 +1,3 @@
-Chapter 18 – Hold Time
 The west descent dropped at a steady grade, too steep for comfort and too clean to be natural.
 Thin guide strips burned along the floor ahead of them, waking only when they approached and dying again behind them. The corridor walls sweated mineral runoff. Beneath that smell sat something older: machine oil gone cold, wiring cooked once and left to remember it.
 

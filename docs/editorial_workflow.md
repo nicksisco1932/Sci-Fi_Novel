@@ -20,6 +20,7 @@ At this stage, the editorial work is to:
 - Use `docs/canonical_md/Chapter 1 – The Return.md`, `docs/canonical_md/Chapter 2 – Before the Jump.md`, and `docs/canonical_md/Chapter 3 – A Flaw in the Pattern.md` as the active opening-chapter source.
 - Treat `Legacy/canonical_md_superseded/Chapter 1 – Scene 1- The Return.md` as a superseded composite snapshot.
 - Do not edit the composite snapshot unless the task is explicitly to reconcile or consolidate the early chapters into a new canonical form.
+- Treat chapter filenames as chapter titles; active chapter markdown files should begin directly with prose rather than duplicating the title as an inline heading or plain first line.
 
 ## Per-Chapter Process
 1. Read `AGENTS.md`.

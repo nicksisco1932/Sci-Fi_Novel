@@ -1,4 +1,3 @@
-## Chapter 1 – The Return
 Beeping.
 Steady, mechanical.
 Too clean. Too precise.
@@ -10,7 +9,7 @@ A soft hiss. Footsteps.
 Then—something touched his ear.
 Instinct spiked.
 He moved before thought.
-His eyes flashed open. His right hand shot out, snatching the \*\*knife\*\* beside a tray—gleaming, innocuous, meant for food.
+His eyes flashed open. His right hand shot out, snatching the **knife** beside a tray—gleaming, innocuous, meant for food.
 His legs surged beneath him.
 In one motion he spun, grabbed the nearest figure, and slammed them against the bulkhead with an elbow to the throat. His other arm snapped up, blade pressed hard against the second attendant’s neck before their hands even twitched.
 They froze. One gurgled in surprise, pinned by the throat. The other stood stock-still, eyes wide behind a sterile visor.

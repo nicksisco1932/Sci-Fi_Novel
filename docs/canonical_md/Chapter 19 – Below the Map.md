@@ -1,4 +1,3 @@
-Chapter 19 – Below the Map
 The transit shell ran blind for so long that time stopped feeling measurable.
 There were no windows, no status lights, no guide strips waking in sequence to tell them the next step had already been decided. Just the hard rattle of steel wheels under the cab and the occasional shift in pressure when the buried rail curved through spaces too large to guess at.
 

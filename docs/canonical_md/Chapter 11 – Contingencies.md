@@ -1,4 +1,3 @@
-Chapter 11 – Contingencies
 The chamber was colder than usual.
 Korin Tal stood before the central node array of Spindle 9's Cognitive Layer Interface. Data threads pulsed through the walls, light and signal braided into the look of perfect order. Under that surface, something had started to slip.
 A projection rotated in front of him: grid-loss sectors, patch updates, command overrides, each annotated in terse script.

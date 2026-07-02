@@ -1,4 +1,3 @@
-Chapter 9 – Fractures in the Core
 Cassian came to with metal in his mouth and sterilization gel burning through wounds that were not finished closing. The light above him flickered in uneven pulses, cutting the room into hard angles every time he blinked.
 Not a cell. Not Hive standard. The air was warm, impure, alive. Somewhere beyond the wall, water knocked through old pipework and someone cursed softly over a burner that would not catch.
 He rolled onto one elbow. Muscle seized along his ribs. Every breath tasted like rust.

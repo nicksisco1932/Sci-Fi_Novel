@@ -1,4 +1,3 @@
-Chapter 5 – The Opening Move
 Korin didn’t move as Cassian stepped into the room. He simply turned his body slightly, making space—not retreating, merely assigning it—as if they were both guests at a private gathering no one had been invited to. The room had already adjusted around him: light muted, terminal dimmed, every surface reduced to what a conversation of this rank was supposed to require.
 Cassian said nothing. He stood just inside the door, shoulders loose, weight balanced with care, gaze steady.
 Korin’s voice was warm. Polished. A practiced neutrality draped in charm.

@@ -1,4 +1,3 @@
-Chapter 6 – Controlled Variables
 Cassian sat alone in the observation chamber, staring at the pale surface of the table in front of him. No restraints. No visible sensors. Just a low hum from the walls and the faint scent of sterilized air. Nothing to push against except the room itself.
 His thoughts refused to hold shape. He had tried—tried hard—to reconstruct the final moments before the jump collapsed. The wave. The anomaly. The AI’s voice: There is an anomaly in the destination field.
 He remembered that clearly.

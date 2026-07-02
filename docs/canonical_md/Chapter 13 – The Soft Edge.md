@@ -1,4 +1,3 @@
-Chapter 13 – The Soft Edge
 The rain thickened into a curtain, cold enough to sting and flatten the world into moving sheets of silver. Cassian stepped into it and let it strike bruised ribs and split skin. It had been centuries since he'd felt real weather. Not simulation. Not controlled atmospheric mist. Rain.
 For a few seconds, he let it touch him.
 Thena watched from under the broken overhang. "You good?"

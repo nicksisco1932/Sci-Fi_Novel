@@ -1,4 +1,3 @@
-Chapter 10 – Signal to Noise
 The route out of the blind zone wound through forgotten ducts and ruptured supply channels, an artery beneath Hive order hidden from scans but not from betrayal.
 Cassian moved carefully. Each footfall was placed. Each echo weighed. Thena led with the confidence of someone raised in the noise between signals.
 She missed the shift.

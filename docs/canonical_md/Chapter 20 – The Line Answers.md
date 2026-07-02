@@ -1,4 +1,3 @@
-Chapter 20 – The Line Answers
 The dark beyond the red line held for three breaths.
 Then it answered.
 

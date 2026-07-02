@@ -1,4 +1,3 @@
-Chapter 17 – The Far Side
 The bridge swayed once under their combined weight, then settled into a low metallic hum.
 Cassian kept his pace even.
 The reservoir below was too dark to read cleanly. Black water sat far beneath the broken catwalks, barely moving except where distant runoff struck it in thin silver lines. The guide lights ahead stayed narrow and exact, a single path drawn across open space with no effort to make it feel safe.

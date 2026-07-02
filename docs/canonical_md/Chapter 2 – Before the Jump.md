@@ -1,4 +1,3 @@
-## Chapter 2 – Before the Jump
 The sky over Earth was blue that day.
 Cassian sat on the edge of the launch pad’s pre-departure station, legs dangling over the polished composite ledge, watching clouds drift over the Pacific Array. Launch towers stood in the distance against the curve of Earth. Sunlight broke on the ocean in gold and platinum.
 Below the station, visitors lined the far observation rail behind smart glass, held back at a distance ceremonial enough to pass for safety. Every time a readiness tone rolled across the Array, conversation thinned for a beat, then resumed. He took a long breath. The air was sharp with salt.

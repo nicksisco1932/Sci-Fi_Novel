@@ -1,4 +1,3 @@
-Chapter 15 – The Night the Oath Broke
 The safehouse was a lie, but it was the only lie they had.
 Thena slept in a medicated half-drift on a makeshift cot, wounded hand propped on a rolled jacket, crude bandage already spotting through. Around them, the storage cell pressed close: damp walls, low ceiling, a single salvage coil humming overhead.
 Cassian sat on the floor with his back to cold metal, knees up, breathing slow. He had pushed his awareness as far as pain would let him.

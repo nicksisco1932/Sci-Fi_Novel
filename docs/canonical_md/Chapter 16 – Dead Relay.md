@@ -1,4 +1,3 @@
-Chapter 16 – Dead Relay
 They left the safehouse before the salvage coil burned out.
 Cassian did not trust the room for a second sleep cycle, and Thena did not argue. She wrapped her bandaged hand tighter, checked the edge on a folding blade one-handed, and followed him back into the dark.
 The lanes were quieter than before.

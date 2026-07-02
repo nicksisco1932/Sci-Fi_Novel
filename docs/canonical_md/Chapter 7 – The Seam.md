@@ -1,4 +1,3 @@
-Chapter 7 – The Seam
 Three months.
 They had hollowed him with precision.
 Every day, the same chair. The same chamber. The same jagged glyphs flooding his visual cortex until language gave way to pressure and pattern. Alyen Ithra never raised her voice. Never showed emotion. She didn’t need to. The system did the cutting. She made sure it kept cutting.
