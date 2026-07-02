@@ -27,7 +27,7 @@
 |---|---|---|---|---|---|
 | Cassian Rho | Protagonist | Autonomy, resistance to control | Quiet, measured, tactical patience | Ch. __ / Scene __ | Hyper-analytical; fears manipulation more than violence |
 | Alyen Ithra | Loyalist enforcer | Ideological conviction, faith in Hive | Zealous, disciplined, unwavering | Ch. __ / Scene __ | Adversary to Cassian; loyal to Korin and Hive architecture |
-| Korin Tal | Loyalist figure | Control, system preservation | Controlled charisma or austere authority | Ch. 3 | Full name is Korin Tal; `Korin` is acceptable as a short form after identification |
+| Korin Tal | Loyalist figure | Control, system preservation | Controlled charisma or austere authority | Ch. 1 | Full name is Korin Tal; `Korin` is acceptable as a short form after identification |
 | Reversionist (true name TBD) | Hidden antagonist/ally | Rejects Hive dysfunction | Precision, clinical logic, iconoclastic | Ch. __ / Scene __ | Chipped human + rogue AI element; reveal later |
 | Gor of Almelah | Hive-aligned hunter / foil | Justify his oath-breaking by judging Cassian | Heavy impact, disciplined brutality, old-dojo forms | Ch. __ / Scene __ | Same dojo lineage as Cassian; cryo-extended operative in Hive service |
 
@@ -86,8 +86,8 @@
 | Event | Relative time | Anchor scene | Notes |
 |---|---|---|---|
 | Cassian's collapse | T0 | Ch. __ / Scene __ | What triggers it |
-| Helion launch from Pacific Array | T-? | Ch. 2 | Pre-jump Earth staging for Cassian's mission |
-| Hyperspace jump warning entity | T-? | Ch. __ / Scene __ | Later tied to rogue AI remnant |
+| Helion launch from Pacific Array | T-? | Ch. 1 | Pre-jump Earth staging for Cassian's mission |
+| Hyperspace jump warning entity | T-? | Ch. 1 | Later tied to rogue AI remnant |
 | Reversionist escape intervention | T+? | Ch. 7 | Reversionist remains hidden; aid arrives through infrastructure and intermediaries |
 | Cassian's shaft drop and anomaly combat flashback | T+? | Ch. 8 | Includes the warning: "Stop the expansion." |
 | Thena recovery / blind-zone transit | T+? | Ch. 9 | Thena helps Cassian survive off-grid but is not the Reversionist reveal |

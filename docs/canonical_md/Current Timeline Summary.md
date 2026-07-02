@@ -1,8 +1,8 @@
 Current Timeline Summary
-Ch. 1-2:
-Cassian wakes post-hyperspace in a unified Hive-run Earth. His memories are fragmented. He reacts violently, then regains control. Flashbacks preserve the launch and the AI warning: "There is an anomaly."
+Ch. 1:
+Cassian wakes post-hyperspace in a unified Hive-run Earth. His memories are fragmented. He reacts violently, then regains control. Flashbacks preserve the launch and the AI warning: "There is an anomaly." Korin Tal receives the breach report, identifies Cassian as a structural anomaly, and locks the record to executive clearance.
 
-Ch. 3-5:
+Ch. 4-5:
 Korin Tal, the cold architect of Hive cognition, interrogates Cassian psychologically without ever doing it directly. They enter a cerebral chess match. Cassian lies about his memories. Korin knows more than he reveals.
 
 Ch. 6:
