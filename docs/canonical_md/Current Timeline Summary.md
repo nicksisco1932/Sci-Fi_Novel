@@ -39,6 +39,9 @@ Cassian and Thena make first contact with a below-the-map enclave that survives 
 Ch. 21:
 Interrogation inside the enclave turns transactional when evidence from the missing watcher points away from Hive procedure and toward a personal hunter testing the perimeter by hand. Cassian's read of the threat buys only conditional shelter: he and Thena will help trace the disappearance under watch while the enclave decides whether his value outweighs the risk.
 
+Ch. 22:
+Cassian and Thena are moved under watch toward the runoff-cut investigation. A brief pause at an Under-Hive memory mural introduces Maribel Voss and the Voss Effect as deep cultural residue from the Turning Time: old, familiar, unresolved history rather than urgent revelation. The escort resumes toward the runoff cut, where fresh markings suggest the hunter has already reached the line.
+
 ---
 Shadow Narrative (Unfolding):
 The Reversionist is still a chipped human joined to an evolved analytical AI remnant, the same intelligence line that once tried to warn Cassian before the jump.

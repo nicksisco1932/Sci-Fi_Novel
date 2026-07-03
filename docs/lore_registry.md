@@ -46,6 +46,20 @@
 | Off-grid lanes | Human survival network | Persistence inside neglected Hive blind zones | Local markers, dead terminals, scavenged systems | Not a formal resistance; fragmented communities and contacts; official systems may classify them as undesirables |
 | Harmony | Foundational Hive doctrine | Promise of unity through global consensus architecture | "consensus," "optimization," "shared cognition" | Historical ideal still used to justify uneven present reality |
 | Central Cognition Sector | Governance zone | Strategic oversight, anomaly review, executive control | Data pillars, executive clearance, signal discipline | Korin operates here in the early Hive-control chapters |
+| The Great Union | Ancient political formation | Voss-era consolidation during the Turning Time | "unity," "continuity," "preservation" | Deep-history label only; not an active current faction |
+| States of the Willing | Ancient post-Voss political bloc | Preservationist bloc involved in violence later called the Voss Conquest | "willing," "preservation" | Deep-history label only; not an active current faction |
+| Minority World-State | Ancient political / minority formation | Targeted after Maribel Voss's assassination | Sparse, loaded references | Deep-history label only; details should remain unresolved and historically freighted |
+
+---
+
+## Deep History / Cultural Memory
+| Name (canonical) | Type | Meaning / association | Constraints | Notes |
+|---|---|---|---|---|
+| Maribel Voss | Ancient historical figure / martyr-symbol | Turning Time figure associated with The Great Union, planetary corruption, Type I coordination, assassination, and later sectarian violence | Keep present-memory treatment stale and familiar rather than revelatory | Ambiguously remembered as corrupt administrator, visionary coordinator, martyr, profiteer, possible nonhuman artifact, and symbolic origin point for later violence |
+| Turning Time | Deep-history era label | Voss-era transition associated with consolidation, corruption, and later violence | Use as old-history context, not a current political program | Details may remain fragmentary and locally interpreted |
+| Voss Conquest | Later historical name | Post-assassination violence carried out against the Minority World-State in Voss's name | Do not overdefine the campaign or resolve the victor mythology | Remembered through contradictory inherited accounts |
+| The Voss Effect | Historical phrase / semantic drift | First, money disappearing through real estate, shell entities, disaster trusts, continuity firms, and Federation-scale contracting; later, acid rain falling through 135-degree heat | Preserve the semantic drift and stale public familiarity | Phrase appears in below-the-map oral history and mural memory |
+| Under-Hive memory | Local artistic / memory tradition | Flat ochre historical mural style used by Below-the-Map inhabitants to preserve old history | Not a replacement term for the geographic/canon setting term `Below the Map` | Use for art, memory, and historical aesthetics only |
 
 ---
 
@@ -106,6 +120,8 @@
 | "blind zone" | blind zone | Area of degraded or absent system visibility | Lowercase unless it begins a sentence |
 | "Lower Grid" | Lower Grid | Neglected off-grid layers beneath active Hive order | Capitalization fixed when used as a place label |
 | "Below the Map" | Below the Map | Buried human undercity beneath the mapped Hive | Capitalization fixed when used as a place label |
+| "Under-Hive memory" | Under-Hive memory | Local historical/artistic memory style below the map | Do not use as a replacement for `Below the Map` |
+| "The Voss Effect" | The Voss Effect | Deep-history phrase with financial and later weather meanings | Capitalization fixed; preserve semantic drift |
 | "Almelah" | Almelah | Cassian and Gor's cultural world/origin | Spelling fixed |
 | "Harmony" | Harmony | Legacy promise of globally unified consensus governance | Capitalization fixed |
 
