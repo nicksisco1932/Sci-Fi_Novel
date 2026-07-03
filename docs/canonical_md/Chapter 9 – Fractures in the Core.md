@@ -8,11 +8,13 @@ He rolled onto one elbow. Muscle seized along his ribs. Every breath tasted like
 
 He blinked until her silhouette resolved. Leathers. Makeshift armor. Scavenged tech welded into worn gear. Her face gave away nothing except the eyes: alert, suspicious, fully awake.
 
-"You pulled me out."
+"You pulled me out?"
 
 "You launched yourself through a maintenance shaft during a system update. I kept you from dying after. That's a different skill set."
 
-Cassian got himself upright in stages. The room was small, boxed in by sheet metal and rusted hull plating. A patched filter mesh covered the vent. A dented basin sat under a leak, catching clean water one slow drop at a time. It felt like the belly of a ship someone had stopped remembering. External relays hummed through the walls.
+Not an answer. Not quite.
+
+Cassian got himself upright in stages, every movement negotiated through pain. The room was small, boxed in by sheet metal and rusted hull plating. A patched filter mesh covered the vent. A dented basin sat under a leak, catching clean water one slow drop at a time. It felt like the belly of a ship someone had stopped remembering. External relays hummed through the walls.
 
 "Where are we?"
 
@@ -30,11 +32,17 @@ He swallowed it. "Why help me?"
 
 "You knew me before?"
 
+"Before what?" she asked.
+
+Cassian held his answer.
+
 "No. But I knew you mattered to someone powerful. And I knew the system wanted you sealed fast."
 
 Cassian looked down at his hands. Old scars. Newer ones laid over them. Under the pain, the same urgency still pulsed.
 
 Stop the expansion.
+
+Not a dream. Not gone.
 
 "What now?"
 
@@ -46,7 +54,7 @@ She held out a hand. "Thena. People in these lanes will want to know whether dra
 
 "People?"
 
-"Contacts. Neighbors. Survivors. People who trade quiet, solder, and clean water more carefully than trust. Don't make them into anything grander than that."
+"Contacts. Neighbors. Survivors. People who trade quiet, solder, and clean water more carefully than trust. Don't make them into anything grander than that. The official word would be undesirables."
 
 Cassian got his feet under him. His legs shook, but they held.
 

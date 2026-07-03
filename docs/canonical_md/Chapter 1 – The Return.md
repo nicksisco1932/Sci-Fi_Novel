@@ -98,7 +98,9 @@ He smirked, brushing his palm across the synthweave of his uniform; the contact 
 
 They walked toward the transfer pod. Engineers moved around them with quiet launch urgency. Each person had a task. A few paused for him—salute, nod—then returned to their stations. One ground tech reached out as he passed and touched two fingers to the hull spine beside the access ladder, old superstition hidden inside routine.
 
-As he climbed into the acceleration cradle, the AI began system startup. The cockpit dimmed; lights pulsed in concentric rings around his vision.
+Cassian recognized the gesture. Luck, reduced to muscle memory. He had never trusted luck, but he understood why people reached for it near engines.
+
+As he climbed into the acceleration cradle, the AI began system startup. The cockpit dimmed; lights pulsed in concentric rings around his vision, and the familiar discipline of flight narrowed the world to sequence, breath, and command.
 
 > "Cassian Rho. Helion-class scout vessel online. Initiate interface check."
 
@@ -120,15 +122,17 @@ He paused. A slight shift in tone. Not a report. A hesitation.
 
 His brow furrowed. "Show me."
 
-The engines ignited.
+The launch did not stop. He barely had time to shape the question before the engines ignited.
 
 Pressure slammed him into the cradle. Air tore from his lungs in a harsh, guttural exhale that almost rose into a shout before he swallowed it down. His chest tried to expand and met resistance.
 
-He forced a measured inhale against the weight. Again.
+He forced a measured inhale against the weight. Again. Short gasps. Counted pressure. Think. Breathe. Focus.
 
 The acceleration climbed past the familiar curve.
 
-Anomaly—
+Anomaly.
+
+The word stayed with him, colder than fear. If the field was wrong, why had the system waited until ignition to say so?
 
 The load spiked.
 
@@ -136,7 +140,9 @@ The load spiked.
 
 Darkness. Silence.
 
-The hiss of the translation device.
+For one dislocated second, he could not tell whether the launch had ended or begun again.
+
+Then the hiss of the translation device found him.
 
 Cassian's body jerked on the cot in Hive Spindle 9.
 
@@ -146,9 +152,27 @@ An alert tone cut through the office.
 
 It lasted less than a second.
 
-Beyond the glass wall, the Hive moved as one structure. Elevation rails carried residents between stacked districts in steady cadence. Windows aligned in disciplined rows along white towers, lit in uniform bands. Heat rose through spindle crowns. Light held to schedule across every tier. Far below, pedestrians stopped at crossing prompts before the guidance tone even sounded, then resumed in the same measured flow when the lane shifted green.
+Beyond the glass wall, the Hive moved as one structure.
 
-Rain tracked down the glass in straight lines, absorbed by runoff channels before it reached the lower tiers.
+Elevation rails carried residents between stacked districts in steady cadence, each capsule arriving close enough to its assigned interval that delay became a theoretical category. White towers rose around the central spindle in disciplined columns. Windows aligned in bands of yellowish light. Residential levels dimmed according to sleep allocation. Work levels brightened according to output demand. Medical levels remained cold and constant.
+
+No district was allowed enough variation to suggest individuality from a distance.
+
+Heat lifted through the spindle crowns in pale vapor. Nutrient engines. Filtration cores. Waste reclamation. Transit drives. Climate regulators. The hidden organs of a civilization that had survived by sealing itself away from the planet that made it.
+
+Far below, where natural light reached only as rumor, pedestrians moved through amber corridors and pressure-sealed avenues with practiced efficiency. They stopped at crossing prompts before the guidance tone sounded, then resumed in the same measured flow when the lane shifted green. Bodies responded before thought. The Hive had trained anticipation into them so thoroughly that obedience looked like instinct.
+
+The spring thaw had come.
+
+Once, spring had meant soil softening, rivers loosening, green forcing its way through the last grip of cold. Now it arrived through corrosion forecasts. Old pipes ticked and expanded. Sealed walls sweated. Rain came with the thaw, and the lower tiers listened for its pitch against metal the way older civilizations had listened for birdsong.
+
+Soft rain. Safe rain. Hissing rain. Shelter rain.
+
+Against Korin's glass, it fell in straight lines, captured by transparent treatment fields and drawn into runoff channels before it could descend toward the lower tiers. The system would test it, neutralize it, classify it, and send what remained into reclamation.
+
+Above, the rain was scenery.
+
+Below, it was weather.
 
 Then the data pillar pulsed red.
 

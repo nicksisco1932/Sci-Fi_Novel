@@ -14,6 +14,7 @@ At this stage, the editorial work is to:
 - Continuity reference: `docs/lore_registry.md`
 - Timeline reference: `docs/canonical_md/Current Timeline Summary.md`
 - Supporting character references: relevant files in `docs/character_dossiers/`
+- Opening-specific edit guidance: `OPENING_EDIT_AGENT.md`
 - Non-authoritative LaTeX artifact: `Legacy/latex_artifacts/main_artifact_snapshot.tex`
 
 ## Opening Chapter Source Selection
@@ -28,12 +29,13 @@ At this stage, the editorial work is to:
 1. Read `AGENTS.md`.
 2. Read `docs/lore_registry.md`.
 3. Read `docs/canonical_md/Current Timeline Summary.md`.
-4. Read the target chapter in `docs/canonical_md/`.
-5. Read any relevant character or world reference files, including `docs/character_dossiers/`, if the scene depends on them.
-6. Apply surgical prose edits that improve humanity, clarity, and specificity without changing lore or intent.
-7. Update `docs/lore_registry.md` first if a proper noun or lore detail must change.
-8. If an edit would break continuity, stop and issue a `Continuity Alert` instead of forcing the change.
-9. Leave archived LaTeX artifacts alone unless the task is specifically to sync or export the canonical markdown back into LaTeX.
+4. Read `OPENING_EDIT_AGENT.md` for opening-chapter stabilization passes.
+5. Read the target chapter in `docs/canonical_md/`.
+6. Read any relevant character or world reference files, including `docs/character_dossiers/`, if the scene depends on them.
+7. Apply surgical prose edits that improve humanity, clarity, and specificity without changing lore or intent.
+8. Update `docs/lore_registry.md` first if a proper noun or lore detail must change.
+9. If an edit would break continuity, stop and issue a `Continuity Alert` instead of forcing the change.
+10. Leave archived LaTeX artifacts alone unless the task is specifically to sync or export the canonical markdown back into LaTeX.
 
 ## Archived LaTeX Status
 `Legacy/latex_artifacts/main_artifact_snapshot.tex` is currently a manuscript artifact, not the active prose source.

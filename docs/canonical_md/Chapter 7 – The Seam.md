@@ -14,9 +14,11 @@ Now, for the first time in weeks, he was being escorted not to the test chamber,
 
 A sign, they said, of progress.
 
+Cassian did not believe it. He had given them nothing. Progress meant a new method, a new pressure point, or a trap dressed as mercy.
+
 Two attendants flanked him silently. No conversation. No restraints. That was the new tactic: treat him like a patient, not a prisoner. Change the language. Keep the cage.
 
-The hallway was quiet. Lighting dimmed for circadian regulation. He could feel the low thrum of surveillance nodes in the walls. They had not grown lax.
+The hallway was quiet. Lighting dimmed for circadian regulation. He could feel the low thrum of surveillance nodes in the walls. They had not grown lax. Even silence here had eyes.
 
 And yet—
 
@@ -26,7 +28,11 @@ The door panel wasn’t sealed. It flickered once—then stayed open by a hair.
 
 Cassian slowed.
 
+His head lifted a fraction, registering the change before he let himself look directly at it. After months of precision, the flaw felt loud.
+
 The attendants said nothing.
+
+They had not noticed.
 
 He stepped closer.
 
@@ -46,11 +52,13 @@ He didn’t speak. He just stood there, scanning every corner. No movement. No s
 
 Then he opened the satchel.
 
-Inside: a water pack, nutrient bars, an outdated comm node with its transmitter core stripped clean… and a hand-scrawled note.
+Inside: a water pack, nutrient bars, an outdated comm node with its transmitter core stripped clean… and a palm-sized data slate showing text in jagged, hand-scrawled strokes.
 
 > "Run. Corridor 12A. Maintenance shaft. 94 seconds."
 
 Cassian stared.
+
+The timer was already moving.
 
 No signature. No seal.
 
@@ -86,11 +94,13 @@ Someone had been watching for it.
 
 He reached the end of the hall. A hatch. Normally locked with a biometric key.
 
-It was cracked.
+It was cracked open.
 
 He dropped into the shaft just as the emergency lighting glitched—and sealed behind him.
 
 The sound of metal locking echoed like salvation.
+
+And like a lock.
 
 ---
 

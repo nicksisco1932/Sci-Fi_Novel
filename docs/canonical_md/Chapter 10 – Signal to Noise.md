@@ -1,4 +1,4 @@
-The route out of the blind zone wound through forgotten ducts and ruptured supply channels, an artery beneath Hive order hidden from scans but not from betrayal.
+The route out of the blind zone wound through forgotten ducts and ruptured supply channels, an artery beneath Hive order hidden from scans and formal maps.
 
 Cassian moved carefully. Each footfall was placed. Each echo weighed. Thena led with the confidence of someone raised in the noise between signals.
 
@@ -16,7 +16,7 @@ Thena stopped mid-step. "How many?"
 
 "Scavs?"
 
-"Maybe. Maybe people with Hive money."
+"Maybe. Maybe people who think we have something worth selling."
 
 She spat into the dust. "Cowards."
 
@@ -28,13 +28,13 @@ Cassian looked ahead. Corridor narrowed at the bend. Tight corners. Limited angl
 
 Thena glanced at him. "You planning to win this, or just make them regret it?"
 
-A thin smile touched his mouth. "You'll handle most of it. I'll deal with whoever gets close."
+A thin smile touched his mouth. "Both. You'll take the lane. I'll deal with whoever gets close."
 
-"Try not to die first."
+"Try not to die first," Thena said.
 
 ---
 
-They came in distortion mesh and scavenged plates, bodies blurred at the edges by bad hardware. The trap closed the moment Thena fired. Her first shot dropped one. The second hit before the rest understood where the corridor had turned against them.
+They came in distortion mesh and scavenged plates, bodies blurred at the edges by bad hardware. The trap closed the moment Thena fired. Her first shot dropped one. The second hit before the rest understood where the corridor had become a kill zone.
 
 Plasma lit the walls in hard blue pulses.
 
@@ -83,3 +83,5 @@ The look she gave him had changed.
 There was respect in it.
 
 And caution.
+
+A revised estimate.

@@ -62,7 +62,7 @@ Korin let the silence do its work a moment longer before he broke it. “Very we
 
 He took a slow step toward the room’s terminal and woke a subdued schematic in mid-air. Even the projection had been tuned for restraint: low contrast, muted color, nothing that could be accused of aggression. He watched Cassian as much as the display.
 
-“You are in Hive Spindle 9. Southern hemisphere. Earth is no longer a single geopolitical entity, but rather a unified cognitive mesh governed by layered consensus and infrastructure. The current cycle is standard year 2416. You’ve been missing for just over four centuries.”
+“You are in Hive Spindle 9. Southern hemisphere. Your old maps would not help much. Earth is no longer a single geopolitical entity, but rather a unified cognitive mesh governed by layered consensus and infrastructure. The current cycle is standard year 2416. You’ve been missing for just over four centuries.”
 
 Cassian didn’t respond. His posture remained still, but his jaw tightened once.
 

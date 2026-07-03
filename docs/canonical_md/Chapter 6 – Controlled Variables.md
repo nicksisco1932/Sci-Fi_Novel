@@ -60,7 +60,7 @@ Until the door opened again.
 
 This time it wasn’t Korin.
 
-She entered as if the room had only been waiting for her.
+A woman entered as if the room had only been waiting for her.
 
 Tall. Efficient. Eyes sharp enough to cut alloy. Her uniform bore no insignia. It didn’t need one.
 
@@ -84,7 +84,7 @@ He blinked. Pain stabbed behind his eyes.
 
 “Stop,” he said.
 
-“Continue,” she said, unmoved. “You’ll tell us what was in that vessel.”
+“Continue,” she said, unmoved. “You’ll tell us what was in that vessel, or we will keep building pressure until silence stops feeling possible.”
 
 He clenched his jaw as the symbols stopped behaving like images and fractured into pulses. Not visual. Neural.
 
@@ -98,4 +98,4 @@ Stop the expansion.
 
 “I don’t remember,” he ground out.
 
-She leaned in. “Then you’ll bleed until you do.”
+She leaned in. “Then we keep going until your body remembers for you.”

@@ -43,7 +43,7 @@
 |---|---|---|---|---|
 | Hive Earth | Civilizational system | Cognitive architecture, procedural modernity | "architecture," "order," "compliance" | Earth as inter-system mega-planet dominated by hive cities |
 | Reversionists | Dissident thread | System rejection, purpose restoration | Mythic language, anti-procedural | Add internal schisms if any |
-| Off-grid lanes | Human survival network | Persistence inside neglected Hive blind zones | Local markers, dead terminals, scavenged systems | Not a formal resistance; fragmented communities and contacts |
+| Off-grid lanes | Human survival network | Persistence inside neglected Hive blind zones | Local markers, dead terminals, scavenged systems | Not a formal resistance; fragmented communities and contacts; official systems may classify them as undesirables |
 | Harmony | Foundational Hive doctrine | Promise of unity through global consensus architecture | "consensus," "optimization," "shared cognition" | Historical ideal still used to justify uneven present reality |
 | Central Cognition Sector | Governance zone | Strategic oversight, anomaly review, executive control | Data pillars, executive clearance, signal discipline | Korin operates here in the early Hive-control chapters |
 
@@ -116,9 +116,9 @@ Use these to deepen scenes without changing plot.
 
 | Domain | Established signals | Use / guardrail |
 |---|---|---|
-| Core Hive sensory profile | Uniform light bands, traction-adjusting floors, clean runoff channels, harmonic translation pulses, disciplined architectural symmetry, anticipatory doors, amber de-escalation alerts, self-yielding displays, executive active dampening | Core Hive scenes should feel friction-managed, not merely futuristic |
-| Hive language habits | "recovery," "assimilation," "optimization," "acceptable loss," "out of network," "productivity pool" | Favor procedural language over overt cruelty in Hive-facing scenes |
-| Lower Grid texture | Patched metal, dead terminals, broken comm static, ration rituals, improvised burners, hybrid dialects, route caution | Lower Grid scenes should feel adaptive and inhabited, not post-apocalyptic emptiness |
+| Core Hive sensory profile | Uniform light bands, traction-adjusting floors, clean runoff channels, harmonic translation pulses, disciplined architectural symmetry, anticipatory doors, amber de-escalation alerts, self-yielding displays, executive active dampening, treated rain on executive glass | Core Hive scenes should feel friction-managed, not merely futuristic |
+| Hive language habits | "recovery," "assimilation," "optimization," "acceptable loss," "out of network," "productivity pool," "undesirables" | Favor procedural language over overt cruelty in Hive-facing scenes |
+| Lower Grid texture | Patched metal, dead terminals, broken comm static, ration rituals, improvised burners, hybrid dialects, route caution, thaw corrosion, hazardous rain pitch | Lower Grid scenes should feel adaptive and inhabited, not post-apocalyptic emptiness |
 | Below-the-map texture | Hand-cut route marks, painted boundary lines, manual knock codes, amber watch lights, false walls, manual searches | Keep this space human-scaled, suspicious, and locally governed |
 | Reversionist intervention signature | Dead systems waking briefly, blunt imperative text, timed pathing, prepared supplies, partial infrastructure hijack | Aid should feel competent and constrained, never omnipotent |
 | Almelah memory texture | Dojo discipline, oath language, bodily training, late red light, old warrior restraint | Flashbacks to Almelah should remain culturally specific and physically grounded |
