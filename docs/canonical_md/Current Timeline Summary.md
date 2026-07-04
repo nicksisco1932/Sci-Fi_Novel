@@ -40,7 +40,7 @@ Ch. 21:
 Interrogation inside the enclave turns transactional when evidence from the missing watcher points away from Hive procedure and toward a personal hunter testing the perimeter by hand. Cassian's read of the threat buys only conditional shelter: he and Thena will help trace the disappearance under watch while the enclave decides whether his value outweighs the risk.
 
 Ch. 22:
-Cassian and Thena are moved under watch toward the runoff-cut investigation. A brief pause at an Under-Hive memory mural introduces Maribel Voss and the Voss Effect as deep cultural residue from the Turning Time: old, familiar, unresolved history rather than urgent revelation. The escort resumes toward the runoff cut, where fresh markings suggest the hunter has already reached the line.
+Cassian and Thena are moved under watch toward the runoff-cut investigation. A corridor delay gives Cassian only a brief glimpse of a Maribel Voss mural and the old phrase The Voss Effect before the escort keeps moving. At the runoff cut, the failed lantern and fresh wall mark suggest the hunter has already reached the line and left Cassian an invitation.
 
 ---
 Shadow Narrative (Unfolding):

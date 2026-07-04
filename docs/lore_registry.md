@@ -55,10 +55,10 @@
 ## Deep History / Cultural Memory
 | Name (canonical) | Type | Meaning / association | Constraints | Notes |
 |---|---|---|---|---|
-| Maribel Voss | Ancient historical figure / martyr-symbol | Turning Time figure associated with The Great Union, planetary corruption, Type I coordination, assassination, and later sectarian violence | Keep present-memory treatment stale and familiar rather than revelatory | Ambiguously remembered as corrupt administrator, visionary coordinator, martyr, profiteer, possible nonhuman artifact, and symbolic origin point for later violence |
+| Maribel Voss | Ancient historical figure / martyr-symbol | Ancient Turning Time figure; corrupt coordinator, martyr-symbol, stale public memory | Keep manuscript references brief, stale, and familiar; fuller treatment belongs in appendix/backstory material | Ambiguously remembered; see `docs/appendices/Appendix – Figures of the Turning Time.md` |
 | Turning Time | Deep-history era label | Voss-era transition associated with consolidation, corruption, and later violence | Use as old-history context, not a current political program | Details may remain fragmentary and locally interpreted |
 | Voss Conquest | Later historical name | Post-assassination violence carried out against the Minority World-State in Voss's name | Do not overdefine the campaign or resolve the victor mythology | Remembered through contradictory inherited accounts |
-| The Voss Effect | Historical phrase / semantic drift | First, money disappearing through real estate, shell entities, disaster trusts, continuity firms, and Federation-scale contracting; later, acid rain falling through 135-degree heat | Preserve the semantic drift and stale public familiarity | Phrase appears in below-the-map oral history and mural memory |
+| The Voss Effect | Historical phrase / semantic drift | First money disappearing through opaque legal/financial structures; later acid rain falling through 135-degree heat | Preserve the semantic drift and stale public familiarity; avoid chapter-level exposition unless explicitly requested | Phrase appears in below-the-map oral history, mural memory, and appendix/backstory material |
 | Under-Hive memory | Local artistic / memory tradition | Flat ochre historical mural style used by Below-the-Map inhabitants to preserve old history | Not a replacement term for the geographic/canon setting term `Below the Map` | Use for art, memory, and historical aesthetics only |
 
 ---
@@ -124,6 +124,13 @@
 | "The Voss Effect" | The Voss Effect | Deep-history phrase with financial and later weather meanings | Capitalization fixed; preserve semantic drift |
 | "Almelah" | Almelah | Cassian and Gor's cultural world/origin | Spelling fixed |
 | "Harmony" | Harmony | Legacy promise of globally unified consensus governance | Capitalization fixed |
+
+---
+
+## Appendix / Backstory Files
+| File | Purpose | Constraints | Notes |
+|---|---|---|---|
+| Appendix – Figures of the Turning Time.md | Book-style appendix for historical-figure backstories that build the world without slowing chapter action | Use for optional deep-history detail; do not make appendices a substitute for live scene stakes | First entry: Maribel Voss |
 
 ---
 
