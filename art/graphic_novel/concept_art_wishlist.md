@@ -225,10 +225,10 @@ Provisional anchor: Chapter 1 launch/anomaly pages.
 
 ### CA-TECH-04 — Hyperspace Gate
 
-Canon check needed before choosing a definitive physical form.
+Canon anchor: the current Hive-era planetary gate-ring network is mature Type I infrastructure. Its moon-class structures encircle Earth and anticipate the civilization's next transition toward Dyson-scale Type II construction. Cassian's launch-era gate is an earlier legacy precursor. Exact ring count, spacing, and final geometry remain open for visual development.
 
-- [ ] **Concept A — Sparse orbital aperture:** Minimal ring or field infrastructure framed against emptiness, emphasizing alignment and scale rather than spectacle.
-- [ ] **Concept B — Distributed gate lattice:** Several restrained structures creating a destination corridor, clearly distinct from the anomaly warning itself.
+- [x] **Concept A — Earth inside the rings:** Orbital overview with Earth visibly enclosed by moon-class gate structures, using the planet itself to establish the mature network's overwhelming scale. Saved: `concept_sketches/technology/hyperspace-gate/concept-a.png`.
+- [x] **Concept B — Planetary ring lattice:** Alternate angle showing several immense, separated ring structures encircling Earth and creating aligned transit corridors, clearly distinct from the anomaly warning itself. Saved: `concept_sketches/technology/hyperspace-gate/concept-b.png`.
 
 ### CA-TECH-05 — Passive Filament Tracker
 
