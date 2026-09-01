@@ -12,9 +12,9 @@ This file is a production index, not canon. Scene wording and order remain gover
 
 ## Current Render Status
 
-- Art-only chapter sequences complete: Chapters 13, 14, 15, and 22.
-- Chapters still awaiting scene renders: Chapters 11, 12, and 16-21.
-- Remaining chapter count: 8.
+- Art-only chapter sequences complete: Chapters 11, 12, 13, 14, 15, and 22.
+- Chapters still awaiting scene renders: Chapters 16-21.
+- Remaining chapter count: 6.
 - No canonical Chapter 2 or Chapter 3 files exist in `docs/canonical_md/`.
 
 ## Chapter 11 - Contingencies
@@ -23,9 +23,9 @@ Source: `docs/canonical_md/Chapter 11 – Contingencies.md`
 
 | ID | Priority | Scene | Source Anchor | Visual Core | Required Locks | Suggested Treatment |
 |---|---|---|---|---|---|---|
-| 11.1 | P0 | Contingency chamber | Opening through Alyen's exit order | Korin before Spindle 9's central node array; synchronized lag data; Alyen demands escalation; Korin orders the hidden influence cut out. | Korin, Alyen, Central Cognition / node array | One five-panel page built on stillness and signal pressure. |
-| 11.2 | P1 | Earth by signal strength | Korin turns back to the planetary projection | Earth redrawn by integration density; seamless core districts contrasted with acceptable-loss regions and failed services. | Planetary Hive map available; dedicated core-versus-periphery locations remain incomplete | Continuity plate rendered at `motifs/hive-integration-density-planetary-map/reference.png`; scene page still pending. |
-| 11.3 | P0 | Spindle 31 checkpoint feed | Boy at the failed checkpoint node | Barefoot child repeats a perfect scan gesture; ration authorization fails behind him; Korin closes the feed. | Spindle 31, checkpoint node, local residents | One restrained page; no misery spectacle. |
+| 11.1 | P0 | Contingency chamber | Opening through Alyen's exit order | Korin before Spindle 9's central node array; synchronized lag data; Alyen demands escalation; Korin orders the hidden influence cut out. | Korin, Alyen, Central Cognition / node array | Rendered as page 01 in `scenes/chapter_11_contingencies/`; awaiting lettering. |
+| 11.2 | P1 | Earth by signal strength | Korin turns back to the planetary projection | Earth redrawn by integration density; seamless core districts contrasted with acceptable-loss regions and failed services. | Planetary Hive map and Central Cognition reference available | Rendered as page 02 in `scenes/chapter_11_contingencies/`; awaiting lettering. |
+| 11.3 | P0 | Spindle 31 checkpoint feed | Boy at the failed checkpoint node | Barefoot child repeats a perfect scan gesture; ration authorization fails behind him; Korin closes the feed. | Spindle 31, checkpoint node, local residents | Rendered as page 03 in `scenes/chapter_11_contingencies/`; awaiting lettering. |
 
 ## Chapter 12 - The Lanes Between Signals
 
@@ -33,9 +33,9 @@ Source: `docs/canonical_md/Chapter 12 – The Lanes Between Signals.md`
 
 | ID | Priority | Scene | Source Anchor | Visual Core | Required Locks | Suggested Treatment |
 |---|---|---|---|---|---|---|
-| 12.1 | P0 | Descent into the Lower Grid | Opening through the Lower Grid reveal | Sweating service stairwell, failed overlay glyphs, hand-painted arrows, low ceiling, weak green biolum strips, dense inhabited lane. | Cassian, Thena, Lower Grid reference | One arrival page with a dominant reveal panel. |
-| 12.2 | P1 | Walker passes | Old man emerges from the side corridor | Elder with one missing foot moves through the lane without spectacle; residents make ordinary space for him. | Walker design, Lower Grid residents | One quiet half-page sequence; may share a page with 12.1. |
-| 12.3 | P0 | Market and rerouted medical drone | Transit hub through the market departure | Repaired market under dead skylight; failed payment ritual; convulsing child; medical drone receives a higher-tier request and leaves. | Lower Grid market, medical drone, local residents | Two pages: market orientation, then the drone decision and aftermath. |
+| 12.1 | P0 | Descent into the Lower Grid | Opening through the Lower Grid reveal | Sweating service stairwell, failed overlay glyphs, hand-painted arrows, low ceiling, weak green biolum strips, dense inhabited lane. | Cassian, Thena, Lower Grid reference | Rendered as page 01 in `scenes/chapter_12_lanes_between_signals/`; awaiting lettering. |
+| 12.2 | P1 | Walker passes | Old man emerges from the side corridor | Elder with one missing foot moves through the lane without spectacle; residents make ordinary space for him. | Walker design, Lower Grid residents | Included on rendered page 01; awaiting lettering. |
+| 12.3 | P0 | Market and rerouted medical drone | Transit hub through the market departure | Repaired market under dead skylight; failed payment ritual; convulsing child; medical drone receives a higher-tier request and leaves. | Lower Grid market, medical drone, local residents | Rendered as pages 02-03 in `scenes/chapter_12_lanes_between_signals/`; awaiting lettering. |
 
 ## Chapter 13 - The Soft Edge
 
@@ -175,9 +175,9 @@ Create these reusable references before the associated P0 scenes.
 | Asset | Needed By | Current Status |
 |---|---|---|
 | Core Hive Spindle city exterior | Chapters 1 and 11 | Available |
-| Central Cognition / Spindle 9 node array | Chapter 11 | Needs Landscape Render |
-| Spindle 31 failed checkpoint | Chapter 11 | Needs Landscape Render |
-| Lower Grid transit market | Chapter 12 | Existing lane reference is usable; dedicated market plate recommended |
+| Central Cognition / Spindle 9 node array | Chapter 11 | Available at `locations/central-cognition-sector/landscape-reference.png` |
+| Spindle 31 failed checkpoint | Chapter 11 | Available at `locations/spindle-31-checkpoint/landscape-reference.png` |
+| Lower Grid transit market | Chapter 12 | Available at `locations/lower-grid-market/landscape-reference.png` |
 | Rain-sector ambush room and crawlspace | Chapter 13 | Available |
 | Safehouse storage cell | Chapters 15-16 | Available for Chapter 15; reuse check needed for Chapter 16 exit |
 | Almelah dojo: intact, exterior, and burning states | Chapter 15 | Available |
@@ -203,10 +203,9 @@ Create these reusable references before the associated P0 scenes.
 ## Recommended Render Batches
 
 1. **Dialogue correction hold:** finish `dialogue_correction_todo.md` before publication assembly or broad new page production.
-2. **Chapter 11-12 world expansion:** Korin contingency chamber, Spindle 31 checkpoint, Lower Grid arrival, and market/drone sequence.
-3. **Chapter 13-15 Gor arc:** complete; Chapters 13-15 have accepted art-only sequences awaiting lettering.
-4. **Chapter 16-18 guided infrastructure:** lock terminal language, dead relay, reservoir bridge, pumpworks, and transit shell before sequential pages.
-5. **Chapter 19-22 Below the Map:** Chapter 22 is complete; Chapters 19-21 still need the buried street, enclave, interrogation, and evidence sequence.
+2. **Completed art-only sequences:** Chapters 11-15 and 22 are rendered and should remain on the lettering track rather than return to scene production.
+3. **Chapter 16-18 guided infrastructure:** lock terminal language, dead relay, reservoir bridge, pumpworks, and transit shell before sequential pages.
+4. **Chapter 19-21 Below the Map:** lock the buried street, enclave, interrogation, and evidence sequence; Chapter 22 is already complete.
 
 ## Catalogue Totals
 
