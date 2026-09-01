@@ -34,6 +34,16 @@ Do not edit or recreate a LaTeX export unless explicitly asked to synchronize or
 
 If archived LaTeX and `docs/canonical_md/` differ, edit `docs/canonical_md/` and note that LaTeX sync is pending.
 
+## Run Startup Checklist
+At the start of each repo work session:
+
+1. Read `AGENTS.md`.
+2. Check `docs/todo_idea_log.md` for open ideas or reminders.
+3. Treat idea-log entries as prompts, not canon, unless an entry explicitly says it has been canonized.
+4. If an idea is implemented, update its status with the file/chapter where it landed.
+
+Do not force idea-log material into an unrelated task. Use it only when it is relevant to the requested work or when the user explicitly asks to develop an open idea.
+
 ## Prime Directive
 Do not rewrite manuscript prose unless explicitly asked.
 
@@ -117,6 +127,7 @@ The manuscript favors:
 * high-stakes scenes without melodramatic summary
 * tight verbs and minimal adverbs
 * dialogue tags that default to "said" or are omitted
+* compact example lists, usually three items, sometimes four, almost never five
 
 Avoid:
 
@@ -131,6 +142,7 @@ Avoid:
 * replacing authorial texture with clean summary
 * melodrama and filler
 * unnecessary filter words, unless the filter is intentional
+* overstuffed example lists that create obvious AI texture
 
 ## Lore and Canon Rules
 Before adding or changing lore, search existing files with `rg`.
@@ -200,6 +212,33 @@ Do not place repo-relative paths in Obsidian-facing notes unless they are clearl
 Prefer Obsidian wikilinks for Obsidian-facing references when the target file exists in the vault.
 
 ## Manuscript Editing Workflow
+Before editing any manuscript file, check the current git diff.
+
+Treat all existing uncommitted user edits as intentional authorial changes.
+
+Do not overwrite, rephrase, normalize, or "improve" any user-edited text unless the task explicitly asks you to modify that exact passage.
+
+Workflow:
+
+1. Run `git diff` before editing.
+2. Identify any uncommitted changes already present.
+3. Preserve those changes.
+4. Make only the requested edit.
+5. Run `git diff` again after editing.
+6. Report only:
+   * files modified
+   * summary of requested changes made
+   * whether any pre-existing user edits were preserved
+   * final diff
+
+Rules:
+
+* Never revert author edits made in Obsidian.
+* Never rewrite nearby manuscript text for style unless specifically requested.
+* Never treat uncommitted edits as mistakes.
+* If a requested edit overlaps with existing uncommitted author text, modify only the overlapping sentence or phrase.
+* If the file changed substantially since the last Codex pass, stop and report the conflict instead of guessing.
+
 Before editing manuscript prose:
 
 1. Read `AGENTS.md`.

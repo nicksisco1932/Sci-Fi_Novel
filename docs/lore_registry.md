@@ -47,7 +47,9 @@
 | Harmony | Foundational Hive doctrine | Promise of unity through global consensus architecture | "consensus," "optimization," "shared cognition" | Historical ideal still used to justify uneven present reality |
 | Central Cognition Sector | Governance zone | Strategic oversight, anomaly review, executive control | Data pillars, executive clearance, signal discipline | Korin operates here in the early Hive-control chapters |
 | The Great Union | Ancient political formation | Voss-era consolidation during the Turning Time | "unity," "continuity," "preservation" | Deep-history label only; not an active current faction |
-| States of the Willing | Ancient post-Voss political bloc | Preservationist bloc involved in violence later called the Voss Conquest | "willing," "preservation" | Deep-history label only; not an active current faction |
+| Coalition of the Willing | Ancient preservation coalition / archive source | Dominant surviving record tradition for Voss-era surface history | "willing," "correct side," "preservation" | Deep-history label only; not neutral; not an active current faction |
+| Human Continuity Archive | Later archive / source frame | Archive voice preserving compromised Surface Age and para-ancient records | "record is incomplete," "shape of the dispute," "voice-dictated entry" | Appendix framing device; not automatically neutral |
+| States of the Great Angel | Ancient post-Voss extermination bloc | Bloc involved in destruction of the Minority World-State later called the Voss Conquest | "angel," "correct side," "preservation" | Deep-history label only; replaces earlier States of the Willing language in Voss material |
 | Minority World-State | Ancient political / minority formation | Targeted after Maribel Voss's assassination | Sparse, loaded references | Deep-history label only; details should remain unresolved and historically freighted |
 
 ---
@@ -56,9 +58,13 @@
 | Name (canonical) | Type | Meaning / association | Constraints | Notes |
 |---|---|---|---|---|
 | Maribel Voss | Ancient historical figure / martyr-symbol | Ancient Turning Time figure; corrupt coordinator, martyr-symbol, stale public memory | Keep manuscript references brief, stale, and familiar; fuller treatment belongs in appendix/backstory material | Ambiguously remembered; see `docs/appendices/Appendix – Figures of the Turning Time.md` |
+| Surface Age | Deep-history era label | Last centuries of surface civilization before later Hive orders made continuity possible | Use as broad archive-era context; avoid exact dates unless appendix material defines them | Used in Voss appendix archive notes |
 | Turning Time | Deep-history era label | Voss-era transition associated with consolidation, corruption, and later violence | Use as old-history context, not a current political program | Details may remain fragmentary and locally interpreted |
-| Voss Conquest | Later historical name | Post-assassination violence carried out against the Minority World-State in Voss's name | Do not overdefine the campaign or resolve the victor mythology | Remembered through contradictory inherited accounts |
+| Great Sorrow | Late surface-age crisis label | Period of heat, infrastructure failure, disaster pressure, and institutional breakdown around Voss's rise | Keep broad unless later appendix material defines causes, dates, or regional scope | Background pressure in Voss-era accounts |
+| Voss Conquest | Later historical name | Post-assassination destruction of the Minority World-State by the States of the Great Angel | Keep as catastrophic deep history; avoid clean moral closure or exact casualty certainty | See `docs/appendices/Appendix - The Voss Conquest.md` |
 | The Voss Effect | Historical phrase / semantic drift | First money disappearing through opaque legal/financial structures; later acid rain falling through 135-degree heat | Preserve the semantic drift and stale public familiarity; avoid chapter-level exposition unless explicitly requested | Phrase appears in below-the-map oral history, mural memory, and appendix/backstory material |
+| "We were supposed to live lives!" | Under-Hive memory phrase | Accusatory mural/graffiti fragment tied to Voss-era betrayal and ordinary life consumed by necessity myths | Keep as a fragment, not a speech or explanatory slogan | Scratched beneath the Maribel Voss mural in Chapter 22 |
+| Proto-Under Hive | Early cultural substrate | Early below-surface preservation culture that later Hive/Under-Hive traditions inherit from unevenly | Use for old archives, murals, inherited warnings, and preservation fragments | Not a replacement for `Below the Map` in Cassian's present |
 | Under-Hive memory | Local artistic / memory tradition | Flat ochre historical mural style used by Below-the-Map inhabitants to preserve old history | Not a replacement term for the geographic/canon setting term `Below the Map` | Use for art, memory, and historical aesthetics only |
 
 ---
@@ -116,10 +122,14 @@
 | Term | Canon form | Meaning | Do-not-change notes |
 |---|---|---|---|
 | "Hive" | Hive | Short form for Hive Earth system | Capitalization fixed |
+| "Human Continuity Archive" | Human Continuity Archive | Later archive/source frame for appendix material | Capitalization fixed; archive voice is not automatically objective |
 | "Reversionist" | Reversionist | Dissident identity / faction label | Capitalization fixed; singular/plural rules |
 | "blind zone" | blind zone | Area of degraded or absent system visibility | Lowercase unless it begins a sentence |
 | "Lower Grid" | Lower Grid | Neglected off-grid layers beneath active Hive order | Capitalization fixed when used as a place label |
 | "Below the Map" | Below the Map | Buried human undercity beneath the mapped Hive | Capitalization fixed when used as a place label |
+| "Surface Age" | Surface Age | Era label for late surface civilization | Capitalization fixed |
+| "Great Sorrow" | Great Sorrow | Broad crisis label in Voss-era accounts | Capitalization fixed; do not overdefine in chapter prose |
+| "Proto-Under Hive" | Proto-Under Hive | Early preservation substrate behind later under-Hive cultural memory | Use for ancient cultural history, not current geography |
 | "Under-Hive memory" | Under-Hive memory | Local historical/artistic memory style below the map | Do not use as a replacement for `Below the Map` |
 | "The Voss Effect" | The Voss Effect | Deep-history phrase with financial and later weather meanings | Capitalization fixed; preserve semantic drift |
 | "Almelah" | Almelah | Cassian and Gor's cultural world/origin | Spelling fixed |
@@ -130,6 +140,7 @@
 ## Appendix / Backstory Files
 | File | Purpose | Constraints | Notes |
 |---|---|---|---|
+| Appendix - The Voss Conquest.md | Book-style appendix for post-Voss catastrophe and deep-history war memory | Keep severe, archival, and historically uncertain; no clean victory myth | Connects Voss-era corruption, extermination, and later continuity logic |
 | Appendix – Figures of the Turning Time.md | Book-style appendix for historical-figure backstories that build the world without slowing chapter action | Use for optional deep-history detail; do not make appendices a substitute for live scene stakes | First entry: Maribel Voss |
 
 ---
