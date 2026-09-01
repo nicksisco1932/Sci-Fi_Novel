@@ -4,5 +4,9 @@
 # Keep compiled graphic-novel proof PDFs versioned without oversized Git blobs.
 art/graphic_novel/proofs/**/*.pdf filter=lfs diff=lfs merge=lfs -text
 
-# Store newly added or subsequently revised graphic-novel PNG assets in LFS.
-art/graphic_novel/**/*.png filter=lfs diff=lfs merge=lfs -text
+# Store the post-baseline concept batches and recovered experiment PNGs in LFS
+# without reclassifying the repository's established graphic-novel PNG history.
+art/graphic_novel/concept_sketches/institutions/**/*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/concept_sketches/technology/**/*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/concept_sketches/events-concepts/**/*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/experiments/visual-language-hierarchy/assets/**/*.png filter=lfs diff=lfs merge=lfs -text
