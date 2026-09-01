@@ -30,7 +30,7 @@ They froze. One gurgled in surprise, pinned by the throat. The other stood stock
 
 Everything was bright. Too bright.
 
-Cassian’s vision swam—cold metal, silver white, blinking status lights. Every surface was rounded where it could be, easy to clean, hard to catch on. Even the tray slots were aligned with machine precision.
+[[Cassian Rho|Cassian]]’s vision swam—cold metal, silver white, blinking status lights. Every surface was rounded where it could be, easy to clean, hard to catch on. Even the tray slots were aligned with machine precision.
 
 Clean-room silence. Burial-vault silence.
 
@@ -50,7 +50,7 @@ Language drift.
 
 Then, without sudden movement, they tapped a small interface on their wrist. A harmonic pulse bloomed in the air—subtle, resonant. The words that followed shifted mid-sentence, phonemes locking into patterns his mind could grasp.
 
-“You’re on Earth. Hive Spindle 9. You’ve returned.”
+“You’re on Earth. [[Hive Spindle World Document|Hive Spindle 9]]. You’ve returned.”
 
 Cassian blinked. Earth? Hive?
 
@@ -168,7 +168,7 @@ Once, spring had meant soil softening, rivers loosening, green forcing its way t
 
 Soft rain. Safe rain. Hissing rain. Shelter rain.
 
-Against Korin's glass, it fell in straight lines, captured by transparent treatment fields and drawn into runoff channels before it could descend toward the lower tiers. The system would test it, neutralize it, classify it, and send what remained into reclamation.
+Against [[Korin Tal|Korin]]'s glass, it fell in straight lines, captured by transparent treatment fields and drawn into runoff channels before it could descend toward the lower tiers. The system would test it, neutralize it, classify it, and send what remained into reclamation.
 
 Above, the rain was scenery.
 

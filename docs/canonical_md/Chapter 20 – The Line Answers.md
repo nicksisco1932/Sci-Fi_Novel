@@ -4,7 +4,7 @@ Then it answered.
 
 One knock from deeper in the corridor.
 
-Two back from somewhere above Cassian's left shoulder.
+Two back from somewhere above [[Cassian Rho|Cassian]]'s left shoulder.
 
 A third from farther in, lighter, almost cautious.
 
@@ -78,7 +78,7 @@ Thena added, "Before you ask, we know how that sounds."
 
 From the wall to Cassian's right, another panel opened. This one wider. A compact weapon protruded first, handmade but well kept, its barrel wrapped against reflection. Behind it stood a narrow figure in layered fabric and scavenged plating, face mostly covered, stance balanced and unsentimental.
 
-Not Hive.
+Not [[Hive Spindle World Document|Hive]].
 
 Not amateur.
 

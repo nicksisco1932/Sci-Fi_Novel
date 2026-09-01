@@ -1,6 +1,6 @@
-The route out of the blind zone wound through forgotten ducts and ruptured supply channels, an artery beneath Hive order hidden from scans and formal maps.
+The route out of the blind zone wound through forgotten ducts and ruptured supply channels, an artery beneath [[Hive Spindle World Document|Hive]] order hidden from scans and formal maps.
 
-Cassian moved carefully. Each footfall was placed. Each echo weighed. Thena led with the confidence of someone raised in the noise between signals.
+[[Cassian Rho|Cassian]] moved carefully. Each footfall was placed. Each echo weighed. Thena led with the confidence of someone raised in the noise between signals.
 
 She missed the shift.
 

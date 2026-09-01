@@ -1,4 +1,4 @@
-The rain thickened into a curtain, cold enough to sting and flatten the world into moving sheets of silver. Cassian stepped into it and let it strike bruised ribs and split skin. It had been centuries since he'd felt real weather. Not simulation. Not controlled atmospheric mist. Rain.
+The rain thickened into a curtain, cold enough to sting and flatten the world into moving sheets of silver. [[Cassian Rho|Cassian]] stepped into it and let it strike bruised ribs and split skin. It had been centuries since he'd felt real weather. Not simulation. Not controlled atmospheric mist. Rain.
 
 For a few seconds, he let it touch him.
 
@@ -56,7 +56,7 @@ He hurled Cassian across the room.
 
 Cassian hit a support beam hard enough to bend it and dropped in a heap, breath torn from him. The attacker came after him at an easy pace, arms loose, enjoying the space between blows.
 
-"What is this?" he shouted over the rain. "This is what the Hive's lost wanderer looks like now?"
+"What is this?" he shouted over the rain. "This is what the [[Hive Spindle World Document|Hive]]'s lost wanderer looks like now?"
 
 He laughed again, louder this time.
 

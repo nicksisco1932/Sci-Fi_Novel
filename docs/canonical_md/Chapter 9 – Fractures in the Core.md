@@ -1,6 +1,6 @@
-Cassian came to with metal in his mouth and sterilization gel burning through wounds that were not finished closing. The light above him flickered in uneven pulses, cutting the room into hard angles every time he blinked.
+[[Cassian Rho|Cassian]] came to with metal in his mouth and sterilization gel burning through wounds that were not finished closing. The light above him flickered in uneven pulses, cutting the room into hard angles every time he blinked.
 
-Not a cell. Not Hive standard. The air was warm, impure, alive. Somewhere beyond the wall, water knocked through old pipework and someone cursed softly over a burner that would not catch.
+Not a cell. Not [[Hive Spindle World Document|Hive]] standard. The air was warm, impure, alive. Somewhere beyond the wall, water knocked through old pipework and someone cursed softly over a burner that would not catch.
 
 He rolled onto one elbow. Muscle seized along his ribs. Every breath tasted like rust.
 
@@ -24,7 +24,7 @@ Cassian got himself upright in stages, every movement negotiated through pain. T
 
 She gave him half a smile. "If there were a resistance, I wouldn't advertise."
 
-He steadied himself against the wall. Three months of tests. Pressure. Alyen's voice. The memory sat in his muscles.
+He steadied himself against the wall. Three months of tests. Pressure. [[Alyen Ithra|Alyen]]'s voice. The memory sat in his muscles.
 
 He swallowed it. "Why help me?"
 

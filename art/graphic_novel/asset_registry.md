@@ -8,6 +8,8 @@ Dialogue approval for the initial pages is tracked separately in `art/graphic_no
 
 Unrendered manuscript scenes for Chapters 11-22 are catalogued in `art/graphic_novel/remaining_scene_catalogue.md`, including priorities, required continuity locks, and recommended render batches.
 
+Exploratory two-sketch-per-subject work is tracked separately in `art/graphic_novel/concept_art_wishlist.md`. Those black-and-white sketches are inspiration material and do not become continuity assets until reviewed and promoted here.
+
 ## Generated Asset Inventory
 
 | Asset | Type | Status | Path | Source / use | Notes |

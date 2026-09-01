@@ -10,7 +10,7 @@ Thena carried the med case in her good hand.
 
 "I talk to broken things all the time," she said. "Usually they have the decency not to answer back."
 
-Cassian said nothing.
+[[Cassian Rho|Cassian]] said nothing.
 
 He was listening to the descent.
 
@@ -20,7 +20,7 @@ Not expensive in energy. In access.
 
 The thought settled fast.
 
-Whoever was moving them could reach dead systems, parasitize forgotten lines, wake things the Hive had stopped counting.
+Whoever was moving them could reach dead systems, parasitize forgotten lines, wake things the [[Hive Spindle World Document|Hive]] had stopped counting.
 
 That did not mean control.
 
@@ -112,7 +112,7 @@ Thena looked up sharply.
 
 The text changed.
 
-NOT GOR
+NOT [[Gor of Almelah|GOR]]
 
 Cassian's eyes narrowed.
 

@@ -2,9 +2,9 @@ Three months.
 
 They had hollowed him with precision.
 
-Every day, the same chair. The same chamber. The same jagged glyphs flooding his visual cortex until language gave way to pressure and pattern. Alyen Ithra never raised her voice. Never showed emotion. She didn’t need to. The system did the cutting. She made sure it kept cutting.
+Every day, the same chair. The same chamber. The same jagged glyphs flooding his visual cortex until language gave way to pressure and pattern. [[Alyen Ithra]] never raised her voice. Never showed emotion. She didn’t need to. The system did the cutting. She made sure it kept cutting.
 
-Cassian never broke. But something in him had changed.
+[[Cassian Rho|Cassian]] never broke. But something in him had changed.
 
 They didn’t want answers. They wanted access.
 
@@ -86,7 +86,7 @@ He was moving before thought finished catching up.
 
 Corridor 12A.
 
-The hall was empty. Lights flickered once—then dimmed. System update protocols. Hive-wide maintenance cycle. He’d overheard it once, barely a whisper. Every three cycles, security nodes rebooted in staggered intervals.
+The hall was empty. Lights flickered once—then dimmed. System update protocols. [[Hive Spindle World Document|Hive]]-wide maintenance cycle. He’d overheard it once, barely a whisper. Every three cycles, security nodes rebooted in staggered intervals.
 
 Complacency had crept in.
 

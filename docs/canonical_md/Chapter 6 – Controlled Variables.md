@@ -1,4 +1,4 @@
-Cassian sat alone in the observation chamber, staring at the pale surface of the table in front of him. No restraints. No visible sensors. Just a low hum from the walls and the faint scent of sterilized air. Nothing to push against except the room itself.
+[[Cassian Rho|Cassian]] sat alone in the observation chamber, staring at the pale surface of the table in front of him. No restraints. No visible sensors. Just a low hum from the walls and the faint scent of sterilized air. Nothing to push against except the room itself.
 
 His thoughts refused to hold shape. He had tried—tried hard—to reconstruct the final moments before the jump collapsed. The wave. The anomaly. The AI’s voice: There is an anomaly in the destination field.
 
@@ -12,7 +12,7 @@ A void.
 
 His mind searched for purchase, but the fragments refused to align. There were images—impressions—pressure behind his eyes and something darker threaded through the static. Every time he reached for it, it slipped deeper out of reach.
 
-Why had Korin asked about hallucinations?
+Why had [[Korin Tal|Korin]] asked about hallucinations?
 
 Why the practiced charm? The evasive precision?
 
@@ -72,7 +72,7 @@ She didn’t have to.
 
 Cassian leaned back, assessing. “I didn’t know I owed you the truth.”
 
-“You owe Hive Earth everything,” she replied, stepping closer. There was no anger in it. Only doctrine. “You’re alive because we permitted it.”
+“You owe [[Hive Spindle World Document|Hive Earth]] everything,” she replied, stepping closer. There was no anger in it. Only doctrine. “You’re alive because we permitted it.”
 
 “So this is the nice part over?”
 
@@ -90,7 +90,7 @@ He clenched his jaw as the symbols stopped behaving like images and fractured in
 
 His hands locked around the edge of the table.
 
-She moved closer. “My name is Alyen Ithra. I serve Director Tal directly. I will extract what’s inside you if I have to peel your cognition apart layer by layer.”
+She moved closer. “My name is [[Alyen Ithra]]. I serve Director Tal directly. I will extract what’s inside you if I have to peel your cognition apart layer by layer.”
 
 Cassian’s vision blurred. The voice. The warning. A phrase rising through static:
 

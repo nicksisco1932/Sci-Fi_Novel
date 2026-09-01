@@ -1,6 +1,6 @@
 The chamber was colder than usual.
 
-Korin Tal stood before the central node array of Spindle 9's Cognitive Layer Interface. Data threads pulsed through the walls, light and signal braided into the look of perfect order. Under that surface, something had started to slip.
+[[Korin Tal]] stood before the central node array of [[Hive Spindle World Document|Spindle 9]]'s Cognitive Layer Interface. Data threads pulsed through the walls, light and signal braided into the look of perfect order. Under that surface, something had started to slip.
 
 A projection rotated in front of him: grid-loss sectors, patch updates, command overrides, each annotated in terse script.
 
@@ -16,7 +16,7 @@ A beat.
 
 That number again.
 
-The same duration reported by five separate Spindles during Cassian Rho's neural spike event.
+The same duration reported by five separate Spindles during [[Cassian Rho]]'s neural spike event.
 
 Too exact. Too synchronized.
 
@@ -26,7 +26,7 @@ Korin folded his hands behind his back.
 
 "They've gone to ground," he said. "But nothing flawed stays buried forever."
 
-Alyen Ithra stepped into view across the chamber. Tension lived in her posture even when her face gave away nothing.
+[[Alyen Ithra]] stepped into view across the chamber. Tension lived in her posture even when her face gave away nothing.
 
 "He's not just resisting," she said. "He's adapting. Rebuilding faster than projected. The extraction window is closing."
 

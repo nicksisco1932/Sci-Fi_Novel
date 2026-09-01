@@ -1,4 +1,4 @@
-Cassian couldn’t breathe.
+[[Cassian Rho|Cassian]] couldn’t breathe.
 
 He couldn’t see. The panel had given way beneath him before he fully understood what he had escaped into, and now the shaft had become a larger tube, less passage than machine.
 

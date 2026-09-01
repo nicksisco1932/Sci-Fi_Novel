@@ -4,7 +4,7 @@
 
 **Voice-Dictated Entry: Surface Age / Para-Ancient Conflict Register**
 
-These accounts belong to the last centuries of surface civilization, before the Hive orders made continuity possible. The record is incomplete. Most surviving histories were preserved by the Coalition of the Willing.
+These accounts belong to the last centuries of surface civilization, before the [[Hive Spindle World Document|Hive]] orders made continuity possible. The record is incomplete. Most surviving histories were preserved by the Coalition of the Willing.
 
 Where certainty is not possible, this appendix records the shape of the dispute.
 
@@ -14,7 +14,7 @@ The Voss Conquest is the later name for the post-assassination destruction of th
 
 The rebel term is not neutral. It is also harder to dismiss.
 
-The war began after Maribel Voss was dead. That fact matters less than it should. Her assassination gave the factions something they had lacked while she lived: a corpse that could not correct them. Voss had taught them the language of scale, necessity, and civilizational survival. After her death, that language moved without her.
+The war began after [[Appendix – Figures of the Turning Time#Maribel Voss|Maribel Voss]] was dead. That fact matters less than it should. Her assassination gave the factions something they had lacked while she lived: a corpse that could not correct them. Voss had taught them the language of scale, necessity, and civilizational survival. After her death, that language moved without her.
 
 The Great Union did not collapse in a single break. It failed the way overlarge systems often fail: jurisdiction by jurisdiction, exception by exception, office by office. Emergency councils became provisional governments. Provisional governments became armed claims. Armed claims became states with flags, records, and prisons.
 
@@ -48,4 +48,4 @@ The Conquest did not end cleanly. It exhausted itself into treaties, annexations
 
 The Hive orders did not descend from the Voss Conquest alone. That would be too simple. But the Conquest left behind a lesson that later systems never fully rejected: fragmentation can kill a civilization, and unity can learn to kill in civilization's name.
 
-By Cassian Rho's era, the Voss Conquest is old enough to be mural history, archive dispute, and inherited insult. Its practical use remains intact. When a faction wants to remove a people and still call itself necessary, it reaches for language first. The killing follows after.
+By [[Cassian Rho]]'s era, the Voss Conquest is old enough to be mural history, archive dispute, and inherited insult. Its practical use remains intact. When a faction wants to remove a people and still call itself necessary, it reaches for language first. The killing follows after.

@@ -1,6 +1,6 @@
 The descent began with the hum of dying infrastructure.
 
-Thena took them down a service stairwell wedged between forgotten grid sectors, walls sweating condensation where coolant lines had ruptured years earlier. Faded signage marked each landing in glyphs the Hive's universal overlay no longer supported. Cassian dragged a thumb across one as he passed. The text flickered, tried to resolve, and failed.
+Thena took them down a service stairwell wedged between forgotten grid sectors, walls sweating condensation where coolant lines had ruptured years earlier. Faded signage marked each landing in glyphs the [[Hive Spindle World Document|Hive]]'s universal overlay no longer supported. [[Cassian Rho|Cassian]] dragged a thumb across one as he passed. The text flickered, tried to resolve, and failed.
 
 No uplink. No correction.
 

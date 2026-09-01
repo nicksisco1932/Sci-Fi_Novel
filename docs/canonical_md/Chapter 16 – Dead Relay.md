@@ -1,6 +1,6 @@
 They left the safehouse before the salvage coil burned out.
 
-Cassian did not trust the room for a second sleep cycle, and Thena did not argue. She wrapped her bandaged hand tighter, checked the edge on a folding blade one-handed, and followed him back into the dark.
+[[Cassian Rho|Cassian]] did not trust the room for a second sleep cycle, and Thena did not argue. She wrapped her bandaged hand tighter, checked the edge on a folding blade one-handed, and followed him back into the dark.
 
 The lanes were quieter than before.
 
@@ -30,7 +30,7 @@ Ahead, the passage narrowed and opened again into a relay chamber half swallowed
 
 Cassian saw it then.
 
-Faint blue light leaked under a dead terminal housing near the far wall. Not the soft ambient glow of Hive architecture. A harsher thing. Local. Improvised. Wrong for a machine that should have been cold.
+Faint blue light leaked under a dead terminal housing near the far wall. Not the soft ambient glow of [[Hive Spindle World Document|Hive]] architecture. A harsher thing. Local. Improvised. Wrong for a machine that should have been cold.
 
 The room itself looked abandoned. Relay spines rose out of the floor like rusted vertebrae. Stripped cable bundles hung in loops from the ceiling. A service rail ran overhead, broken in the middle and fused black where something had overloaded it years ago.
 
@@ -174,7 +174,7 @@ He rose and listened again.
 
 No immediate pursuit behind the sealed panel.
 
-No direct sound of Gor.
+No direct sound of [[Gor of Almelah|Gor]].
 
 That meant nothing useful except that the hunter was not close enough to enjoy this part in person.
 

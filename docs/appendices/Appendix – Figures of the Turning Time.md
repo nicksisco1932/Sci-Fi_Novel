@@ -4,7 +4,7 @@
 
 **Voice-Dictated Entry: Surface Age / Para-Ancient History**
 
-These accounts belong to the last centuries of surface civilization, before the Hive orders made continuity possible. The record is incomplete. Most surviving histories were preserved by the Coalition of the Willing.
+These accounts belong to the last centuries of surface civilization, before the [[Hive Spindle World Document|Hive]] orders made continuity possible. The record is incomplete. Most surviving histories were preserved by the Coalition of the Willing.
 
 Where certainty is not possible, this appendix records the shape of the dispute.
 
@@ -30,7 +30,7 @@ She was not loyal to the poor as a class, and she was not loyal to the elite as 
 
 Poor communities remembered her as both escape story and betrayal because she refused to sanctify suffering. The protected classes despised her origin but needed her competence. Institutions hated her because she treated delay, procedure, and career protection as excuses for failure. Armies trusted her because she understood command without theater and gave them a reason to endure more than survival required.
 
-This is where she differs from later system figures like Korin Tal. Korin fears what humans do with freedom. Voss despised what humans failed to become despite it. She did not believe humanity was unfit for freedom. She believed freedom had made humanity comfortable with being unfit.
+This is where she differs from later system figures like [[Korin Tal]]. Korin fears what humans do with freedom. Voss despised what humans failed to become despite it. She did not believe humanity was unfit for freedom. She believed freedom had made humanity comfortable with being unfit.
 
 Many accounts are harshest about this: she expected too much and excused nothing. She was not disappointed that people were weak. She was enraged that they had agreed to remain so.
 
@@ -66,8 +66,8 @@ A different phrase survives in Proto-Under Hive mural tradition:
 
 Coalition indexes sometimes attach it to the shooting story because one attacker is easier to file than a wider accusation. Under-Hive memory uses it less cleanly. The phrase belongs to people who claimed Voss-era necessity had turned ordinary futures into material for continuity.
 
-Voss was later assassinated. That is one of the few stable facts, though it clarified little. After her death, The Great Union fractured. The States of the Great Angel slaughtered the Minority World-State in what later became known as the Voss Conquest. The violence was justified by the records that survived. Later rebel accounts are the only reason the event was remembered as conquest at all.
+Voss was later assassinated. That is one of the few stable facts, though it clarified little. After her death, The Great Union fractured. The States of the Great Angel slaughtered the Minority World-State in what later became known as the [[Appendix - The Voss Conquest#The Voss Conquest|Voss Conquest]]. The violence was justified by the records that survived. Later rebel accounts are the only reason the event was remembered as conquest at all.
 
 Hundreds of years afterward, the descended factions turned on one another over who represented the purest inheritance of Voss.
 
-By Cassian Rho's era, all of this is ancient history. Voss is not an active political force. She is a stale reference with teeth left in it, a mural figure, a corruption joke, a weather phrase, and a name people still use when they want permission for what they were already prepared to do.
+By [[Cassian Rho]]'s era, all of this is ancient history. Voss is not an active political force. She is a stale reference with teeth left in it, a mural figure, a corruption joke, a weather phrase, and a name people still use when they want permission for what they were already prepared to do.

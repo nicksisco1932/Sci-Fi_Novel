@@ -1,6 +1,6 @@
 They did not leave the room as guests.
 
-Two watchers took point. The masked one stayed behind Cassian's left shoulder, close enough for the weapon to matter and far enough not to be taken easily. The runner carried the rain-dark coat folded in both hands, as if the missing man might still object to careless handling.
+Two watchers took point. The masked one stayed behind [[Cassian Rho|Cassian]]'s left shoulder, close enough for the weapon to matter and far enough not to be taken easily. The runner carried the rain-dark coat folded in both hands, as if the missing man might still object to careless handling.
 
 Thena walked beside Cassian with her injured hand tucked against her ribs.
 
@@ -26,13 +26,13 @@ The escort slowed because two residents were dragging a water frame across the p
 
 Cassian slowed at a cracked mural rendered in the flat ochre style the locals called Under-Hive memory. A pale woman stood above a crowd, untouched by silver lines of acid rain.
 
-"Maribel Voss," he read from the nameplate.
+"[[Appendix – Figures of the Turning Time#Maribel Voss|Maribel Voss]]," he read from the nameplate.
 
 Thena barely looked at it. "Old Turning Time."
 
 Beneath the nameplate, someone had scratched: *We were supposed to live lives!*
 
-"The Voss Effect," the older figure said without turning. "First money. Later weather."
+"[[Appendix – Figures of the Turning Time#Administration and the Voss Effect|The Voss Effect]]," the older figure said without turning. "First money. Later weather."
 
 The water frame scraped through the bottleneck ahead.
 

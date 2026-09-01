@@ -70,6 +70,14 @@ Work strictly from top to bottom unless a specific page is requested.
 | 35 | Awaiting Lettering | `docs/canonical_md/Chapter 22 – The Runoff Cut.md` | `scenes/chapter_22_runoff_cut/page-01.png` | Chapter page 1; conditional escort, Voss mural, and canonical environmental lettering. |
 | 36 | Awaiting Lettering | `docs/canonical_md/Chapter 22 – The Runoff Cut.md` | `scenes/chapter_22_runoff_cut/page-02.png` | Chapter page 2; route cloth, three-cut comparison, and dark-lantern stop. |
 | 37 | Awaiting Lettering | `docs/canonical_md/Chapter 22 – The Runoff Cut.md` | `scenes/chapter_22_runoff_cut/page-03.png` | Chapter page 3; runoff reveal, diagonal addition, and invitation. |
+| 38 | Awaiting Lettering | `docs/canonical_md/Chapter 1 – The Return.md` | `scenes/chapter_01_korin_office/page-01.png` | Alert, Cassian identification, and executive lock; exact map in the scene lettering spec. |
+| 39 | Awaiting Lettering | `Adaptation Addition` | `experiments/korin-office-meditation/assets/variant-03-the-rain.png` | Five approved adaptation captions; exact map in the experiment lettering spec. |
+| 40 | Awaiting Lettering | `docs/canonical_md/Chapter 11 – Contingencies.md` | `scenes/chapter_11_contingencies/page-01.png` | Contingency chamber exchange; exact map in the scene lettering spec. |
+| 41 | Awaiting Lettering | `docs/canonical_md/Chapter 11 – Contingencies.md` | `scenes/chapter_11_contingencies/page-02.png` | Planetary integration captions; exact map in the scene lettering spec. |
+| 42 | Awaiting Lettering | `docs/canonical_md/Chapter 11 – Contingencies.md` | `scenes/chapter_11_contingencies/page-03.png` | Spindle 31 feed and canonical interface wording; exact map in the scene lettering spec. |
+| 43 | Awaiting Lettering | `docs/canonical_md/Chapter 12 – The Lanes Between Signals.md` | `scenes/chapter_12_lanes_between_signals/page-01.png` | Descent, Lower Grid reveal, and Walker; exact map in the scene lettering spec. |
+| 44 | Awaiting Lettering | `docs/canonical_md/Chapter 12 – The Lanes Between Signals.md` | `scenes/chapter_12_lanes_between_signals/page-02.png` | Market ritual; exact map in the scene lettering spec. |
+| 45 | Awaiting Lettering | `docs/canonical_md/Chapter 12 – The Lanes Between Signals.md` | `scenes/chapter_12_lanes_between_signals/page-03.png` | Medical-drone abandonment and departure; exact map in the scene lettering spec. |
 
 ## Acceptance Gate
 

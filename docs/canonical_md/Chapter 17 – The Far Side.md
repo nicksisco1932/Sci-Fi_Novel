@@ -1,6 +1,6 @@
 The bridge swayed once under their combined weight, then settled into a low metallic hum.
 
-Cassian kept his pace even.
+[[Cassian Rho|Cassian]] kept his pace even.
 
 The reservoir below was too dark to read cleanly. Black water sat far beneath the broken catwalks, barely moving except where distant runoff struck it in thin silver lines. The guide lights ahead stayed narrow and exact, a single path drawn across open space with no effort to make it feel safe.
 
@@ -168,9 +168,9 @@ That almost bothered him more.
 
 When he sealed the last turn of gauze, the terminal lit again.
 
-HIVE TEAM PASSED ABOVE YOU
+[[Hive Spindle World Document|HIVE]] TEAM PASSED ABOVE YOU
 
-GOR DID NOT
+[[Gor of Almelah|GOR]] DID NOT
 
 YOU HAVE NINE MINUTES
 
@@ -216,7 +216,7 @@ He said, "What does accuracy mean?"
 
 The screen held for a beat.
 
-WHAT DID ALYEN REACH
+WHAT DID [[Alyen Ithra|ALYEN]] REACH
 
 He said nothing.
 

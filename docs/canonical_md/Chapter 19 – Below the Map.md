@@ -2,7 +2,7 @@ The transit shell ran blind for so long that time stopped feeling measurable.
 
 There were no windows, no status lights, no guide strips waking in sequence to tell them the next step had already been decided. Just the hard rattle of steel wheels under the cab and the occasional shift in pressure when the buried rail curved through spaces too large to guess at.
 
-Thena sat opposite Cassian with the med case between her boots.
+Thena sat opposite [[Cassian Rho|Cassian]] with the med case between her boots.
 
 "I liked the part where the machine lied to us in complete sentences," she said.
 
@@ -96,7 +96,7 @@ Old enough to have collected grime. Recent enough that the edges still held shap
 
 Thena stepped closer.
 
-"That's not Hive."
+"That's not [[Hive Spindle World Document|Hive]]."
 
 "I know."
 
@@ -196,7 +196,7 @@ He did not need a terminal to tell him the obvious.
 
 Hive pursuit lost efficiency without system assistance.
 
-Gor did not.
+[[Gor of Almelah|Gor]] did not.
 
 The hunter did not need doors opened.
 

@@ -14,7 +14,7 @@ Handmade.
 
 One edge torn hard enough to leave threads splayed like wire.
 
-No one in the room sat except Cassian and Thena.
+No one in the room sat except [[Cassian Rho|Cassian]] and Thena.
 
 No one touched the evidence after it was placed.
 
@@ -168,7 +168,7 @@ The masked watcher sounded unconvinced.
 
 "You're giving a lot of certainty to wet fabric."
 
-"I'm giving certainty to force application," Cassian said. "A Hive snatch team leaves different evidence. Restraint tags. Suppressor residue. Controlled mess. This is closer. Faster. Someone working by hand."
+"I'm giving certainty to force application," Cassian said. "A [[Hive Spindle World Document|Hive]] snatch team leaves different evidence. Restraint tags. Suppressor residue. Controlled mess. This is closer. Faster. Someone working by hand."
 
 The older figure folded their arms.
 
@@ -244,7 +244,7 @@ Cassian did not look at them.
 
 "And if it is your hunter?"
 
-Cassian thought of Gor's shoulder driving through him like a remembered lesson. The rooted stance. The disdain for waste. The habit of turning contact into judgment.
+Cassian thought of [[Gor of Almelah|Gor]]'s shoulder driving through him like a remembered lesson. The rooted stance. The disdain for waste. The habit of turning contact into judgment.
 
 "Then he didn't come here because he needed your routes," Cassian said. "He came here because he knew I would choose them."
 
