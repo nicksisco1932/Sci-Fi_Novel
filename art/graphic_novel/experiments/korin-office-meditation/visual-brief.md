@@ -35,6 +35,8 @@ Korin sits upright in the dampened private chamber. A dominant high-angle panel 
 
 The office nearly disappears. Severe crops isolate the closed eyelid, jaw, high collar, and motionless hand. The image treats meditation as controlled maintenance rather than peace, spirituality, or visible psychic activity.
 
+Author-approved production role: preserve this file unchanged as the human-detail and material-coherence reference for focused character corrections. Its skin imperfections, stubble, hair work, brows, lashes, and hand detail may guide rendering craft. Its Korin identity, near-black exposure, severe crop, office blocking, and near-photographic finish do not replace the accepted character or Chapter 1 style locks.
+
 ### 03 - Rain Reflection
 
 `assets/study-03-rain-reflection.png`
@@ -47,7 +49,7 @@ Korin stands before the treated glass with his hands clasped behind his back. Re
 - Meditation is communicated through stillness, breath, framing, and repetition only.
 - No mystical imagery, psychic effects, religious posture, villain theatrics, or readable interface text.
 - Darkness may conceal context but must preserve face, hand, clothing, rain, glass, and room materials.
-- The studies remain outside the asset registry until the author approves their production role.
+- The studies remain outside the asset registry unless the author approves a specific production role. Study 02 is the sole approved exception and is registered only as a narrow human-detail reference.
 
 ## Five-Panel Variants
 

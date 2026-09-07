@@ -1,0 +1,2300 @@
+{
+  "baseline_commit": "b24f2b55140833b0a1d56d54c2c1d46fcf479972",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "127668c328914cc60035e8d301b1e2ae9a242e8acf12167020f8600dfac84095",
+      "bytes": 1437
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "0510ac2ceb97b22af5c415a1567da03cf723f809ae5b226cd9b1976f6d8bab43",
+      "bytes": 24
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "025b42b4789b717383e5ea1a172cb25d76d710df3c789c65d54b8205861f7f0a",
+      "bytes": 12817
+    },
+    {
+      "path": "Legacy/Alyen Ithra - Korin right hand.docx",
+      "sha256": "4ab26fa71ccf6dbfbb46822430d11f1eed05ad3c19f3328a4fb842533935a81f",
+      "bytes": 7926
+    },
+    {
+      "path": "Legacy/Cassian Rho personality_.docx",
+      "sha256": "75a480be75c4805baf70bdbe8cae928e72aaab6e05a4c08cccaad2fb59fba237",
+      "bytes": 8156
+    },
+    {
+      "path": "Legacy/Chapter 1 \u2013 Scene 1- The Return.docx",
+      "sha256": "0e74417effeaea2aae49ea4f7d83769f7a6e826ffe6b197ec2811bee069a3e2e",
+      "bytes": 11178
+    },
+    {
+      "path": "Legacy/Chapter 10 \u2013 Signal to Noise.docx",
+      "sha256": "fbf3e02498576156a02c18531d2b625cf2be02c037831613177e8e98dea437f3",
+      "bytes": 9434
+    },
+    {
+      "path": "Legacy/Chapter 11 \u2013 Contingencies.docx",
+      "sha256": "3de271f33a8f3446273977fc30b887cee0374b52604bcd8fd2fe46e57071c599",
+      "bytes": 9626
+    },
+    {
+      "path": "Legacy/Chapter 12 \u2013 The Lanes Between Signals.docx",
+      "sha256": "b5ed94c4ec69a06d0880a392c754f7bf167bd93a2a7c98f1cf64740c1b56ef8e",
+      "bytes": 12927
+    },
+    {
+      "path": "Legacy/Chapter 13 \u2013 The Soft Edge.docx",
+      "sha256": "4e07a34a5c9a3cd92200874a4dbc3f59390457f12ac10716b2e83b6513c9fe48",
+      "bytes": 10579
+    },
+    {
+      "path": "Legacy/Chapter 14 \u2013 The Broken Clinic.docx",
+      "sha256": "34660675b37adcfc7a7080096bc8b72c89dc5b4f68c2ea771fb92285691205da",
+      "bytes": 10079
+    },
+    {
+      "path": "Legacy/Chapter 15 \u2013 The Night the Oath Broke.docx",
+      "sha256": "f212cfa698e287f7f2206e52bad6d7d32d41e238578ef5e436cc306d97ca2951",
+      "bytes": 16204
+    },
+    {
+      "path": "Legacy/Chapter 4 \u2013 The Walk.docx",
+      "sha256": "2085e96184a336b5644fcdc2090000f13f7ed4039ab932af120373908c1384da",
+      "bytes": 7926
+    },
+    {
+      "path": "Legacy/Chapter 5 \u2013 The Opening Move.docx",
+      "sha256": "17513271ee22df13d65ecdd24acc094d84cd3ce9e8d8ba952ea0144e55c0149e",
+      "bytes": 10279
+    },
+    {
+      "path": "Legacy/Chapter 6_.docx",
+      "sha256": "5888068a2380ac978eaee20b28fe8e81c4f04b6192a0dd7b36de24e6d135850d",
+      "bytes": 9297
+    },
+    {
+      "path": "Legacy/Chapter 7 \u2013 The Seam.docx",
+      "sha256": "9eb30caf0c433181dbda5073f1e6c22d78b97491eb5dd2427ee2ecde39f3b8b9",
+      "bytes": 9491
+    },
+    {
+      "path": "Legacy/Chapter 8 \u2013 The Drop.docx",
+      "sha256": "e39472a30ca32a1ae2e961ab81e4725f937bdf3afd416d1fce4c1c12ddb85fe1",
+      "bytes": 9208
+    },
+    {
+      "path": "Legacy/Chapter 9.docx",
+      "sha256": "6f7045632d9a0d85586ef044fa61d0c52686109066442237e26a9c4a25c84333",
+      "bytes": 8294
+    },
+    {
+      "path": "Legacy/Current Timeline Summary.docx",
+      "sha256": "a044f5b4fd4569664058c998b4366491b8a6992a32d314ea995f527f34612ace",
+      "bytes": 8278
+    },
+    {
+      "path": "Legacy/Gor of Almelah \u2013 Character Dossier.docx",
+      "sha256": "e1209117efbe1f71921caa5b4b2facce8ff4024b9dc5cf83dff2cdf40516fe5a",
+      "bytes": 7893
+    },
+    {
+      "path": "Legacy/README.md",
+      "sha256": "288b3bd987f5e9421355850c14cafcf7c7204da793b05f983d4e50ddeaf622ea",
+      "bytes": 383
+    },
+    {
+      "path": "Legacy/canonical_md_superseded/Chapter 1 \u2013 Scene 1- The Return.md",
+      "sha256": "ef82a2cb3f391c3be1b9cb0227ff26857f804ac591a40e0d1adc4e11d0678faf",
+      "bytes": 6764
+    },
+    {
+      "path": "Legacy/canonical_md_superseded/opening_chapters_pre_merge_2026-07-02/Chapter 1 \u2013 The Return.md",
+      "sha256": "f817e0fb765adb03beddeb26174be1738306a5fed9705590a7b720705c9fcc7e",
+      "bytes": 2621
+    },
+    {
+      "path": "Legacy/canonical_md_superseded/opening_chapters_pre_merge_2026-07-02/Chapter 2 \u2013 Before the Jump.md",
+      "sha256": "629c7c96b9d18c8aabacc2dba715e0728aae1c62b320e16931f2096cc64f7703",
+      "bytes": 2616
+    },
+    {
+      "path": "Legacy/canonical_md_superseded/opening_chapters_pre_merge_2026-07-02/Chapter 3 \u2013 A Flaw in the Pattern.md",
+      "sha256": "09b3017f9aee36a14aac2c7ba391c22ec313008222cd271bd097465317ed7fcd",
+      "bytes": 2609
+    },
+    {
+      "path": "Legacy/latex_artifacts/ch1_artifact_snapshot.tex",
+      "sha256": "384b29c5e7edc19a412034d4e6fa3ee22aec3d22e56d5e5473da898c73a70568",
+      "bytes": 1826
+    },
+    {
+      "path": "Legacy/latex_artifacts/ch2_artifact_snapshot.tex",
+      "sha256": "91a3e124dfe2d65759a6d2606445286d89979d28209d26f6c12e92567bbba23d",
+      "bytes": 1224
+    },
+    {
+      "path": "Legacy/latex_artifacts/ch3_artifact_snapshot.tex",
+      "sha256": "eb836a53156d260fd3555072424776da0a14defbfd1534b4281ab7824dedbb2b",
+      "bytes": 833
+    },
+    {
+      "path": "Legacy/latex_artifacts/main_artifact_snapshot.tex",
+      "sha256": "6186d9d42e294a2ff962b381967af85b27e2d0db58c260187f53431d99a60f24",
+      "bytes": 41058
+    },
+    {
+      "path": "OPENING_EDIT_AGENT.md",
+      "sha256": "183f6854808a1d00485e474684bf7e09a5a05cea7fd858f96366abd34edaf501",
+      "bytes": 2575
+    },
+    {
+      "path": "art/graphic_novel/ART_DIRECTORY_RECTIFICATION_AUDIT_2026-09-01.md",
+      "sha256": "084087e085aad7ba710069be9f8a792c17f94bf3efbd7c90afb88c2191ad2712",
+      "bytes": 6929
+    },
+    {
+      "path": "art/graphic_novel/ASSET_ECOSYSTEM_MAP_2026-09-04.md",
+      "sha256": "5795f8b23abda79eea09ecdedc19f3e31fc373d65c976346de7dafd886eb31fc",
+      "bytes": 22041
+    },
+    {
+      "path": "art/graphic_novel/ASSET_INVENTORY_AND_MIGRATION_MAP_2026-09-04.csv",
+      "sha256": "015450ac83847b63f4304bf67ad1da0fb83fd45609185661563106c8a48c3aaa",
+      "bytes": 327810
+    },
+    {
+      "path": "art/graphic_novel/PHASE_1_AUTHOR_REVIEW_2026-09-01.md",
+      "sha256": "d8b529e0bd5bf3d7fb48f0ee313239954f6a3fb93f2778f0d340659075a3465c",
+      "bytes": 14968
+    },
+    {
+      "path": "art/graphic_novel/PHASE_1_CANDIDATE_REVIEW_LOG_2026-09-01.md",
+      "sha256": "43311543be734f17937c91d070ae4595de356626b25dffb2cd00c2e956fe68a9",
+      "bytes": 84861
+    },
+    {
+      "path": "art/graphic_novel/PROJECT_MILESTONE.md",
+      "sha256": "052b6735e441e7f75d5ca3e9414f364471da715a47e1461a18597e2c4d131a76",
+      "bytes": 4850
+    },
+    {
+      "path": "art/graphic_novel/PROPOSED_FIXES_PHASE_1_2026-09-01.md",
+      "sha256": "ff7124c8bf863ca35022bd9a3a84f4c5f8e8f72f3edff4b0756838681621a762",
+      "bytes": 25531
+    },
+    {
+      "path": "art/graphic_novel/SOP.md",
+      "sha256": "52181ad133741be8e72aa48569ffd102b3aad9f523978388718b182186f86c74",
+      "bytes": 9369
+    },
+    {
+      "path": "art/graphic_novel/asset_registry.md",
+      "sha256": "0a794c4977cec9e1acd823ac06ef62d23eed69de773a41af070b8724caeea396",
+      "bytes": 37246
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/README.md",
+      "sha256": "588b23e9257c3633c3f198f0f721785b8a582a1b3c3ec6c79731601abe15be93",
+      "bytes": 1384
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/macro-ward-geometry-v1.png",
+      "sha256": "cbfece3ddfd9876017b957ff7db0b1ad8858421220c0ae8ca17880941191e3e7",
+      "bytes": 2442447
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/meso-characters-blocking-v1.png",
+      "sha256": "c23a8863b7f6a1b97dc1f614fd0f9ec87c92b96dc001b4768c93aa19ffabf9e0",
+      "bytes": 2726796
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/meso-restraint-release-v1.png",
+      "sha256": "374995f515f93d7e74ada4293ed607f652e44aea26f53c95f74ce61f59ac1f70",
+      "bytes": 2397301
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/meso-restraint-release-v2.png",
+      "sha256": "fb07f957629d172261100f9c0eb86c6123a1afe7be48a30b5b2c953157a1927f",
+      "bytes": 2574156
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/micro-knife-interface-materials-v1.png",
+      "sha256": "1553d4157b845f359a5a421befbd14a3eddd0ae4e3c6cf8b0bde25fcd0490b8f",
+      "bytes": 2685084
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/candidates/phase1-reset/page-01-art-only-v1-canvas-normalized.png",
+      "sha256": "693cb29da9c3368b9699804382f41e3b457fff3b406ad3b6f2c11fbff6564b24",
+      "bytes": 2313397
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/candidates/phase1-reset/page-01-art-only-v1.png",
+      "sha256": "e8c47679eaf90f44a4571f81f0c0b4aaf80b069c7c82ded4f013746ca99d83cc",
+      "bytes": 2321734
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/candidates/phase1-reset/page-02-art-only-v1-canvas-normalized.png",
+      "sha256": "e43f0ee84506be12d370ac37b6aa40307ec15bffd1ad1f679ddef00b06f6d9ec",
+      "bytes": 2394258
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/candidates/phase1-reset/page-02-art-only-v1.png",
+      "sha256": "b05a5e9f96e58a77d3360f95d1f61367a4e72195568249e4a18d0d11c6a86619",
+      "bytes": 2216839
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/candidates/phase1-reset/page-03-art-only-v1-canvas-normalized.png",
+      "sha256": "fbcf4cd1edce61324a1ef44739d4c52098383e9faf9252b7eb327cac16ab63ff",
+      "bytes": 2596914
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/candidates/phase1-reset/page-03-art-only-v1.png",
+      "sha256": "a83738e2783a6e446d5a518aef43dcfcc26b6567d50a9c2d2f762cbcaf9ec1c0",
+      "bytes": 2153107
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "3a148a232ad9517aadcf688d8a3c13c4e271c3c1a3b20b50b130b35e80260bf8",
+      "bytes": 2494583
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/continuity-sheet-phase1-refinement-v2.png",
+      "sha256": "e256b4e9f8b87efafbbc4ca4fc5f0d2c43444370346229a302c406dd28085a91",
+      "bytes": 2408438
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/continuity-sheet.png",
+      "sha256": "a50b0ab6178167159e0b0aad2a30dba825e66532404e44256872d990a49f41d3",
+      "bytes": 2569888
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01-phase1-refinement-v1.png",
+      "sha256": "6323848ee20df6621c3d285858e3c492d1cf71c68bdec31cd12b26938ec7fb08",
+      "bytes": 2617967
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01-phase1-refinement-v2.png",
+      "sha256": "d7e5d1ff711a995da2877ac6b0b55020a9b23b29ac1282b188b36556cac08248",
+      "bytes": 2537132
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01-phase1-refinement-v3.png",
+      "sha256": "a5611356b3ee3346c05c180e6d2c4fa5e7629284e82379fcae53d944d665a263",
+      "bytes": 2481660
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01-phase1-refinement-v4.png",
+      "sha256": "044e950a3ea2b5b26632a7348847370af6cc21e1b1aea2c6b081fd4c839fbe56",
+      "bytes": 2402520
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01-phase1-refinement-v5.png",
+      "sha256": "53c7817170a34d3009d95ff7837d1d3d966bcebdae4dd9e6498e5cc9af7952a0",
+      "bytes": 2378273
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01-phase1-refinement-v6.png",
+      "sha256": "917729b007473e1df2f1f923d7c3dbdf6d1a39ca37ec73a9911da1302b27c951",
+      "bytes": 2316212
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-01.png",
+      "sha256": "262d68a9573013a87df586f42331a4255a8ed7eaf31efbedd8f2cb031304bb4b",
+      "bytes": 2690052
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v1.png",
+      "sha256": "833889dba56a16100ae255f442ceeb05f137a549c97da4be97d5ac54977b87ba",
+      "bytes": 2661835
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v2.png",
+      "sha256": "790eb651386a262d6a5d73e8446665ad543e096b0efd4fc758c7a90efa3afb95",
+      "bytes": 2517045
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v3.png",
+      "sha256": "c4e73ba0e00ba51647aefd82af6127aa3c6ba3d80e89aa8db331708c82969719",
+      "bytes": 2406683
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v4.png",
+      "sha256": "e0cf76e10dc52932d0746bab52a07d4917a251a94408633e114bab5f5384f0d1",
+      "bytes": 2359274
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v5.png",
+      "sha256": "6f04d7ac1fd377d27eff7251fa2098477dc4884cf81c515e3fb234f695b790f5",
+      "bytes": 2290049
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v6.png",
+      "sha256": "c2d854505dc9fc1f4505ab32b50a066e5cde5597efb3cb26d5844932b013cd28",
+      "bytes": 2276349
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v7.png",
+      "sha256": "d06a9e33788c01509c8429d217ec7212b08ae03af732bf1ce1003f05cf91d0d5",
+      "bytes": 2436713
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v8.png",
+      "sha256": "83599c3488c1f0e52b69faf4747ae71c0b6959db0e652d5122a69f9638edd2f4",
+      "bytes": 2323750
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02-phase1-refinement-v9.png",
+      "sha256": "61f28e4bf38d83071d2eee67f1191dfbfec66103a983033c9899955f08e34735",
+      "bytes": 2299496
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-02.png",
+      "sha256": "dce5d20749102a0834de731a5721d1e2b1beb94d2d18114999e6cc7b14a30ed9",
+      "bytes": 2668043
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v1.png",
+      "sha256": "3e04bcd92afd719fb2f9e1cba646a8b78e2dc4c57b1165aabae29419992d02b8",
+      "bytes": 2659499
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v2.png",
+      "sha256": "61a8a781ee509c8a766ae57b88057def463c3d4f18da4f97acec7437981f98e3",
+      "bytes": 2550243
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v3.png",
+      "sha256": "fe44df4870fb733e1af7ae195c5a173608b3127982860bb29d1fb2d411d018d2",
+      "bytes": 2454532
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v4.png",
+      "sha256": "e9d5391e32f44193f2530fe38c8bd05fa4f5ac9376c8a4a2ae909e0db3405a66",
+      "bytes": 2345124
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v5.png",
+      "sha256": "03751bc0b75a64a83df6bef2360beff8c52dcdf3778a32d2587458d57c9f8d41",
+      "bytes": 2331258
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v6.png",
+      "sha256": "a5cb276cb49b72b5bd82986752370279a8f1d3e8a12866d548f6e5000a18ec75",
+      "bytes": 2412536
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03-phase1-refinement-v7.png",
+      "sha256": "d53dae6bf2109477a8056890e08d5e5487e5654199e1b4e42f4509c427162c7d",
+      "bytes": 2278236
+    },
+    {
+      "path": "art/graphic_novel/chapter_01_wakeup/page-03.png",
+      "sha256": "471173eb59c9b39aa8ede03095494de33f7eb8859dea3cd1c884e78adba3fbc8",
+      "bytes": 2662383
+    },
+    {
+      "path": "art/graphic_novel/characters/almelah-dojo-master/continuity-sheet-material-refinement-pilot-v2.png",
+      "sha256": "1fee6aab02394c55282aba43dec73481af2d5b55f5375698ef8ea6b0a7a5e657",
+      "bytes": 2451000
+    },
+    {
+      "path": "art/graphic_novel/characters/almelah-dojo-master/continuity-sheet-material-refinement-pilot.png",
+      "sha256": "d3f71aafef17dead3d031e62fc88ab536f5ab7846506cd8771b93beeb2b0065d",
+      "bytes": 2505901
+    },
+    {
+      "path": "art/graphic_novel/characters/almelah-dojo-master/continuity-sheet-material-refinement-v3-pass1.png",
+      "sha256": "8f0ed3f7800d87df9391ae88923afe108e210ee15c898ee420d80746fe124e50",
+      "bytes": 2427752
+    },
+    {
+      "path": "art/graphic_novel/characters/almelah-dojo-master/continuity-sheet-material-refinement-v3.png",
+      "sha256": "0b4332ba9e9217d3d8caab611b9eff96c1dc2698a5efb9bd4cff129d8eb2ac6c",
+      "bytes": 2359291
+    },
+    {
+      "path": "art/graphic_novel/characters/almelah-dojo-master/continuity-sheet.png",
+      "sha256": "368baedd1d8d1767c1a00e0fbe1a35edb418c4722a55fc669373fabb2ccf4269",
+      "bytes": 2624148
+    },
+    {
+      "path": "art/graphic_novel/characters/alyen-ithra/continuity-sheet-phase1-refinement-v1-canvas-normalized.png",
+      "sha256": "a7aa17831e5e55990a884498de7d0ce65692d9654a2aad9bfec708a7e2d95313",
+      "bytes": 2712913
+    },
+    {
+      "path": "art/graphic_novel/characters/alyen-ithra/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "5be053071f00f7718931ac1c7536992e76dcade5d99c7e8cca6c6de96a902341",
+      "bytes": 2160450
+    },
+    {
+      "path": "art/graphic_novel/characters/alyen-ithra/continuity-sheet-phase1-refinement-v2.png",
+      "sha256": "6169d1312ff4578ce4ff815ca05c04dd87ea2a31459ce971176b246ebd3dcc93",
+      "bytes": 2127556
+    },
+    {
+      "path": "art/graphic_novel/characters/alyen-ithra/continuity-sheet.png",
+      "sha256": "01296c098cbc44c0e83654c235402c941699c5b9710c7b8aca54d1fab91d4c3f",
+      "bytes": 2286764
+    },
+    {
+      "path": "art/graphic_novel/characters/below-the-map-escort/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "b78db564cd7aa4aaa4a2b339a176e6fbbb37a89d618100682f774172937718ba",
+      "bytes": 2768992
+    },
+    {
+      "path": "art/graphic_novel/characters/below-the-map-escort/continuity-sheet.png",
+      "sha256": "547703ecbaacfeececa79c67bbf4df2810926d93614ce37d850e12c799f19f5d",
+      "bytes": 2844896
+    },
+    {
+      "path": "art/graphic_novel/characters/broken-clinic-leader-and-guard/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "4d947ee098834b341da12f7dbe628d64ff8a31b13070a243ef4ff7086e70e49d",
+      "bytes": 2806145
+    },
+    {
+      "path": "art/graphic_novel/characters/broken-clinic-leader-and-guard/continuity-sheet-phase1-refinement-v2.png",
+      "sha256": "5312794b2018c04e6302ac78a32f74a46f33785abf81c57e6ed9ad047c7ef5aa",
+      "bytes": 2648492
+    },
+    {
+      "path": "art/graphic_novel/characters/broken-clinic-leader-and-guard/continuity-sheet.png",
+      "sha256": "0c1b1990fe3058924b7a8ec09472d3b954e6c612a55735048711ce200f5322fb",
+      "bytes": 2884240
+    },
+    {
+      "path": "art/graphic_novel/characters/cassian-rho/continuity-sheet-phase1-refinement-v1-canvas-normalized.png",
+      "sha256": "746af93681ac52967343018023d470a0f945312279136d7070adc8a1a816d038",
+      "bytes": 2667659
+    },
+    {
+      "path": "art/graphic_novel/characters/cassian-rho/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "a1cea7cd90a3b64f7ad484702e0949c67f880aaa1915baed8b7b6d7bc76aa11e",
+      "bytes": 2176073
+    },
+    {
+      "path": "art/graphic_novel/characters/cassian-rho/continuity-sheet-phase1-refinement-v2.png",
+      "sha256": "394f6a182665ca1e3fd009e14dcc7a4309cd980787186b2c03c29d1c77c98e01",
+      "bytes": 2132342
+    },
+    {
+      "path": "art/graphic_novel/characters/cassian-rho/continuity-sheet.png",
+      "sha256": "cd3ae8020f28e81ebfc771399ccba24b101eea4ba1a804ab496d4caeb78c14fe",
+      "bytes": 2263350
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/candidates/phase1-reset/continuity-sheet-face-material-v8.png",
+      "sha256": "0eedbf88846a08b74fc04994da6473f268a417918e9d47ee5db8a61777581e7d",
+      "bytes": 2465177
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "4dd005dfd79f503012b0f5b8341af9a8ec2fbdf71a0d10ccd031567d1d7dcce7",
+      "bytes": 2791307
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v2.png",
+      "sha256": "4d564d29ad00f73e566f382add02a0a96cbfffd1d6e2a18a28c9d2595206a8b2",
+      "bytes": 2716307
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v3.png",
+      "sha256": "a579a7d57336bb5bc3a47fdd7819501c2490461e794b7beed122f04564358b93",
+      "bytes": 2595505
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v4.png",
+      "sha256": "709ccbcde03f61aff78e8adef8fd7a71b9a68f0273596e807babf81f2e47723d",
+      "bytes": 2554422
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v5.png",
+      "sha256": "de960b710a5099f3fc92905579fa3d247ea76e8faec24cc22bc876cab73cbe42",
+      "bytes": 2519905
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v6.png",
+      "sha256": "2f693621382f31f688bcd3a15bf361aee6eed6855b7efed24b69033003e57cc7",
+      "bytes": 2531632
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-phase1-refinement-v7.png",
+      "sha256": "e3a568e8ee714a3f11f884a173687a95daf8d01d0909edc7bf6cd8bdfec0b6fb",
+      "bytes": 2510180
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-young-phase1-refinement-v1.png",
+      "sha256": "366922450583329561708d0f7a04990742c25083ec0f8f53971cfa3f90196293",
+      "bytes": 2798761
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-young-phase1-refinement-v2.png",
+      "sha256": "39cb3ec6c8bc74c21c10a6220b1ce465bc07f0c227f4679d2bf6366191d73183",
+      "bytes": 2626693
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet-young.png",
+      "sha256": "991f03a1f1eacbd1723fca4368c3a8c9de26841f7cf488fa91718d9059d33c4d",
+      "bytes": 2848926
+    },
+    {
+      "path": "art/graphic_novel/characters/gor-of-almelah/continuity-sheet.png",
+      "sha256": "ebff2c25481771565f88365c323c805f09bc179d2f93772f79929b403ca4c97c",
+      "bytes": 2754102
+    },
+    {
+      "path": "art/graphic_novel/characters/korin-tal/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "0626673e306ea40f9287b5cf9f50767f7aa388a9388ada9d0c93bf281256338d",
+      "bytes": 2022456
+    },
+    {
+      "path": "art/graphic_novel/characters/korin-tal/continuity-sheet.png",
+      "sha256": "33d86eae66dcf30c3a0997113a2028f28f20c4bc94d3d00acc4cc6e19f53adbb",
+      "bytes": 2179772
+    },
+    {
+      "path": "art/graphic_novel/characters/thena/continuity-sheet-phase1-refinement-v1-canvas-normalized.png",
+      "sha256": "effcb518ef38722489f73b615b7f52c5f3068d8dceaf93667e2b5a5e1a7bbf23",
+      "bytes": 2848645
+    },
+    {
+      "path": "art/graphic_novel/characters/thena/continuity-sheet-phase1-refinement-v1.png",
+      "sha256": "56bd0f5bab4ae4c7d4da4fb4fee686340a7bd00ab14bcf528fca208d935f788f",
+      "bytes": 2461714
+    },
+    {
+      "path": "art/graphic_novel/characters/thena/continuity-sheet.png",
+      "sha256": "be4223e8b08be4d77aaa127d82135320d658208f7c07e9d2f615f6bf09b795f6",
+      "bytes": 2576520
+    },
+    {
+      "path": "art/graphic_novel/concept_art_wishlist.md",
+      "sha256": "64731117d19e8de1d65e3820045d464e4744840535b53eb369ac0cea3308915c",
+      "bytes": 30143
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/alyen-ithra/concept-a.png",
+      "sha256": "1e46547423c65c89f7c643d5813f4beec7b590df8f25ffa4ce36651f90060d24",
+      "bytes": 2755853
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/alyen-ithra/concept-b.png",
+      "sha256": "cb38fe378949f8759a5552a2b2efba1f17013d7dc996f403fa93480759410461",
+      "bytes": 2473174
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/cassian-rho/concept-a.png",
+      "sha256": "9fa8bd0446b952ca846278371dda5cbea67813691fd5542265a74991627c3fa7",
+      "bytes": 2554812
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/cassian-rho/concept-b.png",
+      "sha256": "333d6afd087089f04a3b2f67188221689d793481b6eab8149b293227c86816a9",
+      "bytes": 3013427
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/gor-of-almelah/concept-a.png",
+      "sha256": "3a1c5f4e20a85339b1a812a9a8b2ee1229b46891a41dc68956bb70a087f1f699",
+      "bytes": 3226099
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/gor-of-almelah/concept-b.png",
+      "sha256": "50fca2a40db8f95ca3702fcf05e0199c0eb84e6b1858f313902ed93eb73676dd",
+      "bytes": 3032263
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/korin-tal/concept-a.png",
+      "sha256": "a91288cb930031c7cad357e3fd4346dcca7ad8e0067c7dd02c36a1ad24d36d0e",
+      "bytes": 2592487
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/korin-tal/concept-b.png",
+      "sha256": "3b3015c726923b89eec9b7d1c306abe0bb138276aad7c846691d44403a857524",
+      "bytes": 2767864
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/maribel-voss/concept-a.png",
+      "sha256": "a3b2cf49881cd126859061d87961c7e60675dd8c1f3075994318ff477cf4b0a7",
+      "bytes": 3188527
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/maribel-voss/concept-b.png",
+      "sha256": "163d5cabcd36c666ab8d0a5121843f396adcfc801c9532f6066a55336fa6e848",
+      "bytes": 2944411
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/thena/concept-a.png",
+      "sha256": "da39b9c47b5d1be229de7ff087060fb18db19630689479f48671d1fa2a926dce",
+      "bytes": 3374333
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/characters/thena/concept-b.png",
+      "sha256": "cbae1f849b7d309be94ee4caf849f62ade626fe84fea938a71bea3bf437d1b3c",
+      "bytes": 3255338
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/great-sorrow/concept-a.png",
+      "sha256": "5f88abebcb3a858c6052b98c4a33c2570f88f17848af3f122ff12dd45691a404",
+      "bytes": 3352730
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/great-sorrow/concept-b.png",
+      "sha256": "c14175635ab7666130ba2f39b2dff183c439d28734804b2caf2860ec6a9f72f5",
+      "bytes": 2536399
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/harmony/concept-a.png",
+      "sha256": "a42d99338e8222ed35989b68caf36e250e338f45a653b68f7500713deab383c8",
+      "bytes": 2305804
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/harmony/concept-b.png",
+      "sha256": "fc7cd0f98b7f13810b2da50b4b8dbc2eaeb5088ce6afdb20c08750b0eb432223",
+      "bytes": 2466537
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/proto-under-hive/concept-a.png",
+      "sha256": "2cb0e03b4edc0b4a4937c5424564badcd4f48948aecb057513f7b8d7b8856284",
+      "bytes": 3393748
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/proto-under-hive/concept-b.png",
+      "sha256": "fcf3dca8153c0cdb291b017f767e530eda712727b2f62cbc4dd9555a9fa4ba24",
+      "bytes": 3198813
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/surface-age/concept-a.png",
+      "sha256": "35936f8f3165d1e0971ffde4a0cf807eb24ef95b359d238b1cf192b2778ca1ca",
+      "bytes": 3276701
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/surface-age/concept-b.png",
+      "sha256": "6c383dfe71ff536a39323f2b4f7b2729eb279e483e9ada3c180eb7cab4abb3dc",
+      "bytes": 3142071
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/the-voss-effect/concept-a.png",
+      "sha256": "34c09492adf5470b41f94e90f1ae81517362d38675e81435a767f0c4b4c8474a",
+      "bytes": 3207605
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/the-voss-effect/concept-b.png",
+      "sha256": "b6c937f41c7b5610a33dadcbffefe6b684cbb6bfeba5f7e57e4ff7f87efa899c",
+      "bytes": 3697284
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/turning-time/concept-a.png",
+      "sha256": "6c75199c3903217dab001072bbd3d02e87139c83979ec8e758a8d310ebaaf605",
+      "bytes": 3047765
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/turning-time/concept-b.png",
+      "sha256": "d1c9fe0d0849baa048f82ce7e6bd6c573195bb42064fa6b1126d646672213054",
+      "bytes": 2739138
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/under-hive-memory/concept-a.png",
+      "sha256": "2641bc301be3daf84f1628ea92f9dc34224702db64d5c3f108c9d9bdb15b9fc9",
+      "bytes": 2656419
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/under-hive-memory/concept-b.png",
+      "sha256": "f0fbd318ed7126d29ed696ca182bf101cef0606bffb7bb89e8432bb1189f10f6",
+      "bytes": 3015755
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/voss-conquest/concept-a.png",
+      "sha256": "c31a80b496292a1b941b5d9f051dae24450881f006cfec0f7fb3ec9e68ac546d",
+      "bytes": 2304783
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/events-concepts/voss-conquest/concept-b.png",
+      "sha256": "3d449f5f86c4335088e4a855db35c738364896005890816cd536a0a976ec81c9",
+      "bytes": 3010687
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/hive-earth-systems/README.md",
+      "sha256": "2fbbab9f01662207f99f2f110f2f875c665e045ece2f7d93358cdf35d17bc456",
+      "bytes": 1658
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/hive-earth-systems/blade-technology-macro-meso-micro-v0.1.png",
+      "sha256": "3d86fd4db7157ad502d27c342c1413523e04ecc3a838965d8178a5f85c33036d",
+      "bytes": 2725578
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/hive-earth-systems/class-differences-macro-meso-micro-v0.1.png",
+      "sha256": "945b0e4659645fb1b6d363ffb8de43a30fcc3055e7576c782fc2eda999c34ca1",
+      "bytes": 3153149
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/hive-earth-systems/hive-earth-scarred-recovery-macro-meso-micro-v0.1.png",
+      "sha256": "2197b57936566f7a2f8c7d91d74bdae645052714f9fca2d093a872384b9959ce",
+      "bytes": 2956284
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/hive-earth-systems/mind-link-macro-meso-micro-v0.1.png",
+      "sha256": "f37550ca366c08db2cc1dc854ebb3cdca2eae16baeffe100361a8e4a0a0492cf",
+      "bytes": 2788139
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/hive-earth-systems/scavenger-projectile-technology-macro-meso-micro-v0.1.png",
+      "sha256": "4685a95e545dead39c2da0a786ca6c00d4245cf40cda2379d9be60cbaf93eb64",
+      "bytes": 3099822
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/coalition-of-the-willing/concept-a.png",
+      "sha256": "edec2a363382985c809921e6993f585c9f4ab9d4e78f2e1e1cdf8a9dbdd845d8",
+      "bytes": 3498414
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/coalition-of-the-willing/concept-b.png",
+      "sha256": "68e597b93d33f3853d45d2025a5fd87d6b85c8c5cf0aaa7b444b36195e61934c",
+      "bytes": 3957471
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/great-union/concept-a.png",
+      "sha256": "061b3483c352c743ea6569db0231957e87860f5b3e6313b32db1114fe17ddb53",
+      "bytes": 3895319
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/great-union/concept-b.png",
+      "sha256": "82f31aaa57e68cfce14eb088511b6d4a50cab5c0141a0fbc8bd1f1ac7211e1db",
+      "bytes": 3697955
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/human-continuity-archive/concept-a.png",
+      "sha256": "b7433fe4baca141e0980adf528163c84f4295afb1aa342c5342d3f5db95febee",
+      "bytes": 3561351
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/human-continuity-archive/concept-b.png",
+      "sha256": "8c2be03e65cfe2b6489e100b96bc10b8c280f6a630d33b64c4a439e5e18c3d7c",
+      "bytes": 3685394
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/minority-world-state/concept-a.png",
+      "sha256": "8d3a6546fea38897073bd3b53713302ede9c7b992b4a71d71825e541401c44ac",
+      "bytes": 3558909
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/minority-world-state/concept-b.png",
+      "sha256": "703f959043dfc8af4d61cb7610293f6f6b1eb4adcd12b97f6243539fdb7bbee5",
+      "bytes": 3801868
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/reversionist/concept-a.png",
+      "sha256": "6d9226ff41dfd56928e7ab81b945dc71346881c83282a808312c73704ca7b33f",
+      "bytes": 3392389
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/reversionist/concept-b.png",
+      "sha256": "e36c020948f32e4846a99cddd4d68e35f5a36041006324ad6ecf68d20f8989e1",
+      "bytes": 3460317
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/states-of-the-great-angel/concept-a.png",
+      "sha256": "c4ac1bcbd203235a0430aa90b0d2c6f5b3cda2e335807128c45559293f1767e2",
+      "bytes": 3443332
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/institutions/states-of-the-great-angel/concept-b.png",
+      "sha256": "e4f243894729d86056161c25036c28d017771f10d77dca2377b53f2a1360650f",
+      "bytes": 3775430
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/almelah/concept-a.png",
+      "sha256": "24b3cda90c9b6714d66707342dc688c5d89acc2daaf386c895d36286ef3056c9",
+      "bytes": 3725439
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/almelah/concept-b.png",
+      "sha256": "217c8c6bb5aeca7fae787956e352474e64d5a2e6642be6dd21334c6e7295eb8a",
+      "bytes": 3700369
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/arkline-arcologies/concept-a.png",
+      "sha256": "f4401707534227edbd7795db6a4e0c966b4fac0ba13111337ddb8a12726889ed",
+      "bytes": 3211339
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/arkline-arcologies/concept-b.png",
+      "sha256": "aca93db0fd4a15472df57ce2e098a1c3af54135d5bed4ba93677dbc58f1264ac",
+      "bytes": 3464338
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/below-the-map/concept-a.png",
+      "sha256": "c8feb96ccc2f4b6a8997a0cb59035241ded9709600c258de2a87e61dbae4f2d4",
+      "bytes": 3506844
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/below-the-map/concept-b.png",
+      "sha256": "04872d3e2ae103055f99fe1b3fa58e2a3f3e8c5678e941e469250114bafb1e0b",
+      "bytes": 3596683
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/equatorial-core-belts/concept-a.png",
+      "sha256": "1a5a51b4bdc0000d67fd71de15f55df230f308828926719c9b6e5a7f86646d5a",
+      "bytes": 3960470
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/equatorial-core-belts/concept-b.png",
+      "sha256": "f8c02109d35d4ad19ed9938cbd2a6565811ba33400e5dcfe4505e701a067162e",
+      "bytes": 3492437
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/helios-drift/concept-a.png",
+      "sha256": "e4d679b990ac9dc8d25c1cfe2ec0fa512dedc3062894d3cc30f74413583e4219",
+      "bytes": 2793650
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/helios-drift/concept-b.png",
+      "sha256": "c0436264873668bb37fb06c9c8836b1df89b5f49ead4929188c171b93157b66c",
+      "bytes": 4096770
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/hive-earth/concept-a.png",
+      "sha256": "19c7c2fa1ac722e8910a8edf17932beaa0f4082cb8ac976e5ccd8ac46db86d54",
+      "bytes": 3805809
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/hive-earth/concept-b.png",
+      "sha256": "dbb5509c20a5fff3b9929017e595a73e8dba7cd6daa2b3167570dcc599f2f3eb",
+      "bytes": 3568075
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/hive-spindle-9/concept-a.png",
+      "sha256": "1dbdfb45bcbf7cf7cfea9693ec4ed3a373a9b09c05e143ae207b1bb7314b2789",
+      "bytes": 2841412
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/hive-spindle-9/concept-b.png",
+      "sha256": "c2b6ffae569d5e35cbd4dec9a28d45b8fbf0807e5373cec8c524dabd09a22331",
+      "bytes": 3035908
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/lanes-between-signals/concept-a.png",
+      "sha256": "7a2a975783cda95ec719200c63918dbf222f2557eb4bdabcba36a1dad232df0c",
+      "bytes": 3947423
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/lanes-between-signals/concept-b.png",
+      "sha256": "054cb6805dc0bfcdd1844efb53086e60fbcb6a2467404fa35b70ae21e4a05094",
+      "bytes": 4011098
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/lower-grid/concept-a.png",
+      "sha256": "c11125c4d16437186134853ff39581471f3c77065abd5b9941833593ea0e304d",
+      "bytes": 4079348
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/lower-grid/concept-b.png",
+      "sha256": "dd29f2757101d5bef92c49286a7e797fd126637ed381c0ec9a900c429d0a0605",
+      "bytes": 3788506
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/pacific-array/concept-a.png",
+      "sha256": "0ac9d567bee03f907721f067ba38a340d5f7e68ff0eaac6156ad62ebce54a57c",
+      "bytes": 3232477
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/pacific-array/concept-b.png",
+      "sha256": "2071c27c25c7519ff42b9a1a126a893e5af1e5f1b104dcad2fc3dcbcc5e8c6e5",
+      "bytes": 3406980
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/polar-grids/concept-a.png",
+      "sha256": "bbfb8907a81f343415a3659ce5844aa01bf9316744a3f159b9ab2f81f098ded4",
+      "bytes": 3107270
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/polar-grids/concept-b.png",
+      "sha256": "8436d3fb6d87e138e73d23cafb28dd97580a5c470b017a4c66a59287f6311698",
+      "bytes": 3319085
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/spindle-1/concept-a.png",
+      "sha256": "82664f50f33755c708468bffe76b0ee1fee7e4a7381083761ad9925c7d87764d",
+      "bytes": 3238972
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/spindle-1/concept-b.png",
+      "sha256": "a4d6deea8604ac17b131ed74384955178c1831fd20199912121a35929f2f9080",
+      "bytes": 3835808
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/spindle-22/concept-a.png",
+      "sha256": "677cce09a3aa21d687428da5e1b4f3aa8ba3e9eff74ec3609307020c48d56c53",
+      "bytes": 3722194
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/spindle-22/concept-b.png",
+      "sha256": "1e3bad16bc5b55c9a097be274c2a7caaf68bc413449414e3b848f5e8180b1005",
+      "bytes": 3492019
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/spindle-31/concept-a.png",
+      "sha256": "aeb016577e21e3b493bbcccfc48f5a60bef9e40b0dc5e473f0c8f556fb6585ae",
+      "bytes": 3633764
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/spindle-31/concept-b.png",
+      "sha256": "e687bf4712ec81e88f9e7028e63f6ded4c736c0570a93385051e16b528d216a5",
+      "bytes": 3714008
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/type-1-equatorial-geothermal-vent-network/concept-a.png",
+      "sha256": "38f155e1c71d9037ea4f05fa45c5bf3614ec1cd1b735f7b6ec1c55435d733d3a",
+      "bytes": 2958964
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/locations/type-1-equatorial-geothermal-vent-network/concept-b.png",
+      "sha256": "fcd78418751ec82456c508e39b9b17c7b8b8fbd2decae01fdc34faafcc0f5f87",
+      "bytes": 2639919
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/cryo-capable-augmentation/concept-a.png",
+      "sha256": "dfd07a026337a75945e3e13ebe10b78790fe5b1ee959dad3993fff0aa7fcb541",
+      "bytes": 2027278
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/cryo-capable-augmentation/concept-b.png",
+      "sha256": "a96ac4f6c9292990124a82e3ec29ee3d9f7733a91c2c497bea3d4f8c13cf00dd",
+      "bytes": 2972653
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/helion-class-scoutcraft/concept-a.png",
+      "sha256": "63aef8983d4e63f7095f23cbbaea3359b4644f91c99e49dee38455c693ab3b25",
+      "bytes": 1859340
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/helion-class-scoutcraft/concept-b.png",
+      "sha256": "55435fa83d8b7ebea3f35b05e943041d7d64b25d31129affade4a5ddf576a858",
+      "bytes": 2693883
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/hyperspace-gate/concept-a.png",
+      "sha256": "a69ae0ae9addf139b0b60bb4166d450221362274d1ccd693a5c6fbc9dbbd2487",
+      "bytes": 2518499
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/hyperspace-gate/concept-b.png",
+      "sha256": "d7c21223b73aa4fb41587ed9332da5748d9e5caf709a6f467362e57525237a98",
+      "bytes": 2667343
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/linguistic-interface/concept-a.png",
+      "sha256": "db782072fab9a642b45889428478661d10b92806a6d74cc8df732969bd5d6cef",
+      "bytes": 2588480
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/linguistic-interface/concept-b.png",
+      "sha256": "e055663b2abe9aa3f85220ec69b9dc73893e6d6dbe1320ec358305a59a0a9edd",
+      "bytes": 3531255
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/passive-filament-tracker/concept-a.png",
+      "sha256": "293fb556cd1b2db01355b2990712d24351cc439e151fc8b26e62ab673f4c0519",
+      "bytes": 2314391
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/passive-filament-tracker/concept-b.png",
+      "sha256": "f74edf8790e646d5ccbe79afc911bf8add09e1ff48be5f88d2a28f800e137d36",
+      "bytes": 2416473
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/quantum-entanglement-relay/concept-a.png",
+      "sha256": "28fdf07470ea7d1fd41376fdbbe741b07ebdf70248396ec08e32e97c3521d557",
+      "bytes": 2190920
+    },
+    {
+      "path": "art/graphic_novel/concept_sketches/technology/quantum-entanglement-relay/concept-b.png",
+      "sha256": "13786efab3f875f6f09faff3f39ea160dd8304ff189aacc65805c75c928ad6ec",
+      "bytes": 2222079
+    },
+    {
+      "path": "art/graphic_novel/dialogue_correction_todo.md",
+      "sha256": "b8bca9a88417586fa11932a88c42aed078e6bd84ed4a5ea3ced2a1f7c083c762",
+      "bytes": 11844
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/assets/study-01-architectural-isolation.png",
+      "sha256": "2751727123b20c929e8747010a887d4d61d56124a520a32e76abc228a91c8bbc",
+      "bytes": 2440897
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/assets/study-02-partial-face.png",
+      "sha256": "f09e76c54e49bee6acdafb2d038636cc0a89a0f891668d95c54af73ce398c33e",
+      "bytes": 2303485
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/assets/study-03-rain-reflection.png",
+      "sha256": "412cdab6a82c2245fb179b54c15bb49157069bd973e9dfbfc6d68ec687b69ba5",
+      "bytes": 2430926
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/assets/variant-01-the-room.png",
+      "sha256": "e4a6808deba50f97c1b0ede707e85750993702780fb5dafb334e0316befdc66f",
+      "bytes": 2296346
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/assets/variant-02-the-mind.png",
+      "sha256": "7fd58869cf9f1247f5c265800bbef47a7bdd2c6cdc29c30a517aea0bfde5474f",
+      "bytes": 2183170
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/assets/variant-03-the-rain.png",
+      "sha256": "6c662516b7e486ff14b276c3ad94e6a98b5422ebc30c8d4aa8d6cfff9318f893",
+      "bytes": 2598113
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/lettering-spec.md",
+      "sha256": "b13cda67b44a97e40551c4fe2903880145f7704e8453585a5b981aef653430cf",
+      "bytes": 821
+    },
+    {
+      "path": "art/graphic_novel/experiments/korin-office-meditation/visual-brief.md",
+      "sha256": "3db3639ede1e588536e42f0d858a2bc406e6f02733ac92101a465a6dd2fede28",
+      "bytes": 4022
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/accepted-assets-before.sha256",
+      "sha256": "9dc409b9247b0016a71e513e174334e532b1b2ecd0684484494d0fb7b04f0cb5",
+      "bytes": 1318
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/candidates/phase1-reset/chapter_14_broken_clinic-page-01-contextual-focused-v4.png",
+      "sha256": "293285eb48b20751f28a2e4c1aaff65ef58504e4fdbb39065659a6646ec2bb52",
+      "bytes": 2173186
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_13_soft_edge-page-01-contextual-material-refinement-perspective-v2.png",
+      "sha256": "6b2eaf4107ed86e4ad76aa57a2a063cfa7f4613af6e3f05682c5547e4ab46cb8",
+      "bytes": 2874034
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_13_soft_edge-page-01-contextual-material-refinement-test.png",
+      "sha256": "8626e28ea7470e4a47d355f974432af44799eab9a5e03ea1d28de7f5c9b817f5",
+      "bytes": 3056134
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_13_soft_edge-page-01-contextual.png",
+      "sha256": "5bc6159a92a863c55d6f040d396b93e0fc2763e18650c3020f0b8e3d182957b3",
+      "bytes": 3227731
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_14_broken_clinic-page-01-contextual-material-refinement-test.png",
+      "sha256": "6228c00772174071036d910aadefd486c70231b118bd0bccc720e7d26714c97d",
+      "bytes": 2651710
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_14_broken_clinic-page-01-contextual-phase1-refinement-v1.png",
+      "sha256": "de7ea112fcd158c7b947cfc1a276463f75d1f9ca853e8b076d3765cdb3f9ec3e",
+      "bytes": 2507985
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_14_broken_clinic-page-01-contextual-phase1-refinement-v2.png",
+      "sha256": "d9519eed1709336488c5fec4241cd7340898a9f3745869c38766faec6c9034e4",
+      "bytes": 2385997
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_14_broken_clinic-page-01-contextual-phase1-refinement-v3.png",
+      "sha256": "0b98bf4ce93f90cb39ad64e8692fe7d27738eeb731ecdfbb9ba2d50dbccf35cb",
+      "bytes": 2283583
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/assets/chapter_14_broken_clinic-page-01-contextual.png",
+      "sha256": "09665c9e071fc6b3749e093db1130f0b102e9cd3c48cda4cbe5894a767c82422",
+      "bytes": 2855710
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/experiment-report.md",
+      "sha256": "e074958c417eb534f9607c67b02fcff1b6aedd4ce53b16458b33a1d44eb0d101",
+      "bytes": 17259
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/policy-draft.md",
+      "sha256": "587756e5352d40f9a5a613c5f5ecdf1f67e2044c3f5885ca58df7373ca3b0b20",
+      "bytes": 2902
+    },
+    {
+      "path": "art/graphic_novel/experiments/visual-language-hierarchy/regime-assessment.md",
+      "sha256": "7e86ff195c31132b6939e8faf8b33ca0b3d71dbb4d09551b4be61567d5d90056",
+      "bytes": 4429
+    },
+    {
+      "path": "art/graphic_novel/locations/almelah-dojo-memory/landscape-reference.png",
+      "sha256": "ea7db1bdcf5801e79dfc55bc6b396a382964c988e7920fd8790c047d6f475583",
+      "bytes": 2901039
+    },
+    {
+      "path": "art/graphic_novel/locations/below-the-map-runoff-route/landscape-reference.png",
+      "sha256": "67cac37b1e1e920232fe9690d9e91f464ccd9b606a64185bf91e4f5c3b6aa911",
+      "bytes": 3403772
+    },
+    {
+      "path": "art/graphic_novel/locations/broken-clinic/landscape-reference-v1.png",
+      "sha256": "71c003b6181bb1ac51f1461de3d85ba1bc6bd95d7b70b6a0d02f38cea1e87804",
+      "bytes": 3064714
+    },
+    {
+      "path": "art/graphic_novel/locations/broken-clinic/landscape-reference.png",
+      "sha256": "029093c2dec4319359d2405a8108d4f0b679dd4d1d6bab0829de8b77011b336a",
+      "bytes": 3286877
+    },
+    {
+      "path": "art/graphic_novel/locations/central-cognition-sector/landscape-reference.png",
+      "sha256": "1730dffe618c44c1459b3c621323cc292adf9f26cfc2f6908386be8144380e09",
+      "bytes": 2895213
+    },
+    {
+      "path": "art/graphic_novel/locations/chapter-15-safehouse/landscape-reference.png",
+      "sha256": "729666ec2f62e0fc47850209f6285c9f5fb368696c2e3deb15f71063b7ef081f",
+      "bytes": 3038318
+    },
+    {
+      "path": "art/graphic_novel/locations/hive-earth/visual-brief.md",
+      "sha256": "31aba0491df336b328f45e41ae0075c2fc5a8b46ddfb9da252e3352f57a1cd42",
+      "bytes": 3340
+    },
+    {
+      "path": "art/graphic_novel/locations/hive-processing-chamber/landscape-reference.png",
+      "sha256": "119ae822c982769ef18dbeda70e6d8476097b9824f400bd03a06ebfd9a810163",
+      "bytes": 2529647
+    },
+    {
+      "path": "art/graphic_novel/locations/hive-spindle-9/landscape-reference.png",
+      "sha256": "1644b420e85a5530bca4591171b2b5bd43d18be9f62ccad07d832cf72a8b1962",
+      "bytes": 2576370
+    },
+    {
+      "path": "art/graphic_novel/locations/hive-spindle-city/landscape-reference.png",
+      "sha256": "8f5e63b48f1c824e0df9e1590a62eccf2e5b200719599a07d2621f84bfd60e12",
+      "bytes": 3440339
+    },
+    {
+      "path": "art/graphic_novel/locations/lower-grid-lanes-between-signals/landscape-reference.png",
+      "sha256": "029093c2dec4319359d2405a8108d4f0b679dd4d1d6bab0829de8b77011b336a",
+      "bytes": 3286877
+    },
+    {
+      "path": "art/graphic_novel/locations/lower-grid-market/landscape-reference.png",
+      "sha256": "494cd6019107c86daa8de1dbd03a579cf96ac2a059ef2c4a957c29c8c0a0ecc9",
+      "bytes": 2966626
+    },
+    {
+      "path": "art/graphic_novel/locations/rain-sector-ambush/landscape-reference.png",
+      "sha256": "3220b1dade356d8ac807408f8d5f4c85d8c71725e5ee95389443aeb57fb21570",
+      "bytes": 3214457
+    },
+    {
+      "path": "art/graphic_novel/locations/spindle-31-checkpoint/landscape-reference.png",
+      "sha256": "f2ad89a3394a74809b5a05a8b6ad8b4436919f32da2059dab34aedd4521b108a",
+      "bytes": 3063851
+    },
+    {
+      "path": "art/graphic_novel/locations/surface-age-stack-field/landscape-reference.png",
+      "sha256": "ef95c4b44b12536d59f861cb5c7b335ed37758564a3ad79d41087a419a8c8077",
+      "bytes": 2021366
+    },
+    {
+      "path": "art/graphic_novel/locations/surface-age-stack-field/visual-brief.md",
+      "sha256": "89563e1c7cb35ba539783dea57e9b807df1f7b71f904a6b4d0d0a788bb70f7c0",
+      "bytes": 2423
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/after-macro.png",
+      "sha256": "3d34f49477c8c50f66b0047e859ce7143c7ef12c335b5d963fc74ecc4d84dacc",
+      "bytes": 3573218
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/after-meso.png",
+      "sha256": "01c76fdc6f1a5e0e728a9fe5714edf436e0c7d7c45f7583d4c61d64b30ecba58",
+      "bytes": 3616006
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/after-micro.png",
+      "sha256": "f6af6ed35763068f70c4a2e2668eb5a173747791853c2a214e5df0f53cc20d4b",
+      "bytes": 2969405
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/before-macro.png",
+      "sha256": "f38f2ed444df5f77441a58bdead13c57a26f371881bf2cd98576caf7f1ee4586",
+      "bytes": 3736389
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/before-meso.png",
+      "sha256": "9ed62140be28401f70a0c74242cb08dad8e7d429a4beaffeed65842865a50ccf",
+      "bytes": 3755708
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/before-micro.png",
+      "sha256": "464699378f7307cb86b0aab043ebfceaf3c3149c4d0b912ce45c335328b1e060",
+      "bytes": 3056575
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/during-macro.png",
+      "sha256": "2ee6489b388dccca1c92ea6351dd09b87f8174359a1fbf98982dc6148e0d1cce",
+      "bytes": 3628057
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/during-meso.png",
+      "sha256": "2f0f82d3d6534e3cd4daa68922ff31323f651a3a7bd37f5ef36a75589a856915",
+      "bytes": 3806525
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/during-micro.png",
+      "sha256": "020de33d2a8f3556cb057f2c87743cb140188e3a78e747f147df71ba48e131d5",
+      "bytes": 2982504
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/conquest-city-study/study-note.md",
+      "sha256": "d62b0bdaea3938322a329ac0a32f5188ba2eb386c7ae74c5b5611edf78c1b387",
+      "bytes": 5812
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/maribel-voss-mural-chapter1-style.png",
+      "sha256": "23ff96af241f4a0696bcc03eade902e87fd57779ef85fb2f876d89963a760d4f",
+      "bytes": 2823892
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/maribel-voss-mural.png",
+      "sha256": "b1775fcc10de2abb149a9ef5240975a61214cf75011002a1a89fcfb63be34096",
+      "bytes": 2548056
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/surface-age-stacks-landscape.png",
+      "sha256": "ef95c4b44b12536d59f861cb5c7b335ed37758564a3ad79d41087a419a8c8077",
+      "bytes": 2021366
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/voss-conquest-checkpoint.png",
+      "sha256": "530ba5008abfc0745239820c616d203a1f97c630e7cfa71a35715b027a1a885b",
+      "bytes": 2174289
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/voss-effect-administration.png",
+      "sha256": "fe5d492ae1f9157d788424f6e64bdd1feb42ee73eaf8ac12f99e7cddc146bf9e",
+      "bytes": 2624204
+    },
+    {
+      "path": "art/graphic_novel/lore/voss/voss-lore-continuity-sheet.png",
+      "sha256": "bb721d9204f25ef060bdeb084ad41b39c14ab01b0a5c01b4fec4df273e9b5018",
+      "bytes": 2640636
+    },
+    {
+      "path": "art/graphic_novel/material_coherence_audit.md",
+      "sha256": "07b69df4ee3124530e1632f611fe42d27db069e7b1f5cd515f8c973a6dc3749a",
+      "bytes": 15527
+    },
+    {
+      "path": "art/graphic_novel/motifs/almelah-oath-augmentation-contrast/reference.png",
+      "sha256": "ebff2c25481771565f88365c323c805f09bc179d2f93772f79929b403ca4c97c",
+      "bytes": 2754102
+    },
+    {
+      "path": "art/graphic_novel/motifs/hive-amber-alert-state/reference.png",
+      "sha256": "14585a38dac7e7250bf2074716c5614f1ad16b88c2e336255d60a978a4421362",
+      "bytes": 2724807
+    },
+    {
+      "path": "art/graphic_novel/motifs/hive-integration-density-planetary-map/reference.png",
+      "sha256": "fdff3ef7151ebf8af506c66f9c47e18112e5f715af49a3be12760b817349740a",
+      "bytes": 3292148
+    },
+    {
+      "path": "art/graphic_novel/motifs/maribel-voss-mural/reference.png",
+      "sha256": "bb721d9204f25ef060bdeb084ad41b39c14ab01b0a5c01b4fec4df273e9b5018",
+      "bytes": 2640636
+    },
+    {
+      "path": "art/graphic_novel/motifs/under-hive-memory-mural-style/reference.png",
+      "sha256": "bb721d9204f25ef060bdeb084ad41b39c14ab01b0a5c01b4fec4df273e9b5018",
+      "bytes": 2640636
+    },
+    {
+      "path": "art/graphic_novel/plans/README.md",
+      "sha256": "bfb1b6088b71c3c4b226d8d9482fa1a67d56b5b2e9c67ce6f308f19d4dd38f17",
+      "bytes": 1341
+    },
+    {
+      "path": "art/graphic_novel/plans/next-production-milestone.md",
+      "sha256": "8c83b406593f3f44c55fec1b43fa9786477cf315f1961090332ddd6962e1d141",
+      "bytes": 12519
+    },
+    {
+      "path": "art/graphic_novel/plans/render-hive-earth-continuity-set.experiment.md",
+      "sha256": "bcf7a2bce70498357fc0a4d031c6234c837aa9063ca5150557d040bdad179cd8",
+      "bytes": 4188
+    },
+    {
+      "path": "art/graphic_novel/plans/render-hive-earth-continuity-set.original.md",
+      "sha256": "2640e46fcef7a68dacf3a012402af8e4933dfd1060205be093b45e9057232d7c",
+      "bytes": 3517
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/README.md",
+      "sha256": "7fd823795ed4abfc3a1cb5b0881256d8be89ed9c18e647904f480609fd343001",
+      "bytes": 1643
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/build_proof.py",
+      "sha256": "bb204c8fd12a7d63b88c461be9ae1954a2b36e2cdc1cc0c47f4c21adaf4b4212",
+      "bytes": 17754
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/cassian-rho-the-return-proof.pdf",
+      "sha256": "0dd7ca5270db3f996b93107b5e4699b34ef3b4e9ce23b7b448938b86ae43352a",
+      "bytes": 175441463
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/contact-sheet-48-pages.png",
+      "sha256": "a78e98792d36dce07435cc0d227b700d920e51797bd01f3f4d9d204feb5f2845",
+      "bytes": 4460466
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/manifest.md",
+      "sha256": "9f697281c2ffb051d2e8161537f4cfa7b4145ec81ced196d81b5db8567c28fac",
+      "bytes": 5419
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/pdf-render-check-contact-sheet.png",
+      "sha256": "318cb662766ede79bc4701efc27d5d73648daf86856ca17d5a202be3e694e3f4",
+      "bytes": 1816251
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/001-cover.png",
+      "sha256": "34619f9cf90d6d911d4ee2a729d4418ff13354c2e1d4872dda4e86172ae618ec",
+      "bytes": 2096244
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/002-divider.png",
+      "sha256": "95c80822f35ea43dc61d247b99955da80ffc5c1c279c33f7d82f5783fd906e1a",
+      "bytes": 1136891
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/003-story.png",
+      "sha256": "7a563f6abe9a9600aea4953e64b486572e91102fd29c4240c7ae13d5aba0c994",
+      "bytes": 2419398
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/004-story.png",
+      "sha256": "cdefcb5e7206ee49b85e3e50010c6336e7f6b88f6a5598d1f0a99a118f956aa3",
+      "bytes": 2441609
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/005-story.png",
+      "sha256": "41747db70b6812915aa9af6df785724ce9d1a1fb3c214b4e57c7bb6d8c1f5aab",
+      "bytes": 2451067
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/006-story.png",
+      "sha256": "46869bc2a4f43ffa75977598dab53cfdd0f76852d1f7509f83443abb8d61c452",
+      "bytes": 2559114
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/007-story.png",
+      "sha256": "547b75907f0b4899a4e1013f7707e5adef7fb945da191af5ebcc9cbaf07a647a",
+      "bytes": 2403221
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/008-story.png",
+      "sha256": "09be7914169cc78dba59828bdf34ec15e4241ca6388f73673b4ccd9ffbaf6486",
+      "bytes": 2237093
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/009-story.png",
+      "sha256": "1b774eca3ba3bfcbaee5bc11e75b1e873fe2a0df6cbe859565cecdd6d2788125",
+      "bytes": 2350123
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/010-divider.png",
+      "sha256": "f94708b27beeaa8cf2571625230a6854d515da5a1721878b4864448e3d8e3dd5",
+      "bytes": 1153510
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/011-story.png",
+      "sha256": "2932055bcd496ad625e3248b6a49b4171394870acd969fa6b76cc41ad5224569",
+      "bytes": 2200327
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/012-story.png",
+      "sha256": "86b31d8af2f5c63d3e1aed86e2015cfa8f5ad8554d5a10778268d12741ead863",
+      "bytes": 2226846
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/013-story.png",
+      "sha256": "eb1754fa0739d8e8d3e7a3fd48eaa4ec7ea18be12e95edf3002f97c5eca78057",
+      "bytes": 2385274
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/014-story.png",
+      "sha256": "625906fa5766d90ed8f897c8554d637f186bcf7c0bc9a038be32c8dc0088411e",
+      "bytes": 2635441
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/015-story.png",
+      "sha256": "85324c950d5f47a6d3aca6ae13fe5683cb53480d97efe19105271932469418e9",
+      "bytes": 2115780
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/016-story.png",
+      "sha256": "05b827035f65f11eb6a0295386640444c58af9916062e42f837224350c4f6c1c",
+      "bytes": 2529836
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/017-divider.png",
+      "sha256": "256752d79c8df185d9fce41d2abb53c2ec6839f33b38b003bcdfee9208f15776",
+      "bytes": 1404444
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/018-story.png",
+      "sha256": "b5ce3d0fac065407056a2344de2694f87843722ed4e4b423330b32e1a88251ab",
+      "bytes": 2643819
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/019-story.png",
+      "sha256": "605b391cd00f97ec1f9d3320d47b8e2bcc26193fd278bc8ffc924622484b566e",
+      "bytes": 2705038
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/020-story.png",
+      "sha256": "a6c3443e58a1b183be38b2b7ccdb98c0ee4b28022d769d1cead61f04275cf074",
+      "bytes": 2757501
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/021-story.png",
+      "sha256": "8c84000d8d13492d59df303f3e381023ba22f7145e92d65339926b8b22ecd9fc",
+      "bytes": 2693005
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/022-story.png",
+      "sha256": "f60203db9f727da15fb73f86fb20ecc5864831d830bf451f5427d05f42b7c426",
+      "bytes": 2913988
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/023-story.png",
+      "sha256": "ca010257ba8a425c65917cf87de31925587880c29d4425faba301865c62d2239",
+      "bytes": 2622214
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/024-story.png",
+      "sha256": "44da18045c5eb0cbfb88e34e5d8871dcb8d242a184519e66b5fcfe3901ff9d2f",
+      "bytes": 2783597
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/025-story.png",
+      "sha256": "fea31d1e5efc613cf9620b1e6839e0f34cac4de45c9370141ce7e834c3c9762b",
+      "bytes": 2468718
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/026-story.png",
+      "sha256": "cc8de66ba392c6bb6ba1dd288043b1dd2bf30c03a00b41cedb2abaeb8999ee96",
+      "bytes": 2570399
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/027-story.png",
+      "sha256": "15c729239dd8e9861ff139013e7577c861a0e94d355f65203b3ed795c75ca046",
+      "bytes": 2700326
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/028-story.png",
+      "sha256": "0a8cee5a391ee35c11499fb3534d98287f7b7edb40acf67532913e7ce4c4560f",
+      "bytes": 2693689
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/029-divider.png",
+      "sha256": "46bdc2621e5e93786b2d6f180fa6144a2e4e54882bc827a32be9c7c5e10afbc5",
+      "bytes": 1352671
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/030-story.png",
+      "sha256": "587e71fcf393ea6bbc9cea44732c68332f083b1395ed4518eaf6f4f724b153d4",
+      "bytes": 2771373
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/031-story.png",
+      "sha256": "cf165eb478e83ce690f05b46a75a6f4ae0a003257cb07c50937c0a10ab1b26a3",
+      "bytes": 2841512
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/032-story.png",
+      "sha256": "214134afca02a8786f53391d37894ed6139aa9b71f79af7ad652ff142d1a95fc",
+      "bytes": 2890734
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/033-story.png",
+      "sha256": "d1621d0c3e0b4671c4e8a9e4ac1f15fd336f51835a99321665cefb5783f302a7",
+      "bytes": 2785004
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/034-story.png",
+      "sha256": "36a3a84bfed644b59e601c59a6a2b2b47286794530497b0e8018a8a9c1100f8c",
+      "bytes": 2698869
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/035-story.png",
+      "sha256": "d23d2a129f268f5ca137f7ab7ccdc1555ab6d3bbf099dcde8aaa53173b1a217d",
+      "bytes": 2744316
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/036-story.png",
+      "sha256": "831bf8b06fa81bbea484293e78b31227ce6d7e114f925b9f1225c24af53c1b1f",
+      "bytes": 2607962
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/037-story.png",
+      "sha256": "69c6f21b04fa86298248c9f778a2ee31959f4c2a2edf7c8adc94133e16d3e018",
+      "bytes": 2585576
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/038-story.png",
+      "sha256": "756b8e56e6befe3769280687b068e817f537eb7310be03b44f92c64646d8100e",
+      "bytes": 2368576
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/039-story.png",
+      "sha256": "24ae2fed2c774a4914f85ef72af56b9ff2ba540c8d8839720f144cac8da41097",
+      "bytes": 2656332
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/040-story.png",
+      "sha256": "02b6d6169639798fa23c7b971ff9d046066e406691337958f235584d06892c3d",
+      "bytes": 2339117
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/041-story.png",
+      "sha256": "62d1a2ef6020ef160c8f974c534b393eec97e5fedde3f3747f7ccbe7bbe9c116",
+      "bytes": 2288681
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/042-story.png",
+      "sha256": "010069c0b3018f353477147e314f28bfa741ba6bb6263aefd106b3c5497dea32",
+      "bytes": 2566848
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/043-story.png",
+      "sha256": "40829f38f309df9e6d1dd48701254242273e07770d297c9410b7dfc4e36057fe",
+      "bytes": 2524350
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/044-story.png",
+      "sha256": "bbabc5460541538c66b671368b8a7318dcc324c36fdbd054583a34152a9ca707",
+      "bytes": 2398924
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/045-story.png",
+      "sha256": "b58522cc8ebb60c8870dcfe69dba9fa98a5266240b255132b7641668f37c945e",
+      "bytes": 2600292
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/046-story.png",
+      "sha256": "f00025479654e2be52ffc4586de7fd50de859c487e21308dbf832b1ac590f6de",
+      "bytes": 2586975
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/047-story.png",
+      "sha256": "6a0d8f8f08bf4563708a3dd075eaae802601aa74ff8a31c9203735c3be96b861",
+      "bytes": 2564422
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/sequence/048-colophon.png",
+      "sha256": "530a93c6a5fc579e440dc3432f2929c5cd5ca9fdf8b2047c8494bff0388a9ee7",
+      "bytes": 75430
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/source-hashes-before.sha256",
+      "sha256": "2ece7d1603feb21fd03b5957dc7ff0edc7d790f7e82d379576b97c0ad5705b28",
+      "bytes": 5904
+    },
+    {
+      "path": "art/graphic_novel/proofs/volume_01_the_return/style-review.md",
+      "sha256": "bc7f9691ee4352c532f4b710a4159a750aa8502f970c55a1b9db7e58aa0d0b2c",
+      "bytes": 2186
+    },
+    {
+      "path": "art/graphic_novel/remaining_scene_catalogue.md",
+      "sha256": "648e8e1c82df8c11a6842e5612db1dcb3088526edc9343d8abeab719024cb406",
+      "bytes": 21892
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_01_korin_office/lettering-spec.md",
+      "sha256": "cb0f1c740734bd4525f949e459dda03681b8345cafb0f09e114b9ac2043c4f68",
+      "bytes": 1794
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_01_korin_office/page-01.png",
+      "sha256": "9ab9859a92d38904d4689dcbb0d4cb653c05ab4f54cebdabe32491acf9eb5490",
+      "bytes": 2433544
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_01_launch_anomaly/page-01.png",
+      "sha256": "8f01ded3dc2a0d871e3a172a1734071c5fc13d53978777917cb4bfdcb8eddeac",
+      "bytes": 2802647
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_01_launch_anomaly/page-02.png",
+      "sha256": "dd1a1cc374d2380937c4e47849cc8685b720e7ac4da7770f2969af3cad0f5ff0",
+      "bytes": 2650118
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_04_the_walk/page-01-continuity-draft.png",
+      "sha256": "c4a3d8788b1a9b37e2a78fbd8d88614187fba25a1e9616ad841e2139066171f2",
+      "bytes": 2514212
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_04_the_walk/page-01.png",
+      "sha256": "68bff8e7bf3d27cf1369e7b7ae534e0091f7d6fb1d1a5c4a10c693ff5bed2846",
+      "bytes": 2508323
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_05_opening_move/page-01.png",
+      "sha256": "d4f90dd8102df9ed01281f009a3e65144aeb48609a79ce396a1872c9ea5dbbc4",
+      "bytes": 2454114
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_05_opening_move/page-02.png",
+      "sha256": "c05928f6ca1b9db267eb10e83eaa0aecdd7c0047da2c0764f3b32e7103bef915",
+      "bytes": 2591334
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_06_controlled_variables/page-01.png",
+      "sha256": "6c14729dd79cb79f00b81778a090fe0af9ff529700413f8732638bb409dc5379",
+      "bytes": 2897150
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_07_the_seam/page-01-continuity-draft.png",
+      "sha256": "7cb75bf092339317745c963c840e9abbb298dd35b9016a8d0dac78a2f2e491a1",
+      "bytes": 2511369
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_07_the_seam/page-01.png",
+      "sha256": "ce2c4bd6e13961e9e056f8763bb66e57be024076779f87a4c817e6b3b2b1eebc",
+      "bytes": 2355230
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_07_the_seam/page-02.png",
+      "sha256": "3e32912deb82e630f8b2a9a4c70174d6edc58990772596b6def1d26569fdea90",
+      "bytes": 2803921
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_08_the_drop/page-01.png",
+      "sha256": "890e53560768fd6836c6b5b69b8e8f5fc9577a3b8c72dcdf24efdd400c95f9bb",
+      "bytes": 2987192
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_08_the_drop/page-02.png",
+      "sha256": "e9e30f61d5d8ccc2991e883dbbd5bca323d4279594bfa1a17e563653ee0378e2",
+      "bytes": 3063124
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_09_fractures_in_the_core/page-01.png",
+      "sha256": "fc0f18531575c3296cddf7f829c7c313907b161157bc6595f2786852750f0b18",
+      "bytes": 3049955
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_10_signal_to_noise/page-01-composition-draft.png",
+      "sha256": "2c897b07c9c6d2bae1216f6e4642502c961e38a21e49b2672080873fee6ccd21",
+      "bytes": 3015070
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_10_signal_to_noise/page-01-dialogue-draft.png",
+      "sha256": "ed2450ffdee88e2bb9521e914c5eb5f654e18f4e85c2014c0c8bc1cdd5e78b88",
+      "bytes": 3209593
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_10_signal_to_noise/page-01.png",
+      "sha256": "b8bbcd23097cba76bcb39c79bf17857f09fd0e5f0e44c97d069cea78b4d927f2",
+      "bytes": 3000746
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_10_signal_to_noise/page-02.png",
+      "sha256": "9c6d96e9d0d99653fbb6825ffb947397c5ce65b10bb9329a8dd2c68984f78217",
+      "bytes": 3267841
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_11_contingencies/lettering-spec.md",
+      "sha256": "955de17f75844af4c0baef2db6299bc033cf472d9bb25322f1906ececb69d8d3",
+      "bytes": 2997
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_11_contingencies/page-01.png",
+      "sha256": "aaed3fc694b191c680bc37e20db97fbd114be0981a27cb5c73410b5d4edbb87b",
+      "bytes": 2880749
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_11_contingencies/page-02.png",
+      "sha256": "67142c01a176db025ba453ea968f707813ecc1141f7d6a1a1899ffd1dae22227",
+      "bytes": 3036530
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_11_contingencies/page-03.png",
+      "sha256": "995533d7b59d4e777da174e9e36e3f3de44a1d9841200738bbc91d14a34bb609",
+      "bytes": 2768910
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_12_lanes_between_signals/lettering-spec.md",
+      "sha256": "50ba480be1765d506b8678a9198160747ba26d644fcdd286bd7194d60608b4d3",
+      "bytes": 2771
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_12_lanes_between_signals/page-01.png",
+      "sha256": "728f415ee180b2cdb7988a98b6980110e72379216cc5cd850c26bfd033658328",
+      "bytes": 2877738
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_12_lanes_between_signals/page-02.png",
+      "sha256": "e298d8c2396fd1ad75cf527a40acf6ab91a2a49fe9ca09d8a7f20e63fb52962f",
+      "bytes": 2993495
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_12_lanes_between_signals/page-03.png",
+      "sha256": "dd2dc58de65a10457f52d6b32651a5ccd55e8914c499aea46f6cf07196948d03",
+      "bytes": 3018459
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_13_sequence.md",
+      "sha256": "3baddfb8c1a39dc46faf028b36309502a214627ca88e3872134a79d5c1432b69",
+      "bytes": 831
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_13_soft_edge/lettering-spec.md",
+      "sha256": "00bb7e608714b00b57f16b47c0c5f0f24bdaae2464e40883ec35a62571ae7801",
+      "bytes": 3424
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_13_soft_edge/page-01.png",
+      "sha256": "00ead664b032ea12c33539b478a0ea68075972bdaf9e7937850c277e43305ae6",
+      "bytes": 3081536
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_13_soft_edge/page-02.png",
+      "sha256": "05f359c0cab323d473dfdbf6a673de76a0942ae9019e2b9ddff030a86d13cea2",
+      "bytes": 3177296
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_13_soft_edge/page-03.png",
+      "sha256": "d7d66734f08ff25c8fcfdfd2610453062d1495a0b070f180e131f01b4463b51c",
+      "bytes": 3214600
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_14_broken_clinic/lettering-spec.md",
+      "sha256": "4ce1b405277427f9ba8227e45e236a5112ffc008838036600b461183c3a31070",
+      "bytes": 4569
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_14_broken_clinic/page-01.png",
+      "sha256": "cc4ae85aed40d15c6bb53026b4db51ed263dad3360f01b7aeb7cd4af0ea217e1",
+      "bytes": 3133167
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_14_broken_clinic/page-02.png",
+      "sha256": "bd70dc8e3b7820303448f86915ed3946b4547816ab0620e8941e3f7241514540",
+      "bytes": 2995628
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_14_broken_clinic/page-03.png",
+      "sha256": "8ce28ac1375e01c13f05ea9689b5a401c5b0355c16c1f5e2331e551315eed5d7",
+      "bytes": 3043860
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_14_sequence.md",
+      "sha256": "4b4d6b7611ea0afc0063d9c527a7b7bb55f6cb45ce5c0c737b709e84dda4f59b",
+      "bytes": 861
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_dojo/lettering-spec.md",
+      "sha256": "b673c9c742e7800bc03680f336ca07fbf384f47f0dc37ca89ac559c1a665bd66",
+      "bytes": 3688
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_dojo/page-01.png",
+      "sha256": "3d10fd3f0cf91917e9604f44a17eca48133cf3a8614af68ade4e7da63ff6bd42",
+      "bytes": 2874622
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_dojo/page-02.png",
+      "sha256": "c17a7bb588bed92ceabc573bb0cc3be5d99b25fdf3a992ee1c284f14688deab5",
+      "bytes": 2597043
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_dojo/page-03.png",
+      "sha256": "d381ed4b1f1e499d14708dc16ad6ad40af63c7cdeb57cc840e5821217f76d8a1",
+      "bytes": 2863630
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_fall/lettering-spec.md",
+      "sha256": "76ded7b743b019d1049094568e6cc50b7c8aa7ac71cfb2d9037a547fe5be6f85",
+      "bytes": 3262
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_fall/page-01.png",
+      "sha256": "4cf6cb57cb6dbda0e92b6cf7648887ea5d841670a2759fb5b924f97c513394da",
+      "bytes": 2797767
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_fall/page-02.png",
+      "sha256": "08f037b563357335f0ff06f3f00f3876ef646f3070e65acc3b25af55b1b6528d",
+      "bytes": 2770562
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_almelah_fall/page-03.png",
+      "sha256": "9c4ebe44049248606c5bd4cea5268ee944b91997f4bdd2b00cf88b6be1fa8ce8",
+      "bytes": 2570936
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_augmentation_offer/lettering-spec.md",
+      "sha256": "281388bc9e06d5aec185cf308ad8f2d4b018835b0f47b9665b3fb2686e384a7b",
+      "bytes": 2800
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_augmentation_offer/page-01.png",
+      "sha256": "ff12c83b32c900a1d9c6e7b753d74ce55bb6cf9c4e48b17fb7bba1dcc971a71e",
+      "bytes": 2577817
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_augmentation_offer/page-02.png",
+      "sha256": "1e0810d157b6605947582ecd58b69636e7a5962cbc3c558714d5d60c68fedb01",
+      "bytes": 2563378
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_gor_in_rain/lettering-spec.md",
+      "sha256": "c1c900d63a3b2555c093ba38469cfd0b81e33f21cd65ec686118fff6c7dfde88",
+      "bytes": 2429
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_gor_in_rain/page-01.png",
+      "sha256": "70e8df7a72cd6708dddc2937798130f8b3dece045671f4149b51b60b7c49c283",
+      "bytes": 2821386
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_safehouse_conclusion/lettering-spec.md",
+      "sha256": "65d734f0413c51503045afc02e28bc9c4960923ddd3306a1471e8cf6e8fdd816",
+      "bytes": 2537
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_safehouse_conclusion/page-01.png",
+      "sha256": "49849b39cf9a836cb7e8230941c0d26a02ffc582d1a75a6b6eede46c700d40d9",
+      "bytes": 2912413
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_safehouse_conclusion/page-02.png",
+      "sha256": "acf5ebf3445d29630170f5cf7cd368033f295d285472db06cb05b121f5255754",
+      "bytes": 2889997
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_safehouse_recognition/lettering-spec.md",
+      "sha256": "3c09e3a14a760bc71451dc12f8b8b1a0a52246cc784f3f81d36edbe6df07e0cd",
+      "bytes": 1412
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_safehouse_recognition/page-01.png",
+      "sha256": "66f855f08fb69d80a692c2098b04e432eed0b51c8cb681670b155681ed10a132",
+      "bytes": 2914888
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_15_sequence.md",
+      "sha256": "f236efafd818f1e5f97524a717c182f9850ff7b1d7e59bb5d7fd13b05989f80f",
+      "bytes": 2016
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_22_runoff_cut/lettering-spec.md",
+      "sha256": "785a83a5ef4018d3cad9ca43d1d048dfaed6803c05c489ae7b1c965f607a4eb9",
+      "bytes": 4640
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_22_runoff_cut/page-01.png",
+      "sha256": "060291230363a0770709627f40dc7d1c477e012509358365482ca3996ed97a50",
+      "bytes": 3187083
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_22_runoff_cut/page-02.png",
+      "sha256": "ed9319d9c84e0c3516ac9a06c588a946836d6fa6874ef9a335225a18fd2c7f97",
+      "bytes": 2970171
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_22_runoff_cut/page-03.png",
+      "sha256": "f4dc2825ad2f1de8aadcbf77e99562bc4b24135a16dc302ead13b184818d44a1",
+      "bytes": 2726345
+    },
+    {
+      "path": "art/graphic_novel/scenes/chapter_22_sequence.md",
+      "sha256": "d7dce68c31c84c4e899243e2f6ef730b9b322a5b2a4a8d2f289e7e961a1a9669",
+      "bytes": 926
+    },
+    {
+      "path": "art/graphic_novel/style_guide.md",
+      "sha256": "69504d28a44029452d202c287b4f7df8947714d507be33836dc4c8c6e734419e",
+      "bytes": 9151
+    },
+    {
+      "path": "art/graphic_novel/style_refs/surface-age-stacks-style-reference.png",
+      "sha256": "2f66bf3e2e3bbd24eda100cfc2d419cd97e09e5b16ab1d7594004d23024594df",
+      "bytes": 2036645
+    },
+    {
+      "path": "art/graphic_novel/tech/cognitive-pattern-testing-interface/reference.png",
+      "sha256": "14585a38dac7e7250bf2074716c5614f1ad16b88c2e336255d60a978a4421362",
+      "bytes": 2724807
+    },
+    {
+      "path": "art/graphic_novel/visual_discrepancy_audit_SOP.md",
+      "sha256": "a4fc2efba223e83cfbf85da406e6ef6fedea29de403b7263aa75c65c3cbefa3a",
+      "bytes": 9357
+    },
+    {
+      "path": "art/music/surface_age_stacks/README.md",
+      "sha256": "8979c2260efacc924a3a348d8e69e01581012d29461414b814170ba25e40c32f",
+      "bytes": 3023
+    },
+    {
+      "path": "art/music/surface_age_stacks/generate_loop.py",
+      "sha256": "0d313033e5638b1508c46d14c87e14cf97e7e8f868468a5867352da9512c83e1",
+      "bytes": 11549
+    },
+    {
+      "path": "art/music/surface_age_stacks/generate_music_loop.py",
+      "sha256": "c77447128117db13fbe972bd803d92e4be8abbc1517f5ad05b5b14d34698827c",
+      "bytes": 11641
+    },
+    {
+      "path": "art/music/surface_age_stacks/generate_slow_ambient_loop.py",
+      "sha256": "27d063a2a1344c69a2fb7936353e4c85c37f956bf25483b3f0b8ce1801da41b6",
+      "bytes": 10353
+    },
+    {
+      "path": "art/music/surface_age_stacks/stack-field-afterlight-music-loop.mp3",
+      "sha256": "3a71f47d96177a262ef7c0cb43ed21b779137b9432d268b11f132d3ca73667c3",
+      "bytes": 2562132
+    },
+    {
+      "path": "art/music/surface_age_stacks/stack-field-afterlight-music-loop.wav",
+      "sha256": "0d889d7ab7e3f7cb9c2014097b260b983da3c2df8dc3c4dd9294d5fe4b50f268",
+      "bytes": 14112044
+    },
+    {
+      "path": "art/music/surface_age_stacks/stack-field-low-weather-loop.mp3",
+      "sha256": "cfad66bd093884f94a5143580ec702d5596811a2ca8eaede09046726b40e28b8",
+      "bytes": 2562132
+    },
+    {
+      "path": "art/music/surface_age_stacks/stack-field-low-weather-loop.wav",
+      "sha256": "e0a619f5762baeae8265700bc5745dcd5571699a645d80601d02fa6ae3575bb8",
+      "bytes": 14112044
+    },
+    {
+      "path": "art/music/surface_age_stacks/stack-field-rainline-ambient-music-loop.mp3",
+      "sha256": "7bd3325d3d6ed03c6b7a8ac7e36cf0b72a7305fb857dd2ae88e99283544461ed",
+      "bytes": 3073714
+    },
+    {
+      "path": "art/music/surface_age_stacks/stack-field-rainline-ambient-music-loop.wav",
+      "sha256": "a309d210f24a6b9e9db65a7f3e3ec1a42a9909db9b04c5c13b4f6aba91f41e83",
+      "bytes": 16934444
+    },
+    {
+      "path": "convert_docx_to_md.py",
+      "sha256": "042d1a27e5a604186df26dbc67dfa49e411515e172630d97d92f19fe67fe008d",
+      "bytes": 877
+    },
+    {
+      "path": "docs/appendices/Appendix - The Voss Conquest.md",
+      "sha256": "46792a5875bc534e8224a19b2e6e59087c340ff4473f7fea26d0479c2b3c4a33",
+      "bytes": 6471
+    },
+    {
+      "path": "docs/appendices/Appendix \u2013 Figures of the Turning Time.md",
+      "sha256": "056522f0ce66a58117ce331dbb325f268096e766213901f2dc6fc3249c21c451",
+      "bytes": 9913
+    },
+    {
+      "path": "docs/appendices/Appendix \u2013 Gor of Almelah.md",
+      "sha256": "b90eb681ce468cc567dc81a31387c4c721a14ba488ba604602a3af250660e27d",
+      "bytes": 28842
+    },
+    {
+      "path": "docs/canonical/Alyen Ithra - Korin right hand.docx",
+      "sha256": "4ab26fa71ccf6dbfbb46822430d11f1eed05ad3c19f3328a4fb842533935a81f",
+      "bytes": 7926
+    },
+    {
+      "path": "docs/canonical/Cassian Rho personality_.docx",
+      "sha256": "75a480be75c4805baf70bdbe8cae928e72aaab6e05a4c08cccaad2fb59fba237",
+      "bytes": 8156
+    },
+    {
+      "path": "docs/canonical/Chapter 1 \u2013 Scene 1- The Return.docx",
+      "sha256": "0e74417effeaea2aae49ea4f7d83769f7a6e826ffe6b197ec2811bee069a3e2e",
+      "bytes": 11178
+    },
+    {
+      "path": "docs/canonical/Chapter 10 \u2013 Signal to Noise.docx",
+      "sha256": "fbf3e02498576156a02c18531d2b625cf2be02c037831613177e8e98dea437f3",
+      "bytes": 9434
+    },
+    {
+      "path": "docs/canonical/Chapter 11 \u2013 Contingencies.docx",
+      "sha256": "3de271f33a8f3446273977fc30b887cee0374b52604bcd8fd2fe46e57071c599",
+      "bytes": 9626
+    },
+    {
+      "path": "docs/canonical/Chapter 12 \u2013 The Lanes Between Signals.docx",
+      "sha256": "b5ed94c4ec69a06d0880a392c754f7bf167bd93a2a7c98f1cf64740c1b56ef8e",
+      "bytes": 12927
+    },
+    {
+      "path": "docs/canonical/Chapter 13 \u2013 The Soft Edge.docx",
+      "sha256": "4e07a34a5c9a3cd92200874a4dbc3f59390457f12ac10716b2e83b6513c9fe48",
+      "bytes": 10579
+    },
+    {
+      "path": "docs/canonical/Chapter 14 \u2013 The Broken Clinic.docx",
+      "sha256": "34660675b37adcfc7a7080096bc8b72c89dc5b4f68c2ea771fb92285691205da",
+      "bytes": 10079
+    },
+    {
+      "path": "docs/canonical/Chapter 15 \u2013 The Night the Oath Broke.docx",
+      "sha256": "f212cfa698e287f7f2206e52bad6d7d32d41e238578ef5e436cc306d97ca2951",
+      "bytes": 16204
+    },
+    {
+      "path": "docs/canonical/Chapter 4 \u2013 The Walk.docx",
+      "sha256": "2085e96184a336b5644fcdc2090000f13f7ed4039ab932af120373908c1384da",
+      "bytes": 7926
+    },
+    {
+      "path": "docs/canonical/Chapter 5 \u2013 The Opening Move.docx",
+      "sha256": "17513271ee22df13d65ecdd24acc094d84cd3ce9e8d8ba952ea0144e55c0149e",
+      "bytes": 10279
+    },
+    {
+      "path": "docs/canonical/Chapter 6_.docx",
+      "sha256": "5888068a2380ac978eaee20b28fe8e81c4f04b6192a0dd7b36de24e6d135850d",
+      "bytes": 9297
+    },
+    {
+      "path": "docs/canonical/Chapter 7 \u2013 The Seam.docx",
+      "sha256": "9eb30caf0c433181dbda5073f1e6c22d78b97491eb5dd2427ee2ecde39f3b8b9",
+      "bytes": 9491
+    },
+    {
+      "path": "docs/canonical/Chapter 8 \u2013 The Drop.docx",
+      "sha256": "e39472a30ca32a1ae2e961ab81e4725f937bdf3afd416d1fce4c1c12ddb85fe1",
+      "bytes": 9208
+    },
+    {
+      "path": "docs/canonical/Chapter 9.docx",
+      "sha256": "6f7045632d9a0d85586ef044fa61d0c52686109066442237e26a9c4a25c84333",
+      "bytes": 8294
+    },
+    {
+      "path": "docs/canonical/Current Timeline Summary.docx",
+      "sha256": "a044f5b4fd4569664058c998b4366491b8a6992a32d314ea995f527f34612ace",
+      "bytes": 8278
+    },
+    {
+      "path": "docs/canonical/Gor of Almelah \u2013 Character Dossier.docx",
+      "sha256": "e1209117efbe1f71921caa5b4b2facce8ff4024b9dc5cf83dff2cdf40516fe5a",
+      "bytes": 7893
+    },
+    {
+      "path": "docs/canonical_md/Chapter 1 \u2013 The Return.md",
+      "sha256": "09c112a582efb79c98baf6f6c1901c69fd3eba54d4bc3de874b380a202dc5641",
+      "bytes": 9752
+    },
+    {
+      "path": "docs/canonical_md/Chapter 10 \u2013 Signal to Noise.md",
+      "sha256": "e3b4afa6574ba8251eb18923c15279f58196f95bad6af283ff344ca2eac75105",
+      "bytes": 3651
+    },
+    {
+      "path": "docs/canonical_md/Chapter 11 \u2013 Contingencies.md",
+      "sha256": "138beb10eaead270553665c8ed363675cdb816cafe0ea8ce4e83664bef910390",
+      "bytes": 3896
+    },
+    {
+      "path": "docs/canonical_md/Chapter 12 \u2013 The Lanes Between Signals.md",
+      "sha256": "d5dd5ce366accf0699af31d22454e26c014a2942a581400cc7a8803c605c4120",
+      "bytes": 7390
+    },
+    {
+      "path": "docs/canonical_md/Chapter 13 \u2013 The Soft Edge.md",
+      "sha256": "487051afd162d71034ad6293ec1cc2595c8d6426f058b502b9d03921c201226e",
+      "bytes": 4699
+    },
+    {
+      "path": "docs/canonical_md/Chapter 14 \u2013 The Broken Clinic.md",
+      "sha256": "0f55f5d723d1e56497c348b3073082098d45fcf72a39bb5eb24ae59c97c7dca5",
+      "bytes": 4309
+    },
+    {
+      "path": "docs/canonical_md/Chapter 15 \u2013 The Night the Oath Broke.md",
+      "sha256": "371ef64958b9da8a540aed34708d09efb6c56d3a18e06b1c458ca9c8bd1a720b",
+      "bytes": 12514
+    },
+    {
+      "path": "docs/canonical_md/Chapter 16 \u2013 Dead Relay.md",
+      "sha256": "15d9a8bb3deaee13d3df55ee76a94bf99e5903fc19374a49ed3306d7cb74b91f",
+      "bytes": 8560
+    },
+    {
+      "path": "docs/canonical_md/Chapter 17 \u2013 The Far Side.md",
+      "sha256": "ccc218999fd74c124669cc76bf312f150a9df94559aaf0ca14d3fc0f1a900910",
+      "bytes": 8985
+    },
+    {
+      "path": "docs/canonical_md/Chapter 18 \u2013 Hold Time.md",
+      "sha256": "075621b3d08bbd58148c2cc1067faa8a483212d07a6dd67fa0e357691f4827ae",
+      "bytes": 9787
+    },
+    {
+      "path": "docs/canonical_md/Chapter 19 \u2013 Below the Map.md",
+      "sha256": "0dcd01326b09d44028af6944d9ab21dedac15d5183c9db3b5082bc85b936d237",
+      "bytes": 11146
+    },
+    {
+      "path": "docs/canonical_md/Chapter 20 \u2013 The Line Answers.md",
+      "sha256": "37fd05df4bed9fd971e5e90f9a29476d9ba056adc0571dbade5f716da73bf047",
+      "bytes": 10010
+    },
+    {
+      "path": "docs/canonical_md/Chapter 21 \u2013 Terms of Shelter.md",
+      "sha256": "f102adbc6f370248a20b1e1c30da314800a6303913f2fb4df39d6bdf474bf46c",
+      "bytes": 10753
+    },
+    {
+      "path": "docs/canonical_md/Chapter 22 \u2013 The Runoff Cut.md",
+      "sha256": "a569eeb4d2de6473dfebbb97dd3278b1412a3aca0c58a93f0c91bb5e45a2afcd",
+      "bytes": 4077
+    },
+    {
+      "path": "docs/canonical_md/Chapter 4 \u2013 The Walk.md",
+      "sha256": "9f19fb96cb6180feb0ba4d1407e9eb1227a92d901437c9d003d644de24849000",
+      "bytes": 3510
+    },
+    {
+      "path": "docs/canonical_md/Chapter 5 \u2013 The Opening Move.md",
+      "sha256": "6588079fed0329c55e143486648228be5fc7f71495eed945c54b572e941947fc",
+      "bytes": 6196
+    },
+    {
+      "path": "docs/canonical_md/Chapter 6 \u2013 Controlled Variables.md",
+      "sha256": "afbdafdf19ac917d86f7fd3a92934fa2e59d047daa79494db3b73622bfe3d73b",
+      "bytes": 4277
+    },
+    {
+      "path": "docs/canonical_md/Chapter 7 \u2013 The Seam.md",
+      "sha256": "10f95dd80b27a4c9fdb52d19395aa2cc1346c820077d021c10ba86ede0a4af12",
+      "bytes": 4721
+    },
+    {
+      "path": "docs/canonical_md/Chapter 8 \u2013 The Drop.md",
+      "sha256": "acd598fb9d7b2d1adc3af22aa9fafd0a03a6d4a9335d4dd2e0078d2e7b7d031b",
+      "bytes": 4374
+    },
+    {
+      "path": "docs/canonical_md/Chapter 9 \u2013 Fractures in the Core.md",
+      "sha256": "ff2a388a9adfc5268f22fa53d49ef869919b1324c5ae21bb2bd6392110afc714",
+      "bytes": 3000
+    },
+    {
+      "path": "docs/canonical_md/Current Timeline Summary.md",
+      "sha256": "17f4a8c2c7cd2cc754ae26d6503b06942baeef166e628dc2f9f72fd5c8dae7a5",
+      "bytes": 6222
+    },
+    {
+      "path": "docs/character_dossiers/Alyen Ithra - Korin right hand.md",
+      "sha256": "10f2ed0c3e382b0329579e8f3bf6c21b29870228519bc3b215ef4627baabf812",
+      "bytes": 1657
+    },
+    {
+      "path": "docs/character_dossiers/Cassian Rho personality_.md",
+      "sha256": "a07489a71f7068267aa003d310d104ff9799bc1b2a03521b816fd952bf24e369",
+      "bytes": 1956
+    },
+    {
+      "path": "docs/character_dossiers/Gor of Almelah \u2013 Character Dossier.md",
+      "sha256": "674a2c0d5d97960dc7de7f5e8d5635d5e4df402cab0253a481d82460e03f5f8e",
+      "bytes": 1693
+    },
+    {
+      "path": "docs/character_dossiers/Korin Tal.md",
+      "sha256": "f82b060c8d74e5f3bc7e0ec04bdf3a3939f4aaffe1abaf55f3aec51414e49ce4",
+      "bytes": 2706
+    },
+    {
+      "path": "docs/developmental/Author\u2019s Foreword \u2013 What the Record Loses.md",
+      "sha256": "ce67729bfeb465b90e3bcca722c8becd40cc06e5c1603a3b77c079fefcce1b4f",
+      "bytes": 7433
+    },
+    {
+      "path": "docs/developmental/HIVE_EARTH_HISTORICAL_SYSTEM_MODEL.md",
+      "sha256": "ddbded9440cc1c088d611f96a9a2110d8868ac8fd58af5e733ac165a4995aafc",
+      "bytes": 52538
+    },
+    {
+      "path": "docs/developmental/Hive Communication \u2013 Convergence Model.md",
+      "sha256": "a80232d445bcc861696885acb07f00af49e64f8fe20f81fa0fdaedea4e87a501",
+      "bytes": 27484
+    },
+    {
+      "path": "docs/developmental/Hive Earth Ecology \u2013 Development Model.md",
+      "sha256": "130999efd41b15e3ef6dfa42bae08425f1febfbc760ec6bf3bfb354cfe4e27e4",
+      "bytes": 44434
+    },
+    {
+      "path": "docs/developmental/Hive Proximity, Projectile Weapons, and Martial Culture.md",
+      "sha256": "8afc03da44fb39f631a44531e35e707f3599e454ee08661aea83ac6f7392073d",
+      "bytes": 20354
+    },
+    {
+      "path": "docs/editorial_workflow.md",
+      "sha256": "3424e0e7339321b23bef8ce6d69abb8f88f2f9ff50c6beb01c75116bcc9cfe70",
+      "bytes": 3045
+    },
+    {
+      "path": "docs/lore_registry.md",
+      "sha256": "4d3e2bc1b480c059d1bd3f3632c084de6b2cadc4f10eeb110d7bb3492a851e68",
+      "bytes": 19409
+    },
+    {
+      "path": "docs/obsidian_wikilink_report.md",
+      "sha256": "f58637f3db75271c329fdf9c3480fc306cc9490a7fa8837bfaaac4d63e9d8628",
+      "bytes": 6326
+    },
+    {
+      "path": "docs/todo_idea_log.md",
+      "sha256": "3f3fcc96d1cd50f31d209108d9c9735b7a6891e4b0915df65d102815c25fb8f4",
+      "bytes": 7395
+    },
+    {
+      "path": "reports/canonicalization_conflicts.md",
+      "sha256": "9ed246b5232cced2361b4d802d08baf472e5a75470023a2dc80659a24c6799a7",
+      "bytes": 729
+    },
+    {
+      "path": "reports/chapter_diff_audit.md",
+      "sha256": "d7b9dfcdefcb0664a705fbfb52bb3728acd015a2b8463f7afdb351d57f7b2e03",
+      "bytes": 4204
+    },
+    {
+      "path": "reports/codex_first_pass_report.md",
+      "sha256": "c7a483e2de0aaa4d843870b182ea634361e676d248fb5f51fb8988063ac4f7dd",
+      "bytes": 7424
+    },
+    {
+      "path": "reports/normalization_and_split_summary.md",
+      "sha256": "62efb783b87b6e2aaf886304447ce6274f83900f35f144fe52f6a9c1f67bb79f",
+      "bytes": 887
+    },
+    {
+      "path": "reports/notebooks/hive_earth_systems_stress_test.ipynb",
+      "sha256": "1a8f3390911e33c3a6299f69c0bc6278ea21f8312cd37d63a87fa4e0265a8af6",
+      "bytes": 15680
+    }
+  ]
+}

@@ -52,6 +52,16 @@ Most histories return to the contradiction. Almost every accusation against her 
 
 Some Proto-Under Hive traditions preserve rumors that Voss was not quite human. Official accounts leave them unconfirmed. The surviving record does not show whether the claim began in medicine, engineering, or fear.
 
+### Thermal Infrastructure
+
+Voss-era systems already joined large energy works to reconstruction, extraction, and relief. They made later consolidation possible without resembling it. Surviving planning from her administration does not use the equatorial concentration model, and no reliable account credits Voss with the silos that followed.
+
+After her assassination, the fracture of The Great Union, and the later instability that included the Voss Conquest, the surviving authorities rebuilt unevenly. In the reconstruction periods that followed, they brought more of the thermal and water burden into controlled equatorial zones. The reasoning survives in fragments. Distributed installations were expensive to supply, inspect, and protect. Equatorial regions were already places of difficult heat. Concentration promised fewer systems to manage and more useful work from the heat the older systems had treated as loss.
+
+The first complexes recovered power from high-temperature waste before releasing what remained. Over time they became the enormous structures later called silos. A mature silo was not simply a cooling plant or a tower. It joined underground Hive industry to heat collection, electrical generation, water movement, atmospheric exchange, hydrological control, and, later, planetary environmental management. The arrangement carried reconstruction through periods when smaller systems could not have done so, and remained necessary as the Hive grew around it.
+
+Later accounts attach part of the environmental meaning of the Voss Effect to disturbances around thermal works and turbine water. The precise relation is disputed. Some records describe altered rain; others preserve changes in river life and soil that cannot be reduced to a single discharge or one season of bad weather. Later engineering checked or altered the active sources, but the affected ecologies did not resume their earlier forms. The silos remained in service.
+
 ### Death and Afterlife
 
 Folk tradition says someone once tried to shoot her at point-blank range during the height of her consolidated power. One version has the attacker shouting:

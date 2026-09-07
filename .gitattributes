@@ -10,3 +10,12 @@ art/graphic_novel/concept_sketches/institutions/**/*.png filter=lfs diff=lfs mer
 art/graphic_novel/concept_sketches/technology/**/*.png filter=lfs diff=lfs merge=lfs -text
 art/graphic_novel/concept_sketches/events-concepts/**/*.png filter=lfs diff=lfs merge=lfs -text
 art/graphic_novel/experiments/visual-language-hierarchy/assets/**/*.png filter=lfs diff=lfs merge=lfs -text
+
+# Keep versioned Phase 1 correction candidates in LFS without touching their
+# established source assets or rewriting prior PNG history.
+art/graphic_novel/**/*phase1*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/**/continuity-sheet-material-refinement-v3*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/**/continuity-sheet-material-refinement-pilot*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/**/phase1-reset/**/*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/**/phase1-reset/*.png filter=lfs diff=lfs merge=lfs -text
+art/graphic_novel/chapter_01_wakeup/asset-pack-phase1-reset/*.png filter=lfs diff=lfs merge=lfs -text

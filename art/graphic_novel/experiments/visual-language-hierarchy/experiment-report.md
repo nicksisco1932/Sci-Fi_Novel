@@ -120,6 +120,41 @@ Drift and risks:
 
 Assessment: **useful but not replacement-ready**. The contextual authority succeeds, but the variant exposes higher-order costume, equipment, and impact-physics constraints that require stronger locks.
 
+## Material-Coherence Follow-Up Tests
+
+These non-destructive follow-ups test the Material-Coherence Correction Factor against two demanding contextual regimes. They use each contextual page as the sole authority for composition and story content, the Korin partial-face study as a narrow human-detail reference, and the Chapter 1 continuity sheet as the overall graphic-novel craft lock. The original contextual assets remain unchanged.
+
+### Rain Ambush Material Test
+
+- Path: `assets/chapter_13_soft_edge-page-01-contextual-material-refinement-test.png`
+- SHA-256: `8626E28EA7470E4A47D355F974432AF44799EAB9A5E03EA1D28DE7F5C9B817F5`
+- Dimensions: `1024x1536`
+- Status: candidate only; author review required
+
+Initial review finds substantially more coherent skin, wet cloth, and armor values. Facial planes, stubble, hair grouping, hands, and rain-dark fabric read with less shared cloudy marbling while rain, impact, abrasion, and wet specular behavior remain visible. The earlier costume, armor-geometry, and airborne-staging risks remain because this test intentionally preserves the contextual source's content rather than redesigning it.
+
+Author review identified a perspective-scale error in the first wide panel: seated Thena remained too large relative to foreground Cassian and the depth of the doorway recess. A focused edit targeted that recessed figure, reducing and grounding her while preserving the page treatment:
+
+- Corrected candidate: `assets/chapter_13_soft_edge-page-01-contextual-material-refinement-perspective-v2.png`
+- SHA-256: `6B2EAF4107ED86E4AD76AA57A2A063CFA7F4613AF6E3F05682C5547E4AB46CB8`
+- Dimensions: `1024x1536`
+- Status: perspective corrected, but not approval-ready; focused Cassian face rework required
+
+The first material test remains preserved as an iteration record but is superseded for review by the perspective-corrected candidate.
+
+Subsequent author review identified a separate failure in the second-row left Cassian profile. The cheek, brow, nose, jaw, and neck resolve as oversized angular masses, while etched/marbled texture crosses the skin and wet shirt. The panel is rated material coherence `2`, facial form and identity `3`, and human microdetail `2`. This is not a perspective problem and should be corrected as a narrowly isolated face, hairline, stubble, ear, and neck edit without disturbing the accepted Thena scale correction.
+
+### Broken Clinic Material Test
+
+- Path: `assets/chapter_14_broken_clinic-page-01-contextual-material-refinement-test.png`
+- SHA-256: `6228C00772174071036D910AADEFD486C70231B118BD0BCCC720E7D26714C97D`
+- Dimensions: `1024x1536`
+- Status: candidate only; author review required
+
+Initial review finds cleaner differentiation among skin, stubble, hair, jackets, layered clothing, gauze, bedding, metal, damp walls, and lamp glass. Faces and hands are less cartoon-like and retain age and wear without spreading the same mottled pattern across every material. The low practical-light regime and legitimate clinic grime remain intact.
+
+Neither test is promoted by this report. Full-resolution author review should decide whether the remaining low-contrast texture is physically justified, acceptable at page scale, or needs another focused pass.
+
 ## Cross-Regime Findings
 
 1. Chapter 1 works well as a craft authority when its palette and lighting are not treated as universal.
