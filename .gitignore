@@ -1,2 +1,4 @@
 Main Text.gdoc
 *.gdoc
+__pycache__/
+/tmp/pdfs/*_qa/

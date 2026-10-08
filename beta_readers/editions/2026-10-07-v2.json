@@ -1,0 +1,255 @@
+{
+  "edition_id": "2026-10-07-v2",
+  "title": "Hive Earth",
+  "author": "Nicholas Sisco",
+  "edition_date": "2026-10-07",
+  "source_commit": "c41140b00b9fe348f546ada77a9143413ae5894e",
+  "reader_note": [
+    "This copy includes the integrated post-Gor arc through Chapter 30. Please note where the causal chain is unclear, where a character’s choice feels unearned, or where the ending’s uncertainty feels confusing rather than intentional.",
+    "Please also note where Voss, Korin, Verran, and Gor feel persuasive, where their arguments become costly, and whether you ever wish one of them offered a clean take.",
+    "All three appendices follow the manuscript. Gor of Almelah is an expanded developmental appendix; its notice of unresolved differences from Chapter 15 is preserved for your review."
+  ],
+  "sources": [
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 1 – The Return.md",
+      "title": "Chapter 1 – The Return",
+      "raw_sha256": "7025d019506c9837542aeb0dd5266d01dfe1f30c4a7ef00119e968847acf3635",
+      "text_sha256": "f6d389582a74bc578bd120d9d6d58754b9e46531b63e2cbe73a0f24702f766f5"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 4 – The Walk.md",
+      "title": "Chapter 4 – The Walk",
+      "raw_sha256": "d4a23f86241acd3aa74c7ebc268819e73a4a3a2c914c119184ad94cd3d2b509b",
+      "text_sha256": "dda91346e6a58901ad3ce10d70eba202384a8a38032002094021cc5ec2f07829"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 5 – The Opening Move.md",
+      "title": "Chapter 5 – The Opening Move",
+      "raw_sha256": "bec16c527376cc765241eb0b5475090d00cc3c9d2d4de3724a4b2b2670f8b10a",
+      "text_sha256": "265b94e505e07471550dd4354c5de55474cf6390a8369ecab0b0ba06fe959a8e"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 6 – Controlled Variables.md",
+      "title": "Chapter 6 – Controlled Variables",
+      "raw_sha256": "684c0e1e89c7d97145eb7dc72cfa83fb4a4a70920d70483c64206624d5f3f47e",
+      "text_sha256": "19070d914395755b704da0ac21bf83ef84944eaafeb6010ec62a09ca67d4542c"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 7 – The Seam.md",
+      "title": "Chapter 7 – The Seam",
+      "raw_sha256": "e0304cff4bf4dde9b469f83a4693c64f96019c1181e1d78dff4d76c80a7c99dd",
+      "text_sha256": "32feba413631894a2e38217d039d1ca7b90a544eccc3dc9b1612d070c5b8edeb"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 8 – The Drop.md",
+      "title": "Chapter 8 – The Drop",
+      "raw_sha256": "e6b4fbee197f96bda889e69b1b23f5e6c21e7cb9c123357fea0e9c69f4964f71",
+      "text_sha256": "fab75fc82542844e8a4520055bc6391abbee33457dee10dc4b86d5b39ebfdcbe"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 9 – Fractures in the Core.md",
+      "title": "Chapter 9 – Fractures in the Core",
+      "raw_sha256": "64ab5616ce3ef110670da1b02c3456252eeda68db047d67331c9b8f895df5e4c",
+      "text_sha256": "92aecc81d663aa4ddbeae602cb53455d3c60c49268aa5f63c34a4cf6bc816cbd"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 10 – Signal to Noise.md",
+      "title": "Chapter 10 – Signal to Noise",
+      "raw_sha256": "ba3ba69285febfa6c83c684ee178aa3658c27f6d290108097be396987936b6e3",
+      "text_sha256": "13cd777a21d8d157c00b2c06e8df07a321dbeea3e28feac3dc9bc1e866c870b8"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 11 – Contingencies.md",
+      "title": "Chapter 11 – Contingencies",
+      "raw_sha256": "3374503118df831602a207834b7cfe50464246cff40efc22586a84370da2e88a",
+      "text_sha256": "622ae66f1405e9715337fef7e388fee62e4aff090c5135d5847effc4d161b2e0"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 12 – The Lanes Between Signals.md",
+      "title": "Chapter 12 – The Lanes Between Signals",
+      "raw_sha256": "d5dd5ce366accf0699af31d22454e26c014a2942a581400cc7a8803c605c4120",
+      "text_sha256": "9e1956adf31e34e4a9e100e293ff8d8a5e8eb05177b4c0478fa07103db13a13a"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 13 – The Soft Edge.md",
+      "title": "Chapter 13 – The Soft Edge",
+      "raw_sha256": "487051afd162d71034ad6293ec1cc2595c8d6426f058b502b9d03921c201226e",
+      "text_sha256": "5477657e412d8c42e0cc24fe8035a7e46a1ce2f29908dad16e9628b5948622c2"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 14 – The Broken Clinic.md",
+      "title": "Chapter 14 – The Broken Clinic",
+      "raw_sha256": "0f55f5d723d1e56497c348b3073082098d45fcf72a39bb5eb24ae59c97c7dca5",
+      "text_sha256": "c06ff0edf35e02bc088f8139f1f04830ea66a369bb9e45352382624362263903"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 15 – The Night the Oath Broke.md",
+      "title": "Chapter 15 – The Night the Oath Broke",
+      "raw_sha256": "371ef64958b9da8a540aed34708d09efb6c56d3a18e06b1c458ca9c8bd1a720b",
+      "text_sha256": "bb31816ed68f7423f480ccacba2c8c5b37b410af6c3510711b511d959f112fab"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 16 – Dead Relay.md",
+      "title": "Chapter 16 – Dead Relay",
+      "raw_sha256": "15d9a8bb3deaee13d3df55ee76a94bf99e5903fc19374a49ed3306d7cb74b91f",
+      "text_sha256": "b7cbc8df55de1f8170b89e489fa52267f4c4fd85972ef2a0371d0c27fc97da19"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 17 – The Far Side.md",
+      "title": "Chapter 17 – The Far Side",
+      "raw_sha256": "ccc218999fd74c124669cc76bf312f150a9df94559aaf0ca14d3fc0f1a900910",
+      "text_sha256": "86b0a62504ddb09ad5735e02b0ec0f00b9b57ad72b4520d90bb884bf3d9aa0dc"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 18 – Hold Time.md",
+      "title": "Chapter 18 – Hold Time",
+      "raw_sha256": "075621b3d08bbd58148c2cc1067faa8a483212d07a6dd67fa0e357691f4827ae",
+      "text_sha256": "b868c666dac439b7a9248d0dce363598942dbaac82cc43e31d93d3f4dc8dc291"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 19 – Below the Map.md",
+      "title": "Chapter 19 – Below the Map",
+      "raw_sha256": "0dcd01326b09d44028af6944d9ab21dedac15d5183c9db3b5082bc85b936d237",
+      "text_sha256": "333ab7384485894994b6fcb1d408827dc87ad3d7b8847bd7267f293e14b8b19c"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 20 – The Line Answers.md",
+      "title": "Chapter 20 – The Line Answers",
+      "raw_sha256": "37fd05df4bed9fd971e5e90f9a29476d9ba056adc0571dbade5f716da73bf047",
+      "text_sha256": "aeb4314cc5f5ef897ef211370c9eb757258c4498f77e301cbb1916f4ca58d82b"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 21 – Terms of Shelter.md",
+      "title": "Chapter 21 – Terms of Shelter",
+      "raw_sha256": "f102adbc6f370248a20b1e1c30da314800a6303913f2fb4df39d6bdf474bf46c",
+      "text_sha256": "5203584609cf4533085167456f95f6a69a7709214e4e2819e8ebe48e3d63f577"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 22 – The Runoff Cut.md",
+      "title": "Chapter 22 – The Runoff Cut",
+      "raw_sha256": "acacadc29f3311e06468071e78da131848cba2e480e996ff026d4c65b1f53494",
+      "text_sha256": "a569eeb4d2de6473dfebbb97dd3278b1412a3aca0c58a93f0c91bb5e45a2afcd"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 23 – The Cost of the Line.md",
+      "title": "Chapter 23 – The Cost of the Line",
+      "raw_sha256": "67337d015b4a99c9db226caf749ae67f35209abdd90cb80ec82c2d4123c91d59",
+      "text_sha256": "67337d015b4a99c9db226caf749ae67f35209abdd90cb80ec82c2d4123c91d59"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 24 – The Biomechanic.md",
+      "title": "Chapter 24 – The Biomechanic",
+      "raw_sha256": "88c5f000e41cb23dd5a949ba56f426b1f319bb8e74fbb26cdcf6ec7bf7cb401d",
+      "text_sha256": "88c5f000e41cb23dd5a949ba56f426b1f319bb8e74fbb26cdcf6ec7bf7cb401d"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 25 – Release.md",
+      "title": "Chapter 25 – Release",
+      "raw_sha256": "eca6b8e92ba63ac1b84507c62d839f392071e09f62cc9993ee4dd26f34218ce3",
+      "text_sha256": "eca6b8e92ba63ac1b84507c62d839f392071e09f62cc9993ee4dd26f34218ce3"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 26 – The Carrier.md",
+      "title": "Chapter 26 – The Carrier",
+      "raw_sha256": "52b2c5639333461c391083af86769e50066662df0dcb854802574fbabbd3d261",
+      "text_sha256": "52b2c5639333461c391083af86769e50066662df0dcb854802574fbabbd3d261"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 27 – The Key.md",
+      "title": "Chapter 27 – The Key",
+      "raw_sha256": "fadc26a6922b101f9ce7a61a486b204d1d6aabd1f1efb3f654e41c754f9a0aed",
+      "text_sha256": "fadc26a6922b101f9ce7a61a486b204d1d6aabd1f1efb3f654e41c754f9a0aed"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 28 – The Containment Room.md",
+      "title": "Chapter 28 – The Containment Room",
+      "raw_sha256": "e0d691da23335b27991388bc2a89bd709f44dc55f279b08eb15ceaa2b9937ac2",
+      "text_sha256": "e0d691da23335b27991388bc2a89bd709f44dc55f279b08eb15ceaa2b9937ac2"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 29 – The Noise.md",
+      "title": "Chapter 29 – The Noise",
+      "raw_sha256": "adf1ab41f00058c9b24dd67941adbff01c5194c6471fab39120f8e577dc77a04",
+      "text_sha256": "adf1ab41f00058c9b24dd67941adbff01c5194c6471fab39120f8e577dc77a04"
+    },
+    {
+      "role": "chapter",
+      "path": "docs/canonical_md/Chapter 30 – Outside.md",
+      "title": "Chapter 30 – Outside",
+      "raw_sha256": "b254b2608be72d9450c9264cd98b4b1804ccd91da5be7baa4d3028559b16f032",
+      "text_sha256": "b254b2608be72d9450c9264cd98b4b1804ccd91da5be7baa4d3028559b16f032"
+    },
+    {
+      "role": "appendix",
+      "path": "docs/appendices/Appendix – Figures of the Turning Time.md",
+      "title": "Figures of the Turning Time",
+      "raw_sha256": "c6548220a74cecb1d860c831457edb1831a43bd162c16b418660795e9b7a60f5",
+      "text_sha256": "056522f0ce66a58117ce331dbb325f268096e766213901f2dc6fc3249c21c451"
+    },
+    {
+      "role": "appendix",
+      "path": "docs/appendices/Appendix - The Voss Conquest.md",
+      "title": "The Voss Conquest",
+      "raw_sha256": "6a195f3ecff2a0828385fd8c37d0e34be7df2d34ba24b93d968bfcb22de81cab",
+      "text_sha256": "46792a5875bc534e8224a19b2e6e59087c340ff4473f7fea26d0479c2b3c4a33"
+    },
+    {
+      "role": "appendix",
+      "path": "docs/appendices/Appendix – Gor of Almelah.md",
+      "title": "Gor of Almelah",
+      "raw_sha256": "ac411796d74533df8712d95c72b9252473a30ae6532d1fa75029753f6701f7b4",
+      "text_sha256": "b90eb681ce468cc567dc81a31387c4c721a14ba488ba604602a3af250660e27d"
+    }
+  ],
+  "cover": {
+    "path": "beta_readers/assets/hive-earth-cover.jpg",
+    "sha256": "d213517710ada706680a5eac4c116d88367915b7f4be6ec19b26bfdade71492e"
+  },
+  "output": {
+    "path": "output/pdf/Hive_Earth_Beta_Reader_2026-10-07-v2.pdf"
+  },
+  "superseded": [
+    {
+      "path": "beta_readers/Hive_Earth_Beta_Reader_Draft_2026-10-06.docx",
+      "sha256": "243cb358dae0a13847916eaec45e017e736303c7b191760071454d2d87c8f9ce"
+    },
+    {
+      "path": "output/pdf/Hive_Earth_Beta_Reader_Draft_2026-10-06.pdf",
+      "sha256": "b627b33201269eb073ffce0397974cc038c900f25beee984860bbff7903049bf"
+    },
+    {
+      "path": "output/pdf/Hive_Earth_Beta_Reader_Supplement_2026-10-07.pdf",
+      "sha256": "391569a94c4ac3d966f8564661da74a35a38d20ff5427f8538a5d72cc220de73"
+    }
+  ],
+  "verification": {
+    "path": "beta_readers/editions/2026-10-07-v2.verification.json"
+  }
+}

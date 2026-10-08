@@ -1,0 +1,260 @@
+{
+  "edition_id": "2026-10-07-v2",
+  "source_commit": "c41140b00b9fe348f546ada77a9143413ae5894e",
+  "output_path": "output/pdf/Hive_Earth_Beta_Reader_2026-10-07-v2.pdf",
+  "output_sha256": "5862984250b5693c357d150a669912df22aff5f8eaefc79a180bd5bd8e2f6cf2",
+  "page_count": 166,
+  "chapter_count": 28,
+  "appendix_count": 3,
+  "bookmark_count": 32,
+  "text_verified": true,
+  "source_preserved": true,
+  "superseded_preserved": true,
+  "checkout_byte_differences": [],
+  "sources": [
+    {
+      "path": "docs/canonical_md/Chapter 1 – The Return.md",
+      "title": "Chapter 1 – The Return",
+      "start_page": 5,
+      "end_page": 10,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 4 – The Walk.md",
+      "title": "Chapter 4 – The Walk",
+      "start_page": 11,
+      "end_page": 12,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 5 – The Opening Move.md",
+      "title": "Chapter 5 – The Opening Move",
+      "start_page": 13,
+      "end_page": 16,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 6 – Controlled Variables.md",
+      "title": "Chapter 6 – Controlled Variables",
+      "start_page": 17,
+      "end_page": 19,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 7 – The Seam.md",
+      "title": "Chapter 7 – The Seam",
+      "start_page": 20,
+      "end_page": 22,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 8 – The Drop.md",
+      "title": "Chapter 8 – The Drop",
+      "start_page": 23,
+      "end_page": 25,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 9 – Fractures in the Core.md",
+      "title": "Chapter 9 – Fractures in the Core",
+      "start_page": 26,
+      "end_page": 27,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 10 – Signal to Noise.md",
+      "title": "Chapter 10 – Signal to Noise",
+      "start_page": 28,
+      "end_page": 30,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 11 – Contingencies.md",
+      "title": "Chapter 11 – Contingencies",
+      "start_page": 31,
+      "end_page": 33,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 12 – The Lanes Between Signals.md",
+      "title": "Chapter 12 – The Lanes Between Signals",
+      "start_page": 34,
+      "end_page": 37,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 13 – The Soft Edge.md",
+      "title": "Chapter 13 – The Soft Edge",
+      "start_page": 38,
+      "end_page": 40,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 14 – The Broken Clinic.md",
+      "title": "Chapter 14 – The Broken Clinic",
+      "start_page": 41,
+      "end_page": 43,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 15 – The Night the Oath Broke.md",
+      "title": "Chapter 15 – The Night the Oath Broke",
+      "start_page": 44,
+      "end_page": 52,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 16 – Dead Relay.md",
+      "title": "Chapter 16 – Dead Relay",
+      "start_page": 53,
+      "end_page": 58,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 17 – The Far Side.md",
+      "title": "Chapter 17 – The Far Side",
+      "start_page": 59,
+      "end_page": 66,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 18 – Hold Time.md",
+      "title": "Chapter 18 – Hold Time",
+      "start_page": 67,
+      "end_page": 75,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 19 – Below the Map.md",
+      "title": "Chapter 19 – Below the Map",
+      "start_page": 76,
+      "end_page": 83,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 20 – The Line Answers.md",
+      "title": "Chapter 20 – The Line Answers",
+      "start_page": 84,
+      "end_page": 91,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 21 – Terms of Shelter.md",
+      "title": "Chapter 21 – Terms of Shelter",
+      "start_page": 92,
+      "end_page": 99,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 22 – The Runoff Cut.md",
+      "title": "Chapter 22 – The Runoff Cut",
+      "start_page": 100,
+      "end_page": 102,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 23 – The Cost of the Line.md",
+      "title": "Chapter 23 – The Cost of the Line",
+      "start_page": 103,
+      "end_page": 109,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 24 – The Biomechanic.md",
+      "title": "Chapter 24 – The Biomechanic",
+      "start_page": 110,
+      "end_page": 116,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 25 – Release.md",
+      "title": "Chapter 25 – Release",
+      "start_page": 117,
+      "end_page": 123,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 26 – The Carrier.md",
+      "title": "Chapter 26 – The Carrier",
+      "start_page": 124,
+      "end_page": 131,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 27 – The Key.md",
+      "title": "Chapter 27 – The Key",
+      "start_page": 132,
+      "end_page": 136,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 28 – The Containment Room.md",
+      "title": "Chapter 28 – The Containment Room",
+      "start_page": 137,
+      "end_page": 142,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 29 – The Noise.md",
+      "title": "Chapter 29 – The Noise",
+      "start_page": 143,
+      "end_page": 146,
+      "text_verified": true
+    },
+    {
+      "path": "docs/canonical_md/Chapter 30 – Outside.md",
+      "title": "Chapter 30 – Outside",
+      "start_page": 147,
+      "end_page": 150,
+      "text_verified": true
+    },
+    {
+      "path": "docs/appendices/Appendix – Figures of the Turning Time.md",
+      "title": "Figures of the Turning Time",
+      "start_page": 151,
+      "end_page": 154,
+      "text_verified": true
+    },
+    {
+      "path": "docs/appendices/Appendix - The Voss Conquest.md",
+      "title": "The Voss Conquest",
+      "start_page": 155,
+      "end_page": 157,
+      "text_verified": true
+    },
+    {
+      "path": "docs/appendices/Appendix – Gor of Almelah.md",
+      "title": "Gor of Almelah",
+      "start_page": 158,
+      "end_page": 166,
+      "text_verified": true
+    }
+  ],
+  "rendering_conversions": "Markdown emphasis becomes font styling; wiki/link labels become visible text; scene separators become * * *; whitespace is collapsed only for text comparison. Unicode punctuation is unchanged.",
+  "visual_review": {
+    "status": "passed",
+    "pages_inspected": 166,
+    "render_dpi": 120,
+    "method": "Every initial page was inspected individually. After pagination repair all 166 pages were rendered again; 155 were byte-identical PNGs, and all 11 changed pages were inspected again.",
+    "rechecked_pages": [
+      29,
+      30,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "issues_remaining": []
+  },
+  "focused_checks": {
+    "tests_passed": 10,
+    "existing_files_checked": 146,
+    "unintended_changes": [],
+    "git_diff_check": "passed"
+  }
+}
