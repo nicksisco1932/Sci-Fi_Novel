@@ -1,21 +1,41 @@
-# Sci Fi Novel
+# Hive — source and release index
 
-The current private Hive Earth beta edition is **2026-10-07 v2**, assembled from the merged Chapter 1 and Chapters 4–30, followed by all three selected appendices.
+**Single active working manuscript:** [`docs/canonical_md/`](docs/canonical_md/) on the integrated `main` branch. The merged Chapter 1 and Chapters 4–30 are the working prose; [`docs/appendices/`](docs/appendices/) contains source appendices. Read [the source-of-truth protocol](docs/SOURCE_OF_TRUTH.md) before modifying or exporting the book.
 
-Start with [the beta release index](beta_readers/README.md). It identifies the reading copy, exact source checkpoint, verification record, rebuild command, and superseded exports.
+## Current private reader edition (immutable)
 
-## Sources and working state
+**Hive: Earth — 2026-10-07 v2**, verified 166-page PDF, 28 chapter files and three appendices.
 
-- Manuscript prose: `docs/canonical_md/`.
-- Selected appendices: `docs/appendices/`.
-- Beta recovery branch: `codex/beta-reader-rectification`.
-- Verified source checkpoint: `c41140b00b9fe348f546ada77a9143413ae5894e`.
-- Repo working rules: [AGENTS.md](AGENTS.md).
+- [Beta edition and recovery index](beta_readers/README.md)
+- [Reading PDF](output/pdf/Hive_Earth_Beta_Reader_2026-10-07-v2.pdf)
+- [Frozen manifest](beta_readers/editions/2026-10-07-v2.json)
+- [Verification record](beta_readers/editions/2026-10-07-v2.verification.json)
+- Manuscript source checkpoint: `c41140b00b9fe348f546ada77a9143413ae5894e`
 
-Check the branch and working changes at the start of a session. Source files may contain later author edits; a dated export is a frozen reading edition and must be checked against its manifest before reuse. The main checkout and Codex worktrees are distinct working directories, even when they share Git history.
+This is a release snapshot, **not** the current working tree. Never modify or overwrite its PDF, manifest, verification, or delivery record.
 
-The Chapter 15 stopping point belongs to historical release and graphic-novel v1 records. It must not truncate the current beta edition. Artwork, archived exports, and public website files do not select the current manuscript.
+## Directory roles
 
-The expanded Gor appendix is included for beta review with its developmental notice and unresolved differences from Chapter 15 preserved. Its inclusion does not establish canon.
+| Location | Status |
+| --- | --- |
+| `docs/canonical_md/` | **Only active prose manuscript source** |
+| `docs/appendices/` | Working appendix sources |
+| `docs/developmental/` | Non-canonical exploration; includes author note v0.2 |
+| `docs/character_dossiers/`, `docs/lore_registry.md` | Character and continuity references |
+| `Legacy/` | Historical DOCX and superseded artifacts, never an editing baseline |
+| `beta_readers/` | Existing beta builder, legacy edition manifests, tests |
+| `output/pdf/` | Frozen legacy PDF exports |
+| `editions/beta/` | New immutable beta editions and their manifests |
+| `editions/proofs/` | Typeset proofs after editorial lock |
+| `editions/published/` | Final, intentionally approved publications |
+| `art/` | Artwork and graphic-novel workstreams; not manuscript authority |
 
-Earlier beta files remain intact as superseded artifacts. Unrelated artwork and governance work may remain uncommitted; the beta recovery commits do not imply that the whole working tree is clean or backed up.
+The redundant `docs/canonical/` folder was removed after all 17 DOCX blobs were verified identical to their archived copies in `Legacy/`. Do not recreate it or edit the DOCX copies as if they were current.
+
+The revised *What the Record Loses* author note is a **developmental draft**, not included in the frozen October 7 edition; foreword versus afterword placement remains open.
+
+## Safe startup (multiple Windows worktrees)
+
+The local checkout at `C:/Users/nicks/Documents/GitHub/Sci-Fi_Novel` and the Codex worktree at `C:/Users/nicks/.codex/worktrees/a83b/Sci-Fi_Novel` are separate. Before editing or synchronizing either, inspect `git status --short --untracked-files=all`, `git branch --show-current`, `git rev-parse HEAD`, and `git worktree list`. **Do not reset, clean, checkout, or pull over uncommitted author work.**
+
+The older Chapter 15 stopping point is historical public/graphic-novel release context; it does not truncate the current 30-chapter private beta draft.

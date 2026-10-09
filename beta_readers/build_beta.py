@@ -176,8 +176,11 @@ def check_manifest(manifest_path: Path, *, root: Path = ROOT,
     if not isinstance(output, dict):
         raise EditionError("An output record is required.")
     output_path = repository_path(root, output.get("path"))
-    if not output["path"].startswith("output/pdf/") or output_path.suffix.lower() != ".pdf":
-        raise EditionError("The PDF must be beneath output/pdf/.")
+    # Existing frozen releases remain at output/pdf/. New beta editions may use
+    # the stage-specific editions/beta/ tree, without moving old release bytes.
+    if (not output["path"].startswith(("output/pdf/", "editions/beta/"))
+            or output_path.suffix.lower() != ".pdf"):
+        raise EditionError("A beta PDF must be beneath output/pdf/ or editions/beta/.")
     sidecar_path = manifest_path.with_suffix(".verification.json")
     if not allow_output and (output_path.exists() or sidecar_path.exists()):
         raise EditionError("An edition output or verification record already exists; create a new edition.")

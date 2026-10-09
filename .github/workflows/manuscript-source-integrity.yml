@@ -1,0 +1,20 @@
+name: Manuscript source integrity
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  source-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - name: Verify source authority and frozen beta evidence
+        run: python3 tools/verify_source_tree.py

@@ -25,6 +25,12 @@ At this stage, the editorial work is to:
 - Treat chapter filenames as chapter titles; active chapter markdown files should begin directly with prose rather than duplicating the title as an inline heading or plain first line.
 - Keep chapter prose as blank-line-separated Markdown paragraphs so Obsidian renders each paragraph as its own block.
 
+## Current manuscript authority — 2026-10-08
+
+The single live prose source is `docs/canonical_md/` on `main`. The current **private beta reading edition** includes the merged Chapter 1 plus Chapters 4–30 and three appendices; see `beta_readers/README.md` for the pinned 2026-10-07 v2 manifest. It is not a publication decision or an assertion that every developmental appendix is canon.
+
+There is **no second `docs/canonical/` source**: the 17 legacy DOCX copies were byte-identical to `Legacy/` and removed from the former folder. The author’s note *What the Record Loses* v0.2 remains a developmental candidate, not part of the frozen beta. Later paragraphs in this file describe dated historical decisions and should not be used to choose a newer manuscript edition.
+
 ## Book 1 Boundary
 
 Current private beta edition, confirmed 2026-10-07: use the merged Chapter 1 and Chapters 4–30, plus the three selected appendices. The Chapter 15 stopping point below describes the historical release/graphic-novel v1 boundary and must not truncate the current beta manuscript. See `beta_readers/README.md` for the verified edition, source checkpoint, and superseded exports. The expanded Gor appendix retains its developmental status and disclosed differences from Chapter 15.

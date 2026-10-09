@@ -1,35 +1,65 @@
 # Author’s Foreword: What the Record Loses
 
-> **Status:** Development draft for possible front matter. Not yet part of the canonical manuscript.
+> **Status:** Development draft v0.2 — October 8, 2026. Possible foreword or afterword; placement undecided. Not part of the canonical manuscript or the immutable 2026-10-07 v2 beta. The preceding v0.1 text remains in Git history.
 
-This novel began, in its earliest form, with my fascination with the Bronze Age collapse. I was interested in the destruction, but I was more interested in the silence around it. We can name rulers, cities, wars, trade routes, palaces, gods, and years. We can compare layers of ash. We can read inventories, diplomatic complaints, monuments, and the remains of things made durable enough to outlive the people who used them. From those fragments we try to recover a world. The act is necessary, rigorous, and still incomplete.
+This novel began, in its earliest form, with my fascination with the Bronze Age collapse. I was interested in the destruction, but I was more interested in the silence around it.
 
-What held me was not only the question of what happened. It was the question of what disappeared without becoming a question anyone could answer.
+We can name rulers, cities, wars, trade routes, palaces, and gods. We can examine layers of ash, read surviving correspondence, reconstruct commercial relationships, and trace the movement of people and materials across entire regions. Archaeology can tell us remarkable things about ordinary lives: what people ate, what they made, how they worked, and sometimes even how they suffered. From these fragments, we attempt to recover a civilization.
 
-How did an ordinary farmer understand service to a god-emperor? Did it feel like slavery, faith, taxation, weather, family obligation, or simply the order into which a person had been born? Did the categories we use to describe that life exist inside it? What did a worker think when grain was collected for a palace whose authority had been present longer than memory? What private joke passed between people repairing a wall named for a king? What did they complain about, and what conditions had become too ordinary to complain about at all?
+And yet, for all that can be recovered, something essential remains inaccessible.
+
+How did an ordinary farmer understand a ruler whose authority was said to come from the gods? Was that authority experienced as sacred, oppressive, distant, or simply inevitable? What did a laborer think while repairing a wall built in the name of a king he would never meet? What did people complain about over meals? What made them laugh? What conditions had become so ordinary that nobody thought to question them?
+
+These are not trivial questions. They concern the experience of living inside a civilization rather than observing it from the centuries that followed.
+
+The historical record is not a complete account of the past. It is what survived of what was recorded, and what was recorded was shaped by the interests, institutions, and circumstances of those who made it. A palace might preserve years of grain inventories while leaving almost nothing of the lives of the people who produced that grain. A monument might preserve a ruler's name for millennia while those who built it disappear into anonymity.
+
+The past is not empty. It is unevenly audible.
+
+What interests me most about the collapse of civilizations is not merely their destruction, but the disappearance of the assumptions that made them intelligible to the people who inhabited them.
+
+We speak of an age ending because we can see the boundaries in retrospect. Those living through it could not. A trade route became unreliable. A familiar material grew scarce. A workshop closed. A family moved. A practice continued long after anyone remembered its original purpose. What later becomes a great historical transformation was experienced through countless individual decisions, inconveniences, adaptations, and losses.
+
+Civilizations rarely announce to their inhabitants that they have entered history.
+
+That realization became one of the foundations of *The Hive*.
+
+I did not want to recreate the Bronze Age collapse in a futuristic setting, nor to suggest that civilizations follow some inevitable cycle of ascent and ruin. I became interested instead in the relationship between civilization, memory, and continuity: how a society can preserve its institutions while losing its original purposes; how knowledge can survive without understanding; and how the people most essential to maintaining a world can become almost invisible in its surviving account.
+
+Our own civilization presents a particularly interesting version of this problem.
+
+We produce an extraordinary quantity of information. We record conversations, movements, transactions, measurements, images, and decisions at scales that earlier societies could scarcely have imagined. Yet much of that information depends on machines, formats, permissions, institutions, and networks whose continued existence we take for granted.
+
+A record can survive while the means of interpreting it disappear. A technical process can be documented without preserving the practical knowledge required to reproduce it. An administrative account can be accurate in every recorded detail and profoundly misleading in what it leaves out.
+
+The preservation of information is not the same as the preservation of meaning.
+
+The future Earth of *The Hive* emerged from this distinction.
+
+It is a civilization of immense technological capability, constructed upon the remains of earlier civilizations whose choices continue to shape the present. Its inhabitants live among systems they depend upon but may not fully understand. Its institutions inherit both the achievements and failures of those that preceded them. Beneath its extraordinary infrastructure lie older structures, forgotten compromises, and the physical consequences of decisions whose authors have long since vanished.
+
+Some of those systems work remarkably well. Others preserve inequalities or failures that have become so deeply embedded in daily life that they are no longer recognized as historical choices.
 
 The record rarely preserves the moment when a system becomes normal.
 
-A monument can survive while the lives that built it become conjecture. A technology can leave objects without leaving the habits needed to reproduce them. A city can remain visible in foundation lines while its sounds, smells, shortcuts, insults, gestures, work songs, recipes, and local measures vanish completely. Even a written archive preserves what someone thought worth recording, in a form another institution thought worth saving, through accidents of climate, conquest, language, and discovery. The past is not empty. It is unevenly audible.
+Cassian enters this world in a peculiar position. He remembers an Earth that has become ancient history to those around him, yet he has not lived through the centuries that transformed it. The future possesses records of events he never witnessed, and he remembers details its archives have lost. Neither perspective is complete. His memories carry their own distortions, just as the records of the civilization he encounters carry theirs.
 
-I did not want to solve the Bronze Age collapse inside a work of science fiction, or to move its peoples into the future under altered names. The fascination became a way of looking. It suggested that civilization is not a possession but a relationship among systems, people, and knowledge. It can fail without every building falling. It can continue while losing the reasons for its own procedures. It can preserve the names of those who commanded it and forget almost everyone who made it work.
+He is a witness to one world and a stranger to another.
 
-The future Earth in this novel grew from that idea. Cassian returns to a planet saturated with information and discovers that information has not cured historical ignorance. His future can recover measurements his own age never possessed. It can reconstruct a voice, trace a bloodline, model a vanished coast, and account for the energy used by a district centuries earlier. It can still misunderstand the people who lived there. A file may survive after its encryption, format, permissions, and cultural context are gone. An official summary may be perfectly searchable and fundamentally wrong. A correction repeated often enough can become the only version connected to a name.
+Through him, I wanted to explore what happens when the familiar becomes archaeological, when ordinary objects become artifacts, and when the assumptions through which a person once understood existence no longer apply.
 
-Our age produces more records than any earlier civilization, but it also entrusts those records to systems few individuals can repair, inspect, or preserve alone. Much of what appears permanent depends on electrical continuity, remote authentication, corporate survival, compatible machines, and a chain of maintenance no single person can see. This does not mean the future will know nothing about us. It may know an impossible amount. The question is whether it will know what any of it meant.
+But the larger question belongs to everyone inhabiting that future.
 
-The Voss Conquest occupies that uncertainty. Its violence survives through administrative residue: harvests that fail to appear, intakes that close, fisheries placed under quarantine, districts corrected out of one record and preserved in another. Murals remember rivers as red. Official accounts dispute the color and preserve the orders that made it plausible. A civilization can become extremely precise about the management of death while leaving later historians unable to count the dead.
+What do people understand about the civilization that sustains them? Which of its structures do they mistake for permanent features of existence? Which injustices have become traditions, which necessities have become instruments of power, and which achievements have survived long after their origins were forgotten?
 
-Ecology carries another kind of record. Soil preserves pollen, metals, charcoal, salt, bone, and the chemistry of interrupted seasons. Rivers move evidence away from its source and deposit it among other histories. Oceans keep heat long after the governments responsible for it have changed names. Plants and animals migrate without explaining why. A forest may look ancient while growing over a reservoir, a battlefield, a suburb, or several generations of failed restoration. Nature does not provide an impartial archive. It preserves through transformation.
+And what will remain of their lives when another age comes to study them?
 
-That is why the future Earth here is neither healed nor ruined. The Hive has kept billions alive. It has restored watersheds, controlled disease, managed climate, rebuilt food systems, and coordinated a world that once tore its own means of survival apart. It has also made those systems instruments of authority. Some people receive the future as clean air, private gardens, quiet transit, and needs met before they are spoken. Others receive it as runoff, rejected identities, obsolete machinery, bad rain, and the discipline required to remain alive after the system stops counting them. Both inhabit the same planetary achievement.
+I find myself returning to the people of the ancient world whose names we will never know. They were not abstractions awaiting interpretation. They possessed ambitions, attachments, resentments, convictions, and private understandings of their circumstances. They inhabited worlds as immediate and complicated to them as ours is to us.
 
-The cities are built as history is built: layer over layer, with each age preserving what it can use and burying what it cannot. A ceremonial level rises above freight. A garden hides the cooling works that sustain it. A modern foundation cuts through an older street. Beneath both, water follows a route no current map admits. Architecture is not lost only when it is destroyed. It is lost when the room remains and no one remembers why its dimensions mattered.
+Someone carried water that morning. Someone repaired a hinge. Someone argued with a neighbor, worried about a child, admired a ruler, or quietly despised him. Someone looked upon a monument we now consider magnificent and saw only another day's labor.
 
-Technology disappears this way too. Later people may understand more science and still be unable to reproduce an ordinary object from an earlier century. The missing element might be a material, an extinct organism, a factory network, a calibration technique, a legal permission, or the judgment of workers who never wrote down the part they corrected by feel. Progress carries knowledge forward selectively. Every civilization abandons methods it believes it has surpassed. Collapse reveals which of those methods were holding up the floor.
+Most of those moments are gone. Yet they were no less real than the histories that survived them.
 
-Cassian is not a key that unlocks an objective past. He remembers a world the future has turned into history, but he did not witness everything that followed his departure, and memory is not an archive without distortion. The Hive knows events he missed. He knows contexts its records have flattened. Each can expose the other’s ignorance. Neither has the authority to make the intervening centuries whole.
+It is the distance between those two things—the civilization we can reconstruct and the lives we cannot—that first drew me to this story.
 
-I am interested in the distance between what happened and what can later be known; between a person’s life and the category history gives it; between a civilization’s account of itself and the material consequences it leaves under the next civilization. Grand history tells us that a kingdom fell, a conquest succeeded, a system unified the world. Lived history is more difficult. Someone still had to carry water that morning. Someone repaired a hinge. Someone learned the official gesture for requesting food. Someone looked at a ruler called divine and felt something for which no durable record was made.
-
-This book lives in that missing record.
+**This book lives in that missing record.**

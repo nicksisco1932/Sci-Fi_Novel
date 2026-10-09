@@ -12,6 +12,10 @@ The active manuscript source is:
 
 `docs/canonical_md/`
 
+There is exactly **one** live prose manuscript source. The former `docs/canonical/` DOCX directory was redundant with `Legacy/` and must not be recreated. The archived DOCX files, released PDFs, proofs, Obsidian copies, and developmental drafts must never override the Markdown manuscript.
+
+`main` is the integrated manuscript branch. Task/Codex branches are temporary edits; the branch with the newest timestamp is not automatically the source of truth. The frozen beta release and its source checkpoint are described in `beta_readers/README.md`; new beta/proof/published stages are defined in `editions/README.md`. Check `docs/SOURCE_OF_TRUTH.md` before publishing or reorganizing files.
+
 Archived LaTeX, exported files, PDFs, old drafts, and Obsidian copies are not the active source unless explicitly stated.
 
 Obsidian vault files are a mirror/sync target unless a task explicitly says otherwise.
@@ -37,11 +41,12 @@ If archived LaTeX and `docs/canonical_md/` differ, edit `docs/canonical_md/` and
 ## Run Startup Checklist
 At the start of each repo work session:
 
-1. Read `AGENTS.md`.
-2. Check `docs/todo_idea_log.md` for open ideas or reminders.
-3. Treat idea-log entries as prompts, not canon, unless an entry explicitly says it has been canonized.
-4. If an idea is implemented, update its status with the file/chapter where it landed.
-5. For beta-reader or manuscript-export work, read `beta_readers/README.md` and its current edition manifest before selecting sources. Verify the source checkpoint and complete chapter/appendix inventory; historical release boundaries and file modification dates cannot select a beta edition.
+1. Read `AGENTS.md` and `docs/SOURCE_OF_TRUTH.md`.
+2. Check the current branch, `git status --short --untracked-files=all`, and `git worktree list`; protect local author changes.
+3. Check `docs/todo_idea_log.md` for open ideas or reminders.
+4. Treat idea-log entries as prompts, not canon, unless an entry explicitly says it has been canonized.
+5. If an idea is implemented, update its status with the file/chapter where it landed.
+6. For beta-reader or manuscript-export work, read `beta_readers/README.md` and its current edition manifest before selecting sources. Verify the source checkpoint and complete chapter/appendix inventory; historical release boundaries and file modification dates cannot select a beta edition.
 
 Do not force idea-log material into an unrelated task. Use it only when it is relevant to the requested work or when the user explicitly asks to develop an open idea.
 

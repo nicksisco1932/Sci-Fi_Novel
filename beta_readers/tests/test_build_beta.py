@@ -86,6 +86,18 @@ class EditionTests(unittest.TestCase):
         with self.assertRaisesRegex(builder.EditionError, "already exists"):
             builder.build_edition(self.manifest_path, root=self.root)
 
+    def test_new_beta_edition_output_folder_is_allowed(self):
+        self.manifest["output"]["path"] = "editions/beta/hive-earth/2026-10-08-v3/reading.pdf"
+        self._save()
+        context = builder.check_manifest(self.manifest_path, root=self.root)
+        self.assertEqual(context["output_path"], self.root / self.manifest["output"]["path"])
+
+    def test_beta_builder_does_not_write_published_stage(self):
+        self.manifest["output"]["path"] = "editions/published/hive-earth/draft.pdf"
+        self._save()
+        with self.assertRaisesRegex(builder.EditionError, "beta PDF must be beneath"):
+            builder.check_manifest(self.manifest_path, root=self.root)
+
     def test_missing_or_changed_sources_stop_before_output(self):
         source = self.root / self.manifest["sources"][0]["path"]
         original = source.read_bytes()
