@@ -1,0 +1,23 @@
+{
+  "edition_id": "2026-10-07-v2",
+  "recipient": "nicksisco1932@gmail.com",
+  "subject": "Hive Earth corrected beta edition — 2026-10-07 v2",
+  "sent_at_utc": "2026-10-09T03:17:49.000Z",
+  "message_id": "1a11eaac094bde9b",
+  "thread_id": "1a11eaac094bde9b",
+  "mailbox_labels": [
+    "SENT",
+    "INBOX"
+  ],
+  "mailbox_confirmed": true,
+  "attachment": {
+    "filename": "Hive_Earth_Beta_Reader_2026-10-07-v2.pdf",
+    "bytes": 643918,
+    "sha256": "5862984250b5693c357d150a669912df22aff5f8eaefc79a180bd5bd8e2f6cf2",
+    "byte_identical_to_verified_pdf": true
+  },
+  "source_commit": "c41140b00b9fe348f546ada77a9143413ae5894e",
+  "release_commit": "10d1bad636d34a4059b7b4a24471dbb9711c782f",
+  "backup_branch": "codex/beta-reader-rectification",
+  "remote_release_commit_verified": true
+}

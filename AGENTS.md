@@ -41,6 +41,7 @@ At the start of each repo work session:
 2. Check `docs/todo_idea_log.md` for open ideas or reminders.
 3. Treat idea-log entries as prompts, not canon, unless an entry explicitly says it has been canonized.
 4. If an idea is implemented, update its status with the file/chapter where it landed.
+5. For beta-reader or manuscript-export work, read `beta_readers/README.md` and its current edition manifest before selecting sources. Verify the source checkpoint and complete chapter/appendix inventory; historical release boundaries and file modification dates cannot select a beta edition.
 
 Do not force idea-log material into an unrelated task. Use it only when it is relevant to the requested work or when the user explicitly asks to develop an open idea.
 

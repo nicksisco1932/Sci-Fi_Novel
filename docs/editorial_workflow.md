@@ -25,6 +25,17 @@ At this stage, the editorial work is to:
 - Treat chapter filenames as chapter titles; active chapter markdown files should begin directly with prose rather than duplicating the title as an inline heading or plain first line.
 - Keep chapter prose as blank-line-separated Markdown paragraphs so Obsidian renders each paragraph as its own block.
 
+## Book 1 Boundary
+
+Current private beta edition, confirmed 2026-10-07: use the merged Chapter 1 and Chapters 4–30, plus the three selected appendices. The Chapter 15 stopping point below describes the historical release/graphic-novel v1 boundary and must not truncate the current beta manuscript. See `beta_readers/README.md` for the verified edition, source checkpoint, and superseded exports. The expanded Gor appendix retains its developmental status and disclosed differences from Chapter 15.
+
+- Author-confirmed titles, 2026-09-26: Book 1 is **Hive: Earth**; Book 2 is **Hive: Dyson**.
+- Author decision, 2026-09-26: prose Book 1 ends at the same narrative stopping point as graphic-novel Volume One: the end of `Chapter 15 – The Night the Oath Broke.md`, including Gor's rain epilogue and the final sentence, "The rain took his footsteps."
+- Book 1 comprises the active merged Chapter 1 followed by Chapters 4–15: thirteen canonical source files. Do not restore archived Chapters 2–3 or renumber source files to assemble this book.
+- Chapter 16, `Dead Relay`, and subsequent chapters fall outside Book 1. Their source files remain in place; this boundary does not decide the next book's ending.
+- Author-approved web release, 2026-09-26: publish the complete Book 1 as an exploratory draft, subject to revision, with all rights reserved and free website reading only. No download edition or republication/adaptation permission is granted. See `docs/website_publication_plan.md` for implementation and release status.
+- Author-directed beta integration, 2026-10-06: for the current beta-draft revision, integrate the post-Gor / biomechanic / handshake arc into Book 1 through the new ending in Chapter 30. This supersedes the 2026-09-26 Book 1 boundary for this working draft only; it does not authorize changing the existing public web release. Keep the merged Chapter 1 and source-file numbering; archived Chapters 2–3 are superseded material already represented in the merged opening.
+
 ## Per-Chapter Process
 1. Read `AGENTS.md`.
 2. Read `docs/lore_registry.md`.

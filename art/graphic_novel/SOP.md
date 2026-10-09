@@ -75,9 +75,28 @@ For each scene:
 4. Generate or update missing continuity sheets before rendering pages.
 5. Build a compact storyboard with panel count, panel purpose, exact dialogue or captions, and required references.
 6. Render pages in short batches, preserving the same references and style language.
-7. Review for style drift and canon drift before accepting the page.
+7. Review with `visual_discrepancy_audit_SOP.md` for style, canon, material, anatomy, movement, perspective, continuity, and generated-artifact failures before accepting the page.
 8. Save accepted images under the appropriate `art/graphic_novel/` directory.
 9. Update `asset_registry.md` with the new status, path, source, and notes.
+
+## Focused Material Rework
+
+Use `style_guide.md` and `material_coherence_audit.md` when fabric, skin, or another repeated surface shows uncaused cloudy mottling.
+
+1. Assign an `MCF-0` through `MCF-3` severity before editing.
+2. Rework continuity sheets before dependent scene pages so the corrected surface treatment becomes the new reference source.
+3. Change only the failing material rendering. Preserve identity, anatomy, pose, expression, garment construction, props, architecture, composition, lighting logic, text, and story state.
+4. For character skin, hair, stubble, and hand detail, use `experiments/korin-office-meditation/assets/study-02-partial-face.png` as the narrow material reference. Do not copy its identity, severe crop, near-black exposure, or near-photographic finish.
+5. Save the result as a versioned sibling such as `continuity-sheet-material-v2.png`; never overwrite the accepted source during evaluation.
+6. Compare source and candidate at full resolution for identity drift, chunky facial planes, layout drift, lost wear, over-flattening, and indiscriminate pore or hair texture.
+7. Promote or replace an accepted reference only after explicit user review. Until then, keep its existing registry status and path unchanged.
+8. After a corrected continuity sheet is approved, audit dependent pages for inherited mottling and rework only the visibly affected surfaces.
+
+## Visual Discrepancy Audit
+
+Use `visual_discrepancy_audit_SOP.md` for every reference, scene page, experiment candidate, and final proof. Material coherence is one gate within that larger audit; a page also fails for malformed hands, incorrect anatomy, implausible limb placement, broken movement mechanics, unsupported weight, perspective errors, continuity drift, inconsistent lighting, or generated artifacts.
+
+Do not approve by overall impression. Record the exact panel or region and score each applicable gate independently. Any severity `2` or `3` blocks promotion, and the asset inherits its highest severity.
 
 ## Prompt Discipline
 
@@ -106,5 +125,12 @@ Before marking an asset `Available`, check:
 - Tech matches its stated limits and does not become omnipotent.
 - Dialogue and captions are spelled correctly and do not replace manuscript wording with summary.
 - Page sequence reads clearly without requiring non-canon explanation.
+- Material variation follows light, form, construction, wear, or environment; fabric and skin do not carry uncaused cloudy mottling.
+- Hands and feet have credible digits, joints, grip, contact, and foreshortening.
+- Whole-body proportions, joints, balance, weight, and contact are anatomically credible.
+- Arm and leg positions agree with the character's movement, momentum, action arc, and available joint range.
+- Perspective, figure scale, depth, overlap, eyelines, and screen direction remain coherent within and between panels.
+- Costume, equipment, injury, environment, lighting, weather, and damage remain continuous and physically caused.
+- No extra limbs, fused objects, accidental text, logos, insignia, watermarks, or unexplained symbols appear.
 
 If a visual choice could become canon-significant, mark the asset `Canon Check Needed` instead of treating it as final.

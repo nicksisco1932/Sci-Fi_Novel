@@ -170,37 +170,37 @@ These sketches are atmospheric studies. Do not invent official insignia, uniform
 
 Canon hold: do not reveal the hidden individual's face or full body.
 
-- [ ] **Concept A — Presence through interruption:** A dead terminal wakes for seconds in an abandoned room, blunt route guidance appearing while everything around it remains broken.
-- [ ] **Concept B — Bounded reach:** Several disconnected systems briefly form a fragile path of light through damaged infrastructure, with visible gaps proving the intervention is local and costly.
+- [x] **Concept A — Presence through interruption:** A dead terminal wakes for seconds in an abandoned room, blunt route guidance appearing while everything around it remains broken. Saved: `art/graphic_novel/concept_sketches/institutions/reversionist/concept-a.png`.
+- [x] **Concept B — Bounded reach:** Several disconnected systems briefly form a fragile path of light through damaged infrastructure, with visible gaps proving the intervention is local and costly. Saved: `art/graphic_novel/concept_sketches/institutions/reversionist/concept-b.png`.
 
 ### CA-INST-02 — Human Continuity Archive
 
-- [ ] **Concept A — Compromised record room:** Voice-recording station, damaged ledgers, copied fragments, and empty storage positions making incompleteness physically visible.
-- [ ] **Concept B — Selection is power:** Anonymous hands deciding which contradictory records enter a preservation case, focused on process rather than a grand archive building.
+- [x] **Concept A — Compromised record room:** Voice-recording station, damaged ledgers, copied fragments, and empty storage positions making incompleteness physically visible. Saved: `art/graphic_novel/concept_sketches/institutions/human-continuity-archive/concept-a.png`.
+- [x] **Concept B — Selection is power:** Anonymous hands deciding which contradictory records enter a preservation case, focused on process rather than a grand archive building. Saved: `art/graphic_novel/concept_sketches/institutions/human-continuity-archive/concept-b.png`.
 
 ### CA-INST-03 — The Great Union
 
-- [ ] **Concept A — Administrative consolidation:** Planetary coordination chamber built from maps, schedules, and jurisdictional layers, with no triumphant emblem.
-- [ ] **Concept B — Fracture by exception:** The same administrative logic breaking into isolated desks, sealed doors, and incompatible records rather than exploding into spectacle.
+- [x] **Concept A — Administrative consolidation:** Planetary coordination chamber built from maps, schedules, and jurisdictional layers, with no triumphant emblem. Saved: `art/graphic_novel/concept_sketches/institutions/great-union/concept-a.png`.
+- [x] **Concept B — Fracture by exception:** The same administrative logic breaking into isolated desks, sealed doors, and incompatible records rather than exploding into spectacle. Saved: `art/graphic_novel/concept_sketches/institutions/great-union/concept-b.png`.
 
 ### CA-INST-04 — Coalition of the Willing
 
-- [ ] **Concept A — Preservation convoy:** Records, storage cases, and mobile archive equipment moving with a surviving authority, emphasizing what was carried and what was left behind.
-- [ ] **Concept B — Biased archive table:** Official summaries and damaged rebel testimony occupying unequal space on one work surface, without telling the viewer which account is pure.
+- [x] **Concept A — Preservation convoy:** Records, storage cases, and mobile archive equipment moving with a surviving authority, emphasizing what was carried and what was left behind. Saved: `art/graphic_novel/concept_sketches/institutions/coalition-of-the-willing/concept-a.png`.
+- [x] **Concept B — Biased archive table:** Official summaries and damaged rebel testimony occupying unequal space on one work surface, without telling the viewer which account is pure. Saved: `art/graphic_novel/concept_sketches/institutions/coalition-of-the-willing/concept-b.png`.
 
 ### CA-INST-05 — States of the Great Angel
 
 Canon check needed before any recurring visual identity is approved.
 
-- [ ] **Concept A — Administrative violence:** Checkpoint desks, household rolls, and transport orders turning civilian control into routine process; no insignia and no gore.
-- [ ] **Concept B — Bloc without unity:** Several different commands sharing a corridor or staging ground while remaining visually distinct, united only by procedure and target selection.
+- [x] **Concept A — Administrative violence:** Checkpoint desks, household rolls, and transport orders turning civilian control into routine process; no insignia and no gore. Saved: `art/graphic_novel/concept_sketches/institutions/states-of-the-great-angel/concept-a.png`.
+- [x] **Concept B — Bloc without unity:** Several different commands sharing a corridor or staging ground while remaining visually distinct, united only by procedure and target selection. Saved: `art/graphic_novel/concept_sketches/institutions/states-of-the-great-angel/concept-b.png`.
 
 ### CA-INST-06 — Minority World-State
 
 Canon check needed; surviving records are intentionally unclear.
 
-- [ ] **Concept A — Legal shelter:** Crowded registry corridor where protection depends on names, documents, and exhausted clerks, avoiding a fixed national costume or symbol.
-- [ ] **Concept B — Erased geography:** Damaged map wall and overwritten population rolls suggesting a political shelter being made difficult to define.
+- [x] **Concept A — Legal shelter:** Crowded registry corridor where protection depends on names, documents, and exhausted clerks, avoiding a fixed national costume or symbol. Saved: `art/graphic_novel/concept_sketches/institutions/minority-world-state/concept-a.png`.
+- [x] **Concept B — Erased geography:** Damaged map wall and overwritten population rolls suggesting a political shelter being made difficult to define. Saved: `art/graphic_novel/concept_sketches/institutions/minority-world-state/concept-b.png`.
 
 ## Technology and Systems — 6 Subjects / 12 Sketches
 
@@ -208,39 +208,39 @@ Canon check needed; surviving records are intentionally unclear.
 
 Provisional anchor: Chapter 1 wake-up continuity sheet.
 
-- [ ] **Concept A — Medical reference:** Small insertion tool, interface component, wrist control, and placement study on a clean off-white board; precise and non-gory.
-- [ ] **Concept B — Translation resolving:** Close sensory sketch of harmonic pulses and fragmented speech becoming readable around a distressed patient, with no invented UI exposition.
+- [x] **Concept A — Medical reference:** Small insertion tool, interface component, wrist control, and placement study on a clean off-white board; precise and non-gory. Saved: `concept_sketches/technology/linguistic-interface/concept-a.png`.
+- [x] **Concept B — Translation resolving:** Close sensory sketch of harmonic pulses and fragmented speech becoming readable around a distressed patient, with no invented UI exposition. Saved: `concept_sketches/technology/linguistic-interface/concept-b.png`.
 
 ### CA-TECH-02 — Helion-Class Scoutcraft
 
 Provisional anchor: Chapter 1 launch/anomaly pages.
 
-- [ ] **Concept A — Exterior design board:** Long-range scout silhouette, hull access, acceleration structure, and damage-tolerant geometry; functional rather than sleek military glamour.
-- [ ] **Concept B — Pilot-centered interior:** Acceleration cradle, restrained controls, sightlines, and compact mission systems arranged around one human occupant.
+- [x] **Concept A — Exterior design board:** Long-range scout silhouette, hull access, acceleration structure, and damage-tolerant geometry; functional rather than sleek military glamour. Saved: `concept_sketches/technology/helion-class-scoutcraft/concept-a.png`.
+- [x] **Concept B — Pilot-centered interior:** Acceleration cradle, restrained controls, sightlines, and compact mission systems arranged around one human occupant. Saved: `concept_sketches/technology/helion-class-scoutcraft/concept-b.png`.
 
 ### CA-TECH-03 — Quantum Entanglement Relay
 
-- [ ] **Concept A — Launch-stack module:** Relay as a clearly separate legacy component integrated into mission infrastructure, with scale provided by nearby service access.
-- [ ] **Concept B — Functional cutaway:** Restrained technical sketch showing isolation, cooling, and signal interfaces without claiming speculative inner physics as canon.
+- [x] **Concept A — Launch-stack module:** Relay as a clearly separate legacy component integrated into mission infrastructure, with scale provided by nearby service access. Saved: `concept_sketches/technology/quantum-entanglement-relay/concept-a.png`.
+- [x] **Concept B — Functional cutaway:** Restrained technical sketch showing isolation, cooling, and signal interfaces without claiming speculative inner physics as canon. Saved: `concept_sketches/technology/quantum-entanglement-relay/concept-b.png`.
 
 ### CA-TECH-04 — Hyperspace Gate
 
-Canon check needed before choosing a definitive physical form.
+Canon anchor: the current Hive-era planetary gate-ring network is mature Type I infrastructure. Its moon-class structures encircle Earth and anticipate the civilization's next transition toward Dyson-scale Type II construction. Cassian's launch-era gate is an earlier legacy precursor. Exact ring count, spacing, and final geometry remain open for visual development.
 
-- [ ] **Concept A — Sparse orbital aperture:** Minimal ring or field infrastructure framed against emptiness, emphasizing alignment and scale rather than spectacle.
-- [ ] **Concept B — Distributed gate lattice:** Several restrained structures creating a destination corridor, clearly distinct from the anomaly warning itself.
+- [x] **Concept A — Earth inside the rings:** Orbital overview with Earth visibly enclosed by moon-class gate structures, using the planet itself to establish the mature network's overwhelming scale. Saved: `concept_sketches/technology/hyperspace-gate/concept-a.png`.
+- [x] **Concept B — Planetary ring lattice:** Alternate angle showing several immense, separated ring structures encircling Earth and creating aligned transit corridors, clearly distinct from the anomaly warning itself. Saved: `concept_sketches/technology/hyperspace-gate/concept-b.png`.
 
 ### CA-TECH-05 — Passive Filament Tracker
 
-- [ ] **Concept A — Macro material study:** Hair-thin silver filament hidden through bandage weave, visible only when the layers are peeled apart under close inspection.
-- [ ] **Concept B — Discovery and destruction:** Cassian holding the extracted filament over a maintenance flame as it curls black, with smoke and hand scale explaining the object.
+- [x] **Concept A — Macro material study:** Hair-thin silver filament hidden through bandage weave, visible only when the layers are peeled apart under close inspection. Saved: `concept_sketches/technology/passive-filament-tracker/concept-a.png`.
+- [x] **Concept B — Discovery and destruction:** Cassian holding the extracted filament over a maintenance flame as it curls black, with smoke and hand scale explaining the object. Saved: `concept_sketches/technology/passive-filament-tracker/concept-b.png`.
 
 ### CA-TECH-06 — Cryo-Capable Modification / Augmentation
 
 Existing anchor: Gor's augmented continuity sheet and oath-contrast motif.
 
-- [ ] **Concept A — Restrained intervention:** Medical board of subtle surgical seams, interface material, and cryo preparation hardware without body horror or superhero enhancement.
-- [ ] **Concept B — Life in sealed intervals:** Empty cryo berth, maintenance tools, and repeated wake/service marks suggesting operational time fragmented into use cycles.
+- [x] **Concept A — Restrained intervention:** Medical board of subtle surgical seams, interface material, and cryo preparation hardware without body horror or superhero enhancement. Saved: `concept_sketches/technology/cryo-capable-augmentation/concept-a.png`.
+- [x] **Concept B — Life in sealed intervals:** Empty cryo berth, maintenance tools, and repeated wake/service marks suggesting operational time fragmented into use cycles. Saved: `concept_sketches/technology/cryo-capable-augmentation/concept-b.png`.
 
 ## Events and Durable Concepts — 8 Subjects / 16 Sketches
 
@@ -248,47 +248,47 @@ Existing anchor: Gor's augmented continuity sheet and oath-contrast motif.
 
 Existing anchor: Voss lore continuity sheet.
 
-- [ ] **Concept A — First money:** Relief contracts, hospital plans, mineral concessions, and authorized transfers converging into an opaque administrative absence.
-- [ ] **Concept B — Later weather:** Acid rain falling through severe heat onto stressed infrastructure, with people treating the phrase as tired familiarity rather than revelation.
+- [x] **Concept A — First money:** Relief contracts, hospital plans, mineral concessions, and authorized transfers converging into an opaque administrative absence. Saved: `concept_sketches/events-concepts/the-voss-effect/concept-a.png`.
+- [x] **Concept B — Later weather:** Acid rain falling through severe heat onto stressed infrastructure, with people treating the phrase as tired familiarity rather than revelation. Saved: `concept_sketches/events-concepts/the-voss-effect/concept-b.png`.
 
 ### CA-CONCEPT-02 — Voss Conquest
 
 Existing anchor: Voss lore continuity sheet.
 
-- [ ] **Concept A — Clerical phase:** Census rolls, closed gates, delayed medical passage, and orderly desks making extermination look administrative; no gore or battle spectacle.
-- [ ] **Concept B — Record after violence:** Missing district names, interrupted harvest records, sealed wells, and an emptied street presented as evidence rather than a victory image.
+- [x] **Concept A — Clerical phase:** Census rolls, closed gates, delayed medical passage, and orderly desks making extermination look administrative; no gore or battle spectacle. Saved: `concept_sketches/events-concepts/voss-conquest/concept-a.png`.
+- [x] **Concept B — Record after violence:** Missing district names, interrupted harvest records, sealed wells, and an emptied street presented as evidence rather than a victory image. Saved: `concept_sketches/events-concepts/voss-conquest/concept-b.png`.
 
 ### CA-CONCEPT-03 — Harmony
 
-- [ ] **Concept A — Promise:** Civic flow where light, doors, transit, and people align so smoothly that coordination feels humane and desirable.
-- [ ] **Concept B — Cost:** The same frictionless space organized around one person who pauses, showing how easily a consensus system can turn difference into obstruction.
+- [x] **Concept A — Promise:** Civic flow where light, doors, transit, and people align so smoothly that coordination feels humane and desirable. Saved: `concept_sketches/events-concepts/harmony/concept-a.png`.
+- [x] **Concept B — Cost:** The same frictionless space organized around one person who pauses, showing how easily a consensus system can turn difference into obstruction. Saved: `concept_sketches/events-concepts/harmony/concept-b.png`.
 
 ### CA-CONCEPT-04 — Surface Age
 
-- [ ] **Concept A — Living surface civilization:** Dense but functioning city infrastructure under open weather, preserving ordinary life rather than depicting only collapse.
-- [ ] **Concept B — Late surface strain:** Heat, failing utilities, patched public systems, and continued daily routines as the era approaches later crisis.
+- [x] **Concept A — Living surface civilization:** Dense but functioning city infrastructure under open weather, preserving ordinary life rather than depicting only collapse. Saved: `concept_sketches/events-concepts/surface-age/concept-a.png`.
+- [x] **Concept B — Late surface strain:** Heat, failing utilities, patched public systems, and continued daily routines as the era approaches later crisis. Saved: `concept_sketches/events-concepts/surface-age/concept-b.png`.
 
 ### CA-CONCEPT-05 — Turning Time
 
-- [ ] **Concept A — Consolidation:** Administrative rooms, military logistics, engineering works, and public need converging during a period of unstable coordination.
-- [ ] **Concept B — History as palimpsest:** Several incompatible archival images layered around the same event, emphasizing that later accounts assign different meanings.
+- [x] **Concept A — Consolidation:** Administrative rooms, military logistics, engineering works, and public need converging during a period of unstable coordination. Saved: `concept_sketches/events-concepts/turning-time/concept-a.png`.
+- [x] **Concept B — History as palimpsest:** Several incompatible archival images layered around the same event, emphasizing that later accounts assign different meanings. Saved: `concept_sketches/events-concepts/turning-time/concept-b.png`.
 
 ### CA-CONCEPT-06 — Great Sorrow
 
-- [ ] **Concept A — Heat and infrastructure:** Buckled transit, overloaded cooling, and emergency water distribution under oppressive white sky, kept broad and date-free.
-- [ ] **Concept B — Institutions under load:** School, clinic, and relief systems continuing through failure, with exhausted practical adaptation rather than disaster spectacle.
+- [x] **Concept A — Heat and infrastructure:** Buckled transit, overloaded cooling, and emergency water distribution under oppressive white sky, kept broad and date-free. Saved: `concept_sketches/events-concepts/great-sorrow/concept-a.png`.
+- [ ] **Concept B — Institutions under load:** School, clinic, and relief systems continuing through failure, with exhausted practical adaptation rather than disaster spectacle. Source preserved at `concept_sketches/events-concepts/great-sorrow/concept-b.png`; **Deferred — canvas is 1535x1024 rather than 1536x1024.**
 
 ### CA-CONCEPT-07 — Proto-Under Hive
 
-- [ ] **Concept A — Early preservation substrate:** Surface survivors carrying records, tools, and route knowledge into repurposed infrastructure without implying a single founding moment.
-- [ ] **Concept B — Warnings inherited:** Early mural makers and maintenance workers embedding memory into walls, machines, and repeated practical gestures.
+- [x] **Concept A — Early preservation substrate:** Surface survivors carrying records, tools, and route knowledge into repurposed infrastructure without implying a single founding moment. Saved: `concept_sketches/events-concepts/proto-under-hive/concept-a.png`.
+- [x] **Concept B — Warnings inherited:** Early mural makers and maintenance workers embedding memory into walls, machines, and repeated practical gestures. Saved: `concept_sketches/events-concepts/proto-under-hive/concept-b.png`.
 
 ### CA-CONCEPT-08 — Under-Hive Memory
 
 Existing anchor: `motifs/under-hive-memory-mural-style/reference.png`.
 
-- [ ] **Concept A — Material language board:** Flat ochre figure construction translated into monochrome values, scratched phrases, worn plaster, repainting, and repair layers.
-- [ ] **Concept B — Memory in use:** Historical mural occupying an active corridor while residents move, carry water, and repair the wall around it, keeping memory ordinary and culturally worn.
+- [ ] **Concept A — Material language board:** Flat ochre figure construction translated into monochrome values, scratched phrases, worn plaster, repainting, and repair layers. Source preserved at `concept_sketches/events-concepts/under-hive-memory/concept-a.png`; **Deferred — canvas is 1672x941 rather than 1536x1024.**
+- [ ] **Concept B — Memory in use:** Historical mural occupying an active corridor while residents move, carry water, and repair the wall around it, keeping memory ordinary and culturally worn. Source preserved at `concept_sketches/events-concepts/under-hive-memory/concept-b.png`; **Deferred — canvas is 1672x941 rather than 1536x1024.**
 
 ## Completion Totals
 
@@ -299,4 +299,12 @@ Existing anchor: `motifs/under-hive-memory-mural-style/reference.png`.
 - Faction / institution sketches: **12**.
 - Technology / system sketches: **12**.
 - Event / durable-concept sketches: **16**.
+- Files present: **82 of 82**.
+- Acceptance-compliant sketches: **79**; deferred source sketches: **3**.
+- Accepted-pair status: **39 complete pairs**, **1 partial pair**, and **1 fully deferred pair**.
+- Selection status: Phase 2 `A`, `B`, `combine`, or `defer` decisions remain pending for all subjects.
 - Completion rule: an item is complete only when both Concept A and Concept B exist and have been reviewed against canon and the graphic-novel style guide.
+
+## Deferred Process Note
+
+- After the 82-image wishlist is finished, investigate why some generated concepts drifted from strict monochrome line art into tonal graphite or color. Review prompt evolution, reference-image influence, acceptance criteria, and whether a mechanical image-style check should be added before filing future renders.

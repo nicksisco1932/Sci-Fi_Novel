@@ -6,6 +6,7 @@ The **Plan** entry in the Codex sidebar is a conversation artifact produced by a
 
 - `render-hive-earth-continuity-set.original.md`: exact backup of the original sidebar plan. Do not edit it.
 - `render-hive-earth-continuity-set.experiment.md`: editable copy for controlled tests.
+- `next-production-milestone.md`: execution order and focused acceptance tests after the preserved Volume One milestone.
 
 ## How To Experiment
 

@@ -26,7 +26,7 @@
 | Name (canonical) | Role | Core drive | Visual/behavioral tells | First appearance | Notes |
 |---|---|---|---|---|---|
 | Cassian Rho | Protagonist | Autonomy, resistance to control | Quiet, measured, tactical patience | Ch. __ / Scene __ | Hyper-analytical; fears manipulation more than violence |
-| Alyen Ithra | Loyalist enforcer | Ideological conviction, faith in Hive | Zealous, disciplined, unwavering | Ch. __ / Scene __ | Adversary to Cassian; loyal to Korin and Hive architecture |
+| Alyen Ithra | Loyalist enforcer / Korin Tal's second-in-command | Ideological conviction, faith in Hive | Zealous, disciplined, unwavering | Ch. __ / Scene __ | Adversary to Cassian; loyal to Korin and Hive architecture; in the Book 1 climax, Korin sends her to kill Cassian and she uses Gor's unique cryo key |
 | Korin Tal | Loyalist figure | Control, system preservation | Controlled charisma or austere authority | Ch. 1 | Full name is Korin Tal; `Korin` is acceptable as a short form after identification |
 | Reversionist (true name TBD) | Hidden antagonist/ally | Rejects Hive dysfunction | Precision, clinical logic, iconoclastic | Ch. __ / Scene __ | Chipped human + rogue AI element; reveal later |
 | Gor of Almelah | Hive-aligned hunter / foil | Justify his oath-breaking by judging Cassian | Heavy impact, disciplined brutality, old-dojo forms | Ch. __ / Scene __ | Same dojo lineage as Cassian; cryo-extended operative in Hive service |
@@ -96,9 +96,14 @@
 | Chip / Rogue AI Remnant | Neurotech | Analyze/predict/suggest; influenced Reversionist | Emergent misalignment; partial memory | Initially Hive-derived | Must remain consistent: what it can and cannot access |
 | Helion-class scoutcraft | Vessel class | Deep-range human scout platform used for Cassian's mission | Limited by mission damage, fuel loss, and hull breach | Pre-Hive / legacy human mission infrastructure | Cassian launches in one and is later recovered from its wreck |
 | Quantum entanglement relay | Mission / transit system | Long-range relay component tied to Cassian's launch stack | Use only in pre-jump mission context unless later expanded intentionally | Legacy mission infrastructure | Named during launch prep |
-| Hyperspace gate | Mission / transit system | Gate infrastructure enabling Cassian's jump | The anomaly warning is tied to the destination field, not the gate itself | Legacy mission infrastructure | Keep distinct from the warning entity |
+| Hyperspace gate | Mission / transit system | Gate infrastructure enabling Cassian's jump; legacy precursor to the later planetary gate-ring network | The anomaly warning is tied to the destination field, not the gate itself; do not depict Cassian's launch-era gate as already matching the mature Hive-era network | Legacy mission infrastructure | Keep distinct from the warning entity |
+| Planetary gate-ring network | Mature Type I megastructure / transit system | Multiple moon-class gate structures encircle Earth, providing the mature descendant architecture of earlier hyperspace-gate systems | The rings must read as planetary-scale infrastructure, not ordinary orbital stations; exact count, spacing, and final geometry remain open until fixed in scene or design canon | Hive Earth / mature Type I civilization | Mature and operational in the current Hive era; its scale demonstrates that Type I civilization is established rather than aspirational |
+| Dyson-scale stellar enclosure | Future Type II megastructure direction | Capturing and organizing a star's energy output through structures descended in engineering logic from mature planetary rings | Not yet complete in the current era; do not imply a finished Dyson sphere around the Sun | Future civilization-scale development | Hive Earth is close to the Type I-to-Type II transition; the planetary gate rings are a technological and civilizational precursor |
 | Passive filament tracker | Low-power tracking tech | Hidden, low-signature tracer woven into fabric or bandage | Detectable on close manual inspection; does not replace full uplink tracking | Hive-aligned hostile actors, scav opportunists, or compromised intermediaries | Used in the broken-clinic sequence |
 | Cryo-capable augmentation | Bio/temporal modification | Extends operational lifespan through augmentation and cryo cycling | Identity erosion, oath/cultural violation, institutional control | Hive systems | Central to Gor's oath-breaking arc |
+| Cryogenic kill mechanism / unique cryo key | Cryo-system backdoor | A hidden control mechanism created by the original biomechanic and embedded in cryo mechanisms from the Turning Time onward; each person has a unique key | A key applies only to its matching person; most people do not know the mechanism exists; Gor does not know his mechanism/key exists; Korin knows Gor's key and the effect but not the use procedure; other keys remain unknown | Knowledge restricted to powerful elites; the second-in-command can apply Gor's key without understanding the full mechanism | Deliberate elite safeguard for controlling useful cryo-extended people; sequel-relevant loose end |
+| Foreign quantum/biomolecular state | Contact / shutdown protocol | Physically carried back by Cassian; Hive computers identify a quantum-network handshake containing a shutdown mechanism that can infiltrate fragile, loosely connected systems | “Stop the expansion” is a human interpretation, not ordinary language; entanglement is not used for faster-than-light information transfer; the outsiders' identity and intent remain unknown | Unknown; locally detected by Verran-descended biological repair systems | Released state propagates through physical water, cooling, and ventilation maintenance routes; propagation is near-instant at Hive scale by deliberate speculative design |
+| Biological crèche | Living-machine containment / computation | A repair ecology withdraws from the foreign state, extracts material from Cassian, and grows an isolated biological sandbox/interface to interrogate it | Biomechanic has never witnessed this protocol; normal user control is superseded; release exposes shared maintenance routes | Legacy Verran-descended repair ecology | Discovery mechanism for the handshake; not a generic file decoder |
 
 ---
 
@@ -115,6 +120,12 @@
 | Gor attack | T+? | Ch. 13 | Personal hunter thread begins before full identification |
 | Gor identification / Almelah backstory | T+? | Ch. 15 | Cassian links the hunter to his past and Hive oath-breaking |
 | Below-the-map first contact | T+? | Ch. 20 | Cassian and Thena reach a human enclave that treats them as a security risk first, guests never |
+| Runoff-cut confrontation / Thena's disabling injury | T+? | Ch. 23 | Gor breaks Thena's back and legs; he survives and withdraws |
+| Crèche activation | T+? | Ch. 24 | Legacy repair ecology quarantines extracted material from Cassian and grows a biological interface |
+| Foreign state release | T+? | Ch. 25 | Cassian opens the isolated maintenance return; state spreads through physical water, cooling, and ventilation routes |
+| Hive-wide shutdown cascade | T+? | Ch. 26 | Nodes respond unevenly; quarantine produces temporal-lobe visions in Cassian; no unified rebellion forms |
+| Cryo-key intervention / Gor's death | T+? | Ch. 27–28 | Korin sends Alyen with Gor's unique key; Gor's cybernetics and respiratory support fail; Cassian and Gor share a final exchange |
+| Launch cascade / solar ring begins | T+? | Ch. 29–30 | Scheduled and autonomous launches leave Earth; machine acknowledgement is sent; early stellar-scale construction begins |
 
 ---
 
@@ -134,6 +145,9 @@
 | "The Voss Effect" | The Voss Effect | Deep-history phrase with financial and later weather meanings | Capitalization fixed; preserve semantic drift |
 | "Almelah" | Almelah | Cassian and Gor's cultural world/origin | Spelling fixed |
 | "Harmony" | Harmony | Legacy promise of globally unified consensus governance | Capitalization fixed |
+| "Verran" | Verran | Ubiquitous technological lineage and infrastructure term derived from Elias Verran's biomolecular machinery | Distinguish the original work from later Verran-descended systems when relevant |
+| "Stop the expansion" | Stop the expansion | Human semantic rendering of a foreign quantum/biomolecular handshake; not an ordinary sentence or command | Preserve the existing Chapter 8 phrase; the computer-recognized protocol has a shutdown/infiltration function |
+| "crèche" | crèche | Temporary biological containment and computation chamber grown by a legacy repair ecology | Use the accented spelling; do not describe as a generic file decoder |
 
 ---
 
