@@ -1,0 +1,433 @@
+{
+  "title": "Hive: Earth",
+  "author": "Nicholas J. Sisco",
+  "version": "v0.2",
+  "date": "2026-10-08",
+  "config_sha256": "d8ccd758a59386c3ef1869e3475290b99c3adbe7fff104b84bed5e46f580ef12",
+  "sources": [
+    {
+      "path": "beta_readers/assets/hive-book-cover.png",
+      "sha256": "66f4756b2305afd1c057fac6f944c3b5846b7403933e16f91dc65c8221ad56f8",
+      "role": "front-cover",
+      "original_source": "https://chatgpt.com/s/m_6ac879705640819197192fd67afe9899"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 1 – The Return.md",
+      "sha256": "9382bbddc0e1b35a1e908bbb6add5e57149e67253ae95a098c113fb1d6b31bdd"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 4 – The Walk.md",
+      "sha256": "a1be0b2abe0d2a529956c5daaecb65ff4aa3bd9da0c43acd20b28ecb4f19f4d7"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 5 – The Opening Move.md",
+      "sha256": "8d4be14d32b0f97675834d7c880bcf438e56dd237a495c260c154f37efde8f17"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 6 – Controlled Variables.md",
+      "sha256": "e7a14bf16f610a0b23cf3e0108e0dc40dbfcce33dd6adcc713a9d84715828447"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 7 – The Seam.md",
+      "sha256": "d15f0f2cc10921cff05c0fcf9585ad659fb0080d132589fa5af604e94a9b4ed9"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 8 – The Drop.md",
+      "sha256": "5f3df83a044381ba3a144b0c70f9f3a8a1ef8d0af1eac02523484bc94d7e19e3"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 9 – Fractures in the Core.md",
+      "sha256": "afc8ec01f22ddc152a683ca526d3e921e305a271fcd1d94658cd3b63cf6bd357"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 10 – Signal to Noise.md",
+      "sha256": "7960bd3956d48142052daadb4707a4458489fa8940069add60cd78c73322a61f"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 11 – Contingencies.md",
+      "sha256": "138beb10eaead270553665c8ed363675cdb816cafe0ea8ce4e83664bef910390"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 12 – The Lanes Between Signals.md",
+      "sha256": "d5dd5ce366accf0699af31d22454e26c014a2942a581400cc7a8803c605c4120"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 13 – The Soft Edge.md",
+      "sha256": "487051afd162d71034ad6293ec1cc2595c8d6426f058b502b9d03921c201226e"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 14 – The Broken Clinic.md",
+      "sha256": "0f55f5d723d1e56497c348b3073082098d45fcf72a39bb5eb24ae59c97c7dca5"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 15 – The Night the Oath Broke.md",
+      "sha256": "e1240e662710ad551532982a06b57774f64ef230d5defc67129d467492a48dd5"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 16 – Dead Relay.md",
+      "sha256": "15d9a8bb3deaee13d3df55ee76a94bf99e5903fc19374a49ed3306d7cb74b91f"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 17 – The Far Side.md",
+      "sha256": "ab5c434b8169df609d764bb47399593c7fa8c876663aa2c0ef7e3c64cac53d4b"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 18 – Hold Time.md",
+      "sha256": "075621b3d08bbd58148c2cc1067faa8a483212d07a6dd67fa0e357691f4827ae"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 19 – Below the Map.md",
+      "sha256": "0dcd01326b09d44028af6944d9ab21dedac15d5183c9db3b5082bc85b936d237"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 20 – The Line Answers.md",
+      "sha256": "fbb85286afdd8462b69cc178cdcfae646a3bccd6ed9336f39c2f56af660653e8"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 21 – Terms of Shelter.md",
+      "sha256": "dcc4949bfc401689c83b0689b9f37de5ffeb8f218cc0bcb852170219713836f5"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 22 – The Runoff Cut.md",
+      "sha256": "a569eeb4d2de6473dfebbb97dd3278b1412a3aca0c58a93f0c91bb5e45a2afcd"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 23 – The Cost of the Line.md",
+      "sha256": "67337d015b4a99c9db226caf749ae67f35209abdd90cb80ec82c2d4123c91d59"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 24 – The Biomechanic.md",
+      "sha256": "88c5f000e41cb23dd5a949ba56f426b1f319bb8e74fbb26cdcf6ec7bf7cb401d"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 25 – Release.md",
+      "sha256": "5423582d049f0ed4f463a964da18aa7d2cd21c95ab600478da9fa36cbc633332"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 26 – The Carrier.md",
+      "sha256": "52b2c5639333461c391083af86769e50066662df0dcb854802574fbabbd3d261"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 27 – The Key.md",
+      "sha256": "fadc26a6922b101f9ce7a61a486b204d1d6aabd1f1efb3f654e41c754f9a0aed"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 28 – The Containment Room.md",
+      "sha256": "e0d691da23335b27991388bc2a89bd709f44dc55f279b08eb15ceaa2b9937ac2"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 29 – The Noise.md",
+      "sha256": "adf1ab41f00058c9b24dd67941adbff01c5194c6471fab39120f8e577dc77a04"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 30 – Outside.md",
+      "sha256": "b254b2608be72d9450c9264cd98b4b1804ccd91da5be7baa4d3028559b16f032"
+    },
+    {
+      "path": "docs/reader_package/supporting_snapshot/Author’s Foreword – What the Record Loses.md",
+      "sha256": "ce67729bfeb465b90e3bcca722c8becd40cc06e5c1603a3b77c079fefcce1b4f",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\developmental\\Author’s Foreword – What the Record Loses.md",
+      "developmental": false,
+      "presentation_omissions": [
+        "foreword development-status line"
+      ]
+    },
+    {
+      "path": "docs/reader_package/supporting_snapshot/Appendix – Figures of the Turning Time.md",
+      "sha256": "056522f0ce66a58117ce331dbb325f268096e766213901f2dc6fc3249c21c451",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Figures of the Turning Time.md",
+      "developmental": false,
+      "presentation_omissions": []
+    },
+    {
+      "path": "docs/reader_package/supporting_snapshot/Appendix - The Voss Conquest.md",
+      "sha256": "46792a5875bc534e8224a19b2e6e59087c340ff4473f7fea26d0479c2b3c4a33",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix - The Voss Conquest.md",
+      "developmental": false,
+      "presentation_omissions": []
+    },
+    {
+      "path": "docs/reader_package/supporting_snapshot/Appendix – Gor of Almelah.md",
+      "sha256": "b90eb681ce468cc567dc81a31387c4c721a14ba488ba604602a3af250660e27d",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Gor of Almelah.md",
+      "developmental": true,
+      "presentation_omissions": []
+    }
+  ],
+  "order": [
+    "authors-foreword",
+    "chapter-1",
+    "chapter-4",
+    "chapter-5",
+    "chapter-6",
+    "chapter-7",
+    "chapter-8",
+    "chapter-9",
+    "chapter-10",
+    "chapter-11",
+    "chapter-12",
+    "chapter-13",
+    "chapter-14",
+    "chapter-15",
+    "chapter-16",
+    "chapter-17",
+    "chapter-18",
+    "chapter-19",
+    "chapter-20",
+    "chapter-21",
+    "chapter-22",
+    "chapter-23",
+    "chapter-24",
+    "chapter-25",
+    "chapter-26",
+    "chapter-27",
+    "chapter-28",
+    "chapter-29",
+    "chapter-30",
+    "figures",
+    "voss-conquest",
+    "gor"
+  ],
+  "verification": {
+    "pages": 213,
+    "section_order_and_text_fidelity": "pass",
+    "sections": [
+      {
+        "section": "authors-foreword",
+        "first_page": 5,
+        "last_page": 8,
+        "text_fidelity": "pass",
+        "words": 1175
+      },
+      {
+        "section": "chapter-1",
+        "first_page": 9,
+        "last_page": 15,
+        "text_fidelity": "pass",
+        "words": 1584
+      },
+      {
+        "section": "chapter-4",
+        "first_page": 16,
+        "last_page": 18,
+        "text_fidelity": "pass",
+        "words": 595
+      },
+      {
+        "section": "chapter-5",
+        "first_page": 19,
+        "last_page": 23,
+        "text_fidelity": "pass",
+        "words": 967
+      },
+      {
+        "section": "chapter-6",
+        "first_page": 24,
+        "last_page": 27,
+        "text_fidelity": "pass",
+        "words": 655
+      },
+      {
+        "section": "chapter-7",
+        "first_page": 28,
+        "last_page": 31,
+        "text_fidelity": "pass",
+        "words": 766
+      },
+      {
+        "section": "chapter-8",
+        "first_page": 32,
+        "last_page": 35,
+        "text_fidelity": "pass",
+        "words": 703
+      },
+      {
+        "section": "chapter-9",
+        "first_page": 36,
+        "last_page": 38,
+        "text_fidelity": "pass",
+        "words": 502
+      },
+      {
+        "section": "chapter-10",
+        "first_page": 39,
+        "last_page": 41,
+        "text_fidelity": "pass",
+        "words": 591
+      },
+      {
+        "section": "chapter-11",
+        "first_page": 42,
+        "last_page": 44,
+        "text_fidelity": "pass",
+        "words": 610
+      },
+      {
+        "section": "chapter-12",
+        "first_page": 45,
+        "last_page": 50,
+        "text_fidelity": "pass",
+        "words": 1191
+      },
+      {
+        "section": "chapter-13",
+        "first_page": 51,
+        "last_page": 54,
+        "text_fidelity": "pass",
+        "words": 787
+      },
+      {
+        "section": "chapter-14",
+        "first_page": 55,
+        "last_page": 58,
+        "text_fidelity": "pass",
+        "words": 728
+      },
+      {
+        "section": "chapter-15",
+        "first_page": 59,
+        "last_page": 69,
+        "text_fidelity": "pass",
+        "words": 2095
+      },
+      {
+        "section": "chapter-16",
+        "first_page": 70,
+        "last_page": 77,
+        "text_fidelity": "pass",
+        "words": 1397
+      },
+      {
+        "section": "chapter-17",
+        "first_page": 78,
+        "last_page": 87,
+        "text_fidelity": "pass",
+        "words": 1444
+      },
+      {
+        "section": "chapter-18",
+        "first_page": 88,
+        "last_page": 97,
+        "text_fidelity": "pass",
+        "words": 1562
+      },
+      {
+        "section": "chapter-19",
+        "first_page": 98,
+        "last_page": 107,
+        "text_fidelity": "pass",
+        "words": 1817
+      },
+      {
+        "section": "chapter-20",
+        "first_page": 108,
+        "last_page": 116,
+        "text_fidelity": "pass",
+        "words": 1614
+      },
+      {
+        "section": "chapter-21",
+        "first_page": 117,
+        "last_page": 126,
+        "text_fidelity": "pass",
+        "words": 1769
+      },
+      {
+        "section": "chapter-22",
+        "first_page": 127,
+        "last_page": 129,
+        "text_fidelity": "pass",
+        "words": 670
+      },
+      {
+        "section": "chapter-23",
+        "first_page": 130,
+        "last_page": 138,
+        "text_fidelity": "pass",
+        "words": 1924
+      },
+      {
+        "section": "chapter-24",
+        "first_page": 139,
+        "last_page": 147,
+        "text_fidelity": "pass",
+        "words": 1780
+      },
+      {
+        "section": "chapter-25",
+        "first_page": 148,
+        "last_page": 156,
+        "text_fidelity": "pass",
+        "words": 1681
+      },
+      {
+        "section": "chapter-26",
+        "first_page": 157,
+        "last_page": 166,
+        "text_fidelity": "pass",
+        "words": 1989
+      },
+      {
+        "section": "chapter-27",
+        "first_page": 167,
+        "last_page": 172,
+        "text_fidelity": "pass",
+        "words": 1011
+      },
+      {
+        "section": "chapter-28",
+        "first_page": 173,
+        "last_page": 179,
+        "text_fidelity": "pass",
+        "words": 1441
+      },
+      {
+        "section": "chapter-29",
+        "first_page": 180,
+        "last_page": 184,
+        "text_fidelity": "pass",
+        "words": 934
+      },
+      {
+        "section": "chapter-30",
+        "first_page": 185,
+        "last_page": 189,
+        "text_fidelity": "pass",
+        "words": 930
+      },
+      {
+        "section": "figures",
+        "first_page": 190,
+        "last_page": 195,
+        "text_fidelity": "pass",
+        "words": 1534
+      },
+      {
+        "section": "voss-conquest",
+        "first_page": 196,
+        "last_page": 199,
+        "text_fidelity": "pass",
+        "words": 988
+      },
+      {
+        "section": "gor",
+        "first_page": 200,
+        "last_page": 213,
+        "text_fidelity": "pass",
+        "words": 4418
+      }
+    ]
+  },
+  "pdf_sha256": "2be1d9559f12fc170387b5282842f2cad595f7e63c7207a462e61d9e57592849",
+  "markdown_sha256": "ade48a1e7fd985167fd08b0a20e37744c621b7870e1c6eba1c864db1fbceeaf5",
+  "developmental_appendix_notice": "Gor appendix retains its non-canon status and unresolved Chapter 15 conflicts",
+  "cover": {
+    "path": "beta_readers/assets/hive-book-cover.png",
+    "sha256": "66f4756b2305afd1c057fac6f944c3b5846b7403933e16f91dc65c8221ad56f8",
+    "original_source": "https://chatgpt.com/s/m_6ac879705640819197192fd67afe9899",
+    "fit": "contain",
+    "decision": "Author explicitly identified this shared HIVE cover as the correct book cover. Supersedes the earlier Hive city render for packages.",
+    "first_page": 1,
+    "title_page": 2
+  }
+}

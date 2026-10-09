@@ -331,3 +331,11 @@ After completing a task, report:
 * any continuity alerts or source/sync path issues discovered
 
 Do not claim broader rewriting, cleanup, sync, or validation was performed unless it actually was.
+
+## Reader Package Convention
+
+When the author asks for a package, share copy, or beta-reader edition, follow `docs/reader_package/README.md`. Assemble one PDF with the agreed Hive front-cover artwork, selected author's note/foreword, complete manuscript, and appendices. Reuse the pinned `beta_readers/assets/hive-book-cover.png` without cropping or regeneration; put edition details on the following title page. Preserve dated editions and visible developmental notices. The package's selected manuscript version is recorded in `docs/reader_package/package.json`; packaging alone does not change canonical status.
+
+## Copy Editor Convention
+
+Use `COPY_EDITOR_AGENT.md` and `docs/copy_editor/README.md` for copyediting. The author selected proposed corrections for review; the first pass records exact changes and queries without changing source prose. Prepare runs with `tools/prepare_copy_editor.py` and account for every selected section. Use **Nicholas J. Sisco** for author credits in new artifacts. The current review target is the package-selected v0.2 experiment, whose completed sources and Chapter 16 control must be preserved.

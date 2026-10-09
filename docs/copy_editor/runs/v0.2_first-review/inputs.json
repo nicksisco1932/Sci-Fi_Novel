@@ -1,0 +1,360 @@
+{
+  "status": "prepared",
+  "mode": "proposals-for-author-review",
+  "run": "v0.2_first-review",
+  "config_path": "docs/reader_package/package.json",
+  "config_sha256": "d8ccd758a59386c3ef1869e3475290b99c3adbe7fff104b84bed5e46f580ef12",
+  "config": {
+    "title": "Hive: Earth",
+    "author": "Nicholas J. Sisco",
+    "version": "v0.2",
+    "date": "2026-10-08",
+    "date_label": "October 8, 2026",
+    "manuscript_folder": "docs/developmental/manuscript_style_tests/v0.2",
+    "manuscript_hashes": "docs/developmental/manuscript_style_tests/v0.2_parent.sha256",
+    "chapter_order": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "supporting_sections": [
+      {
+        "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\developmental\\Author’s Foreword – What the Record Loses.md",
+        "sha256": "ce67729bfeb465b90e3bcca722c8becd40cc06e5c1603a3b77c079fefcce1b4f",
+        "kind": "foreword",
+        "developmental": false,
+        "key": "authors-foreword",
+        "title": "Author’s Foreword: What the Record Loses",
+        "label": "",
+        "omit_development_status": true,
+        "path": "docs/reader_package/supporting_snapshot/Author’s Foreword – What the Record Loses.md"
+      },
+      {
+        "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Figures of the Turning Time.md",
+        "sha256": "056522f0ce66a58117ce331dbb325f268096e766213901f2dc6fc3249c21c451",
+        "kind": "appendix",
+        "developmental": false,
+        "key": "figures",
+        "title": "Figures of the Turning Time",
+        "label": "Appendix I",
+        "path": "docs/reader_package/supporting_snapshot/Appendix – Figures of the Turning Time.md"
+      },
+      {
+        "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix - The Voss Conquest.md",
+        "sha256": "46792a5875bc534e8224a19b2e6e59087c340ff4473f7fea26d0479c2b3c4a33",
+        "kind": "appendix",
+        "developmental": false,
+        "key": "voss-conquest",
+        "title": "The Voss Conquest",
+        "label": "Appendix II",
+        "path": "docs/reader_package/supporting_snapshot/Appendix - The Voss Conquest.md"
+      },
+      {
+        "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Gor of Almelah.md",
+        "sha256": "b90eb681ce468cc567dc81a31387c4c721a14ba488ba604602a3af250660e27d",
+        "kind": "appendix",
+        "developmental": true,
+        "key": "gor",
+        "title": "Developmental Appendix: Gor of Almelah",
+        "label": "Appendix III",
+        "path": "docs/reader_package/supporting_snapshot/Appendix – Gor of Almelah.md"
+      }
+    ],
+    "output_directory": "beta_readers/packages/v0.2_2026-10-08_correct-cover",
+    "cover": {
+      "path": "beta_readers/assets/hive-book-cover.png",
+      "sha256": "66f4756b2305afd1c057fac6f944c3b5846b7403933e16f91dc65c8221ad56f8",
+      "original_source": "https://chatgpt.com/s/m_6ac879705640819197192fd67afe9899",
+      "fit": "contain",
+      "decision": "Author explicitly identified this shared HIVE cover as the correct book cover. Supersedes the earlier Hive city render for packages."
+    }
+  },
+  "guidance": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "69f686df5fef3c9ae22282d7233675c8d5b36ede67be45492555b5ba1f07256a"
+    },
+    {
+      "path": "COPY_EDITOR_AGENT.md",
+      "sha256": "ac4f6b9cd0bb4b0977494d31d6b0c4f1eb9b494d5bf71baee928c7c8d18a2648"
+    },
+    {
+      "path": "docs/copy_editor/README.md",
+      "sha256": "3dbbfcac7d3a995a18c268a9beb8ec8c1c633b44238ee05aa76226c47dfa85ef"
+    },
+    {
+      "path": "docs/copy_editor/style_sheet.md",
+      "sha256": "2da3b2198199e15ebb89b27e597e7eb17c706d6a3188b29042a1f6300a30f658"
+    },
+    {
+      "path": "docs/developmental/manuscript_style_tests/style_guide_v0.2.md",
+      "sha256": "94b52da0ac68c1cf7c90e269238096739d5f75000059e43977d11d909b78a689"
+    }
+  ],
+  "sources": [
+    {
+      "section": "authors-foreword",
+      "title": "Author’s Foreword: What the Record Loses",
+      "path": "docs/reader_package/supporting_snapshot/Author’s Foreword – What the Record Loses.md",
+      "sha256": "ce67729bfeb465b90e3bcca722c8becd40cc06e5c1603a3b77c079fefcce1b4f",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\developmental\\Author’s Foreword – What the Record Loses.md",
+      "developmental": false,
+      "presentation_omissions": [
+        "foreword development-status line"
+      ],
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-1",
+      "title": "Chapter 1 — The Return",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 1 – The Return.md",
+      "sha256": "9382bbddc0e1b35a1e908bbb6add5e57149e67253ae95a098c113fb1d6b31bdd",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-4",
+      "title": "Chapter 4 — The Walk",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 4 – The Walk.md",
+      "sha256": "a1be0b2abe0d2a529956c5daaecb65ff4aa3bd9da0c43acd20b28ecb4f19f4d7",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-5",
+      "title": "Chapter 5 — The Opening Move",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 5 – The Opening Move.md",
+      "sha256": "8d4be14d32b0f97675834d7c880bcf438e56dd237a495c260c154f37efde8f17",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-6",
+      "title": "Chapter 6 — Controlled Variables",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 6 – Controlled Variables.md",
+      "sha256": "e7a14bf16f610a0b23cf3e0108e0dc40dbfcce33dd6adcc713a9d84715828447",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-7",
+      "title": "Chapter 7 — The Seam",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 7 – The Seam.md",
+      "sha256": "d15f0f2cc10921cff05c0fcf9585ad659fb0080d132589fa5af604e94a9b4ed9",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-8",
+      "title": "Chapter 8 — The Drop",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 8 – The Drop.md",
+      "sha256": "5f3df83a044381ba3a144b0c70f9f3a8a1ef8d0af1eac02523484bc94d7e19e3",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-9",
+      "title": "Chapter 9 — Fractures in the Core",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 9 – Fractures in the Core.md",
+      "sha256": "afc8ec01f22ddc152a683ca526d3e921e305a271fcd1d94658cd3b63cf6bd357",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-10",
+      "title": "Chapter 10 — Signal to Noise",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 10 – Signal to Noise.md",
+      "sha256": "7960bd3956d48142052daadb4707a4458489fa8940069add60cd78c73322a61f",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-11",
+      "title": "Chapter 11 — Contingencies",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 11 – Contingencies.md",
+      "sha256": "138beb10eaead270553665c8ed363675cdb816cafe0ea8ce4e83664bef910390",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-12",
+      "title": "Chapter 12 — The Lanes Between Signals",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 12 – The Lanes Between Signals.md",
+      "sha256": "d5dd5ce366accf0699af31d22454e26c014a2942a581400cc7a8803c605c4120",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-13",
+      "title": "Chapter 13 — The Soft Edge",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 13 – The Soft Edge.md",
+      "sha256": "487051afd162d71034ad6293ec1cc2595c8d6426f058b502b9d03921c201226e",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-14",
+      "title": "Chapter 14 — The Broken Clinic",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 14 – The Broken Clinic.md",
+      "sha256": "0f55f5d723d1e56497c348b3073082098d45fcf72a39bb5eb24ae59c97c7dca5",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-15",
+      "title": "Chapter 15 — The Night the Oath Broke",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 15 – The Night the Oath Broke.md",
+      "sha256": "e1240e662710ad551532982a06b57774f64ef230d5defc67129d467492a48dd5",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-16",
+      "title": "Chapter 16 — Dead Relay",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 16 – Dead Relay.md",
+      "sha256": "15d9a8bb3deaee13d3df55ee76a94bf99e5903fc19374a49ed3306d7cb74b91f",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-17",
+      "title": "Chapter 17 — The Far Side",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 17 – The Far Side.md",
+      "sha256": "ab5c434b8169df609d764bb47399593c7fa8c876663aa2c0ef7e3c64cac53d4b",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-18",
+      "title": "Chapter 18 — Hold Time",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 18 – Hold Time.md",
+      "sha256": "075621b3d08bbd58148c2cc1067faa8a483212d07a6dd67fa0e357691f4827ae",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-19",
+      "title": "Chapter 19 — Below the Map",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 19 – Below the Map.md",
+      "sha256": "0dcd01326b09d44028af6944d9ab21dedac15d5183c9db3b5082bc85b936d237",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-20",
+      "title": "Chapter 20 — The Line Answers",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 20 – The Line Answers.md",
+      "sha256": "fbb85286afdd8462b69cc178cdcfae646a3bccd6ed9336f39c2f56af660653e8",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-21",
+      "title": "Chapter 21 — Terms of Shelter",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 21 – Terms of Shelter.md",
+      "sha256": "dcc4949bfc401689c83b0689b9f37de5ffeb8f218cc0bcb852170219713836f5",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-22",
+      "title": "Chapter 22 — The Runoff Cut",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 22 – The Runoff Cut.md",
+      "sha256": "a569eeb4d2de6473dfebbb97dd3278b1412a3aca0c58a93f0c91bb5e45a2afcd",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-23",
+      "title": "Chapter 23 — The Cost of the Line",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 23 – The Cost of the Line.md",
+      "sha256": "67337d015b4a99c9db226caf749ae67f35209abdd90cb80ec82c2d4123c91d59",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-24",
+      "title": "Chapter 24 — The Biomechanic",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 24 – The Biomechanic.md",
+      "sha256": "88c5f000e41cb23dd5a949ba56f426b1f319bb8e74fbb26cdcf6ec7bf7cb401d",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-25",
+      "title": "Chapter 25 — Release",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 25 – Release.md",
+      "sha256": "5423582d049f0ed4f463a964da18aa7d2cd21c95ab600478da9fa36cbc633332",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-26",
+      "title": "Chapter 26 — The Carrier",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 26 – The Carrier.md",
+      "sha256": "52b2c5639333461c391083af86769e50066662df0dcb854802574fbabbd3d261",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-27",
+      "title": "Chapter 27 — The Key",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 27 – The Key.md",
+      "sha256": "fadc26a6922b101f9ce7a61a486b204d1d6aabd1f1efb3f654e41c754f9a0aed",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-28",
+      "title": "Chapter 28 — The Containment Room",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 28 – The Containment Room.md",
+      "sha256": "e0d691da23335b27991388bc2a89bd709f44dc55f279b08eb15ceaa2b9937ac2",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-29",
+      "title": "Chapter 29 — The Noise",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 29 – The Noise.md",
+      "sha256": "adf1ab41f00058c9b24dd67941adbff01c5194c6471fab39120f8e577dc77a04",
+      "review_status": "pending"
+    },
+    {
+      "section": "chapter-30",
+      "title": "Chapter 30 — Outside",
+      "path": "docs/developmental/manuscript_style_tests/v0.2/Chapter 30 – Outside.md",
+      "sha256": "b254b2608be72d9450c9264cd98b4b1804ccd91da5be7baa4d3028559b16f032",
+      "review_status": "pending"
+    },
+    {
+      "section": "figures",
+      "title": "Figures of the Turning Time",
+      "path": "docs/reader_package/supporting_snapshot/Appendix – Figures of the Turning Time.md",
+      "sha256": "056522f0ce66a58117ce331dbb325f268096e766213901f2dc6fc3249c21c451",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Figures of the Turning Time.md",
+      "developmental": false,
+      "presentation_omissions": [],
+      "review_status": "pending"
+    },
+    {
+      "section": "voss-conquest",
+      "title": "The Voss Conquest",
+      "path": "docs/reader_package/supporting_snapshot/Appendix - The Voss Conquest.md",
+      "sha256": "46792a5875bc534e8224a19b2e6e59087c340ff4473f7fea26d0479c2b3c4a33",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix - The Voss Conquest.md",
+      "developmental": false,
+      "presentation_omissions": [],
+      "review_status": "pending"
+    },
+    {
+      "section": "gor",
+      "title": "Developmental Appendix: Gor of Almelah",
+      "path": "docs/reader_package/supporting_snapshot/Appendix – Gor of Almelah.md",
+      "sha256": "b90eb681ce468cc567dc81a31387c4c721a14ba488ba604602a3af250660e27d",
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Gor of Almelah.md",
+      "developmental": true,
+      "presentation_omissions": [],
+      "review_status": "pending"
+    }
+  ],
+  "source_changes_applied": false
+}

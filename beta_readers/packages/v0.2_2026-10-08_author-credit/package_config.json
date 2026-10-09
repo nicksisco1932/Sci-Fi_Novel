@@ -1,0 +1,90 @@
+{
+  "title": "Hive: Earth",
+  "author": "Nicholas J. Sisco",
+  "version": "v0.2",
+  "date": "2026-10-08",
+  "date_label": "October 8, 2026",
+  "manuscript_folder": "docs/developmental/manuscript_style_tests/v0.2",
+  "manuscript_hashes": "docs/developmental/manuscript_style_tests/v0.2_parent.sha256",
+  "chapter_order": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "supporting_sections": [
+    {
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\developmental\\Author’s Foreword – What the Record Loses.md",
+      "sha256": "ce67729bfeb465b90e3bcca722c8becd40cc06e5c1603a3b77c079fefcce1b4f",
+      "kind": "foreword",
+      "developmental": false,
+      "key": "authors-foreword",
+      "title": "Author’s Foreword: What the Record Loses",
+      "label": "",
+      "omit_development_status": true,
+      "path": "docs/reader_package/supporting_snapshot/Author’s Foreword – What the Record Loses.md"
+    },
+    {
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Figures of the Turning Time.md",
+      "sha256": "056522f0ce66a58117ce331dbb325f268096e766213901f2dc6fc3249c21c451",
+      "kind": "appendix",
+      "developmental": false,
+      "key": "figures",
+      "title": "Figures of the Turning Time",
+      "label": "Appendix I",
+      "path": "docs/reader_package/supporting_snapshot/Appendix – Figures of the Turning Time.md"
+    },
+    {
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix - The Voss Conquest.md",
+      "sha256": "46792a5875bc534e8224a19b2e6e59087c340ff4473f7fea26d0479c2b3c4a33",
+      "kind": "appendix",
+      "developmental": false,
+      "key": "voss-conquest",
+      "title": "The Voss Conquest",
+      "label": "Appendix II",
+      "path": "docs/reader_package/supporting_snapshot/Appendix - The Voss Conquest.md"
+    },
+    {
+      "original_source": "C:\\Users\\nicks\\Documents\\GitHub\\Sci-Fi_Novel\\docs\\appendices\\Appendix – Gor of Almelah.md",
+      "sha256": "b90eb681ce468cc567dc81a31387c4c721a14ba488ba604602a3af250660e27d",
+      "kind": "appendix",
+      "developmental": true,
+      "key": "gor",
+      "title": "Developmental Appendix: Gor of Almelah",
+      "label": "Appendix III",
+      "path": "docs/reader_package/supporting_snapshot/Appendix – Gor of Almelah.md"
+    }
+  ],
+  "output_directory": "beta_readers/packages/v0.2_2026-10-08_author-credit",
+  "cover": {
+    "path": "beta_readers/assets/hive-earth-cover.jpg",
+    "sha256": "d213517710ada706680a5eac4c116d88367915b7f4be6ec19b26bfdade71492e",
+    "original_source": "C:\\Users\\nicks\\.codex\\worktrees\\a83b\\Sci-Fi_Novel\\beta_readers\\assets\\hive-earth-cover.jpg",
+    "fit": "contain",
+    "decision": "Author requested the praised Hive render as the book cover in Review AI Artifact Hunter (3), then requested its reuse for this Package."
+  }
+}

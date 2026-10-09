@@ -1,5 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Preserve the exact bytes of versioned reader packages and their cover artwork.
+beta_readers/packages/**/*.pdf binary
+beta_readers/assets/*.jpg binary
+beta_readers/assets/*.png binary
+
+# Frozen source bytes and manifests must survive checkout without newline conversion.
+docs/developmental/manuscript_style_tests/** -text whitespace=cr-at-eol
+docs/reader_package/** -text whitespace=cr-at-eol
+docs/copy_editor/runs/** -text whitespace=cr-at-eol
+beta_readers/packages/** -text whitespace=cr-at-eol
+beta_readers/packages/**/*.pdf binary
+
+# Intentional historical Markdown breaks and unified-diff context lines.
+docs/developmental/manuscript_style_tests/review_ledger.md whitespace=-blank-at-eol,cr-at-eol
+docs/developmental/manuscript_style_tests/*.diff whitespace=-blank-at-eol,-blank-at-eof,cr-at-eol
+
 # Keep compiled graphic-novel proof PDFs versioned without oversized Git blobs.
 art/graphic_novel/proofs/**/*.pdf filter=lfs diff=lfs merge=lfs -text

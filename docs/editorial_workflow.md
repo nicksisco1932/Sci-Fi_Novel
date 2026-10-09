@@ -48,3 +48,11 @@ For now:
 
 ## Practical Rule
 If the same chapter exists in both `docs/canonical_md/` and an archived LaTeX artifact, edit the markdown chapter unless the task explicitly says to update LaTeX.
+
+## Reader Package
+
+Requests for a package, share copy, or beta-reader edition mean one combined PDF with the agreed Hive artwork as its front cover, selected author's note/foreword, complete manuscript, and appendices. Follow `docs/reader_package/README.md` and the pinned source and cover selection in `docs/reader_package/package.json`. Preserve previous dated editions and retain any developmental appendix notices. The current package uses the author-selected v0.2 style-trial manuscript; it does not replace the canonical source.
+
+## Copy Editor
+
+For mechanical and consistency review, use `COPY_EDITOR_AGENT.md` and `docs/copy_editor/README.md`. The author's first-pass choice is proposed corrections for review. Pin the selected package inputs, prepare a versioned coverage ledger, and record exact proposals and author queries. A prepared run is not a completed review. Apply accepted corrections only after the author's instruction, preserving completed manuscript and package versions.

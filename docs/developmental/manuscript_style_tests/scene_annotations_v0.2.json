@@ -1,0 +1,196 @@
+{
+  "1": {
+    "modes": [
+      "recollection/recovery",
+      "immediate action"
+    ],
+    "transitions_allowed": true
+  },
+  "4": {
+    "modes": [
+      "contested exchange",
+      "recollection/recovery"
+    ],
+    "transitions_allowed": true
+  },
+  "5": {
+    "modes": [
+      "contested exchange",
+      "sustained observation"
+    ],
+    "transitions_allowed": true
+  },
+  "6": {
+    "modes": [
+      "recollection/recovery",
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "7": {
+    "modes": [
+      "immediate action",
+      "signal/countdown"
+    ],
+    "transitions_allowed": true
+  },
+  "8": {
+    "modes": [
+      "immediate action",
+      "recollection/recovery"
+    ],
+    "transitions_allowed": true
+  },
+  "9": {
+    "modes": [
+      "recollection/recovery",
+      "sustained observation"
+    ],
+    "transitions_allowed": true
+  },
+  "10": {
+    "modes": [
+      "contested exchange",
+      "signal/countdown"
+    ],
+    "transitions_allowed": true
+  },
+  "11": {
+    "modes": [
+      "signal/countdown",
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "12": {
+    "modes": [
+      "sustained observation"
+    ],
+    "transitions_allowed": true
+  },
+  "13": {
+    "modes": [
+      "immediate action",
+      "sustained observation"
+    ],
+    "transitions_allowed": true
+  },
+  "14": {
+    "modes": [
+      "sustained observation",
+      "recollection/recovery"
+    ],
+    "transitions_allowed": true
+  },
+  "15": {
+    "modes": [
+      "recollection/recovery",
+      "immediate action"
+    ],
+    "transitions_allowed": true
+  },
+  "16": {
+    "modes": [
+      "sustained observation",
+      "signal/countdown"
+    ],
+    "transitions_allowed": true
+  },
+  "17": {
+    "modes": [
+      "sustained observation",
+      "contested exchange",
+      "signal/countdown"
+    ],
+    "transitions_allowed": true
+  },
+  "18": {
+    "modes": [
+      "signal/countdown",
+      "immediate action"
+    ],
+    "transitions_allowed": true
+  },
+  "19": {
+    "modes": [
+      "sustained observation"
+    ],
+    "transitions_allowed": true
+  },
+  "20": {
+    "modes": [
+      "sustained observation",
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "21": {
+    "modes": [
+      "contested exchange",
+      "sustained observation"
+    ],
+    "transitions_allowed": true
+  },
+  "22": {
+    "modes": [
+      "sustained observation",
+      "immediate action"
+    ],
+    "transitions_allowed": true
+  },
+  "23": {
+    "modes": [
+      "immediate action",
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "24": {
+    "modes": [
+      "sustained observation",
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "25": {
+    "modes": [
+      "immediate action",
+      "signal/countdown"
+    ],
+    "transitions_allowed": true
+  },
+  "26": {
+    "modes": [
+      "signal/countdown",
+      "recollection/recovery"
+    ],
+    "transitions_allowed": true
+  },
+  "27": {
+    "modes": [
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "28": {
+    "modes": [
+      "immediate action",
+      "contested exchange"
+    ],
+    "transitions_allowed": true
+  },
+  "29": {
+    "modes": [
+      "recollection/recovery",
+      "signal/countdown"
+    ],
+    "transitions_allowed": true
+  },
+  "30": {
+    "modes": [
+      "sustained observation",
+      "recollection/recovery"
+    ],
+    "transitions_allowed": true
+  }
+}
