@@ -1,4 +1,6 @@
 Current Timeline Summary
+
+Working status: the author approved the v0.2 beta manuscript as the current baseline on 2026-10-09. This timeline supports the full Chapter 1 / Chapters 4–30 working manuscript. Earlier beta-review labels below are historical development notes, not a gate on adopting that baseline.
 Ch. 1:
 Cassian wakes post-hyperspace in a unified Hive-run Earth. His memories are fragmented. He reacts violently, then regains control. Flashbacks preserve the launch and the AI warning: "There is an anomaly." Korin Tal receives the breach report, identifies Cassian as a structural anomaly, and locks the record to executive clearance.
 
@@ -44,7 +46,7 @@ Cassian and Thena are moved under watch toward the runoff-cut investigation. A c
 
 ---
 
-Beta-draft continuation (Ch. 23–30; final-arc structural choices confirmed 2026-10-06; prose remains in draft):
+Working-manuscript continuation (Ch. 23–30; structural choices confirmed 2026-10-06; selected beta accepted as the working baseline 2026-10-09):
 
 Ch. 23:
 The missing watcher is recovered alive, but Gor ambushes Cassian and Thena at the runoff cut. He breaks Thena's back and legs, leaving her unable to continue. Cassian is badly injured. The Voice opens a constrained route to a legacy repair ward; Gor survives and withdraws.
@@ -77,7 +79,7 @@ She remains hidden. Her aid now includes direct terminal contact, but her contro
 Gor's shadow narrative resolves in the final exchange: he chose more time and service to the Hive in an attempt to avoid witnessing Almelah's end, but neither choice restored what was lost. Korin removes him as a liability through a cryo kill mechanism that Gor never knew existed.
 
 ---
-Beta-draft endpoint (Ch. 30; pending author review):
+Accepted working-manuscript endpoint (Ch. 30; baseline approved 2026-10-09):
 Cassian has made one irreversible local choice; the effects exceed his understanding and control.
 Thena is severely wounded and removed from the remaining action.
 The under-Hive becomes mutually legible in uneven, contested ways rather than uniting.
@@ -86,4 +88,4 @@ Humanity's stellar-scale trajectory begins while its shutdown event and first ou
 The local ending is tragic, the historical process accelerates, and Cassian's survival is not confirmed.
 
 ---
-Author-review items before beta sharing: confirm Alyen's second-in-command role, whether her death is the intended sacrifice, whether the exposed surface shelf is the intended final vantage, and whether the acknowledgement should be this explicit.
+Historical beta-review checklist, retained for future development: confirm Alyen's second-in-command role, whether her death is the intended sacrifice, whether the exposed surface shelf is the intended final vantage, and whether the acknowledgement should be this explicit.

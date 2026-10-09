@@ -2,7 +2,7 @@
 
 Cassian said nothing. He stood just inside the door, shoulders loose, weight balanced with care, gaze steady.
 
-Korin’s voice was warm. Polished. A practiced neutrality draped in charm.
+Korin’s voice was warm and polished, a practiced neutrality draped in charm.
 
 “It’s good to see you up, Mr. Rho. You’re recovering faster than projected.”
 
@@ -122,15 +122,7 @@ But Korin didn’t need that.
 
 “Expected,” Korin replied, showing no reaction. “Temporal transit trauma often scrambles short-term recall. It will resolve.”
 
-Cassian watched him carefully.
-
-Korin wasn’t surprised.
-
-Which meant either he believed him.
-
-Or he didn’t.
-
-And was content to wait for the next crack.
+Cassian watched Korin carefully. Korin wasn’t surprised. He might have believed the lie; he might have seen through it and chosen to wait for the next crack.
 
 Cassian sat on the edge of the bed, posture loose, mind tightening.
 

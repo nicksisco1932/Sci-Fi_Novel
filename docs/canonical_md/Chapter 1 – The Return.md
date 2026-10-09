@@ -1,24 +1,6 @@
-Beeping.
+Beeping came through steady and mechanical, too clean, too precise. His body seemed elsewhere, distant and heavy, the sound reduced to a rhythm through static.
 
-Steady, mechanical.
-
-Too clean. Too precise.
-
-His body was elsewhere. Distant. Heavy.
-
-Rhythm through static.
-
-Voices murmured, calm and professional.
-
-Not his language. Close enough to trip old wiring.
-
-A soft hiss. Footsteps.
-
-Then—something touched his ear.
-
-Instinct spiked.
-
-He moved before thought.
+Voices murmured, calm and professional. The words were not his language, but they came close enough to trip old wiring. A soft hiss and the sound of footsteps followed; then something touched his ear, and instinct spiked before thought could catch up.
 
 His eyes flashed open. His right hand shot out, snatching the **knife** beside a tray—gleaming, innocuous, meant for food.
 
@@ -28,15 +10,9 @@ In one motion he spun, grabbed the nearest figure, and slammed them against the 
 
 They froze. One gurgled in surprise, pinned by the throat. The other stood stock-still, eyes wide behind a sterile visor.
 
-Everything was bright. Too bright.
+Everything was bright. Too bright. [[Cassian Rho|Cassian]]’s vision swam with cold metal, silver white, and blinking status lights. Every surface was rounded where it could be, easy to clean and hard to catch on; even the tray slots were aligned with machine precision.
 
-[[Cassian Rho|Cassian]]’s vision swam—cold metal, silver white, blinking status lights. Every surface was rounded where it could be, easy to clean, hard to catch on. Even the tray slots were aligned with machine precision.
-
-Clean-room silence. Burial-vault silence.
-
-Pulse thundering. Grip trembling.
-
-Knife weight. Real. Wrong.
+The silence had the quality of a clean room, almost a burial vault. His pulse thundered, his grip trembled, and the knife’s weight felt real. Wrong.
 
 The pinned one croaked something—strange, melodic syllables. Cassian didn’t recognize the words.
 
@@ -48,33 +24,21 @@ Too fluid. Too evolved.
 
 Language drift.
 
-Then, without sudden movement, they tapped a small interface on their wrist. A harmonic pulse bloomed in the air—subtle, resonant. The words that followed shifted mid-sentence, phonemes locking into patterns his mind could grasp.
+Then, without sudden movement, they tapped a small interface on their wrist. A subtle, resonant harmonic pulse bloomed in the air, and the words that followed shifted mid-sentence, their phonemes locking into patterns his mind could grasp.
 
 “You’re on Earth. [[Hive Spindle World Document|Hive Spindle 9]]. You’ve returned.”
 
-Cassian blinked. Earth? Hive?
-
-He stared at them.
-
-Meaning arrived in fragments.
+Cassian blinked. Earth? Hive? He stared at them as meaning arrived in fragments.
 
 “We were trying to insert a linguistic interface,” the attendant added carefully, voice now fully translated. “To help you understand. You reacted… instinctively.”
 
-Cassian blinked again.
-
-They weren’t fighting back.
-
-No one closed distance. The room’s monitors had shifted from white to a muted amber, as if even the alarms here had been taught not to sound confrontational.
+Cassian blinked again. They weren’t fighting back, and no one closed the distance. The room’s monitors had shifted from white to a muted amber, as if even the alarms here had been taught not to sound confrontational.
 
 He stepped back, body still tense, the blade now shaking in his grip.
 
 “Where am I?” he asked. His voice cracked like a rusted hinge.
 
-The attendants remained still. The monitor shrieked with his heart rate, but no one moved to subdue him.
-
-The adrenaline faded.
-
-His knees buckled.
+The attendants remained still. The monitor shrieked with his heart rate, but no one moved to subdue him. As the adrenaline faded, his knees buckled.
 
 The last thing he heard before he hit the floor:
 
@@ -88,7 +52,7 @@ Cassian sat on the edge of the launch pad’s pre-departure station, legs dangli
 
 Below the station, visitors lined the far observation rail behind smart glass, held back at a distance ceremonial enough to pass for safety. Every time a readiness tone rolled across the Array, conversation thinned for a beat, then resumed. He took a long breath. The air was sharp with salt.
 
-A technician approached from behind, eyes hidden behind dark sunglasses.
+A technician came up behind him, her eyes hidden by dark sunglasses.
 
 “You're cleared for Phase 3 induction,” she said. “Vitals are optimal. Neural mesh is stable. You’ll be the farthest-traveled human in history, Cass.”
 
@@ -114,7 +78,7 @@ He exhaled as the hum of launch systems synced with his pulse.
 
 > "Cassian," the AI said quietly.
 
-He paused. A slight shift in tone. Not a report. A hesitation.
+He paused at the slight shift in tone, a hesitation in place of a report.
 
 > "What is it?"
 
@@ -126,7 +90,7 @@ The launch did not stop. He barely had time to shape the question before the eng
 
 Pressure slammed him into the cradle. Air tore from his lungs in a harsh, guttural exhale that almost rose into a shout before he swallowed it down. His chest tried to expand and met resistance.
 
-He forced a measured inhale against the weight. Again. Short gasps. Counted pressure. Think. Breathe. Focus.
+He forced a measured inhale against the weight, then another, counting the short gasps and the pressure. Think. Breathe. Focus.
 
 The acceleration climbed past the familiar curve.
 
@@ -140,7 +104,15 @@ The load spiked.
 
 Darkness. Silence.
 
+Awareness. Extreme darkness. Brief, faint flashes in the distance.
+
+Should I go to it?
+
+Snap. Extreme pain.
+
 For one dislocated second, he could not tell whether the launch had ended or begun again.
+
+Then again.
 
 Then the hiss of the translation device found him.
 

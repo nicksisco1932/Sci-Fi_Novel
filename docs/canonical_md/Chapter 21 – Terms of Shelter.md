@@ -1,22 +1,6 @@
-The newcomer laid the rain-dark coat across the table with both hands, careful not to smear what was already on it.
+The newcomer laid the rain-dark coat across the table with both hands, careful not to smear the water and mineral grit or the darker stain at one cuff, not quite blood and not quite mud. The strip of marked cloth went beside it, its route cuts handmade, one edge torn hard enough to leave threads splayed like wire.
 
-Water.
-
-Mineral grit.
-
-A darker stain at one cuff that was not quite blood and not quite mud.
-
-The strip of marked cloth went beside it.
-
-Route cuts.
-
-Handmade.
-
-One edge torn hard enough to leave threads splayed like wire.
-
-No one in the room sat except [[Cassian Rho|Cassian]] and Thena.
-
-No one touched the evidence after it was placed.
+Only [[Cassian Rho|Cassian]] and Thena sat; no one touched the evidence after it was placed.
 
 Even here, below the map, procedure had a shape.
 
@@ -106,11 +90,7 @@ The older figure did not look away from Cassian.
 
 "It's also true."
 
-The runner at the rear door gave two light taps against the frame.
-
-Not a knock.
-
-Request to speak.
+The runner at the rear door gave two light taps against the frame, a request to speak rather than a knock.
 
 The older figure tilted their head once in permission.
 

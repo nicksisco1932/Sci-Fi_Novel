@@ -12,6 +12,8 @@ The active manuscript source is:
 
 `docs/canonical_md/`
 
+The author approved the v0.2 beta manuscript as the current working baseline on 2026-10-09. It contains Chapter 1 and Chapters 4–30. See `docs/working_baseline.md` and `docs/working_baseline.json`; begin future editing with these canonical files. Frozen style trials and dated packages remain comparison records.
+
 Archived LaTeX, exported files, PDFs, old drafts, and Obsidian copies are not the active source unless explicitly stated.
 
 Obsidian vault files are a mirror/sync target unless a task explicitly says otherwise.
@@ -339,4 +341,4 @@ When the author asks for a package, share copy, or beta-reader edition, follow `
 
 ## Copy Editor Convention
 
-Use `COPY_EDITOR_AGENT.md` and `docs/copy_editor/README.md` for copyediting. The author selected proposed corrections for review; the first pass records exact changes and queries without changing source prose. Prepare runs with `tools/prepare_copy_editor.py` and account for every selected section. Use **Nicholas J. Sisco** for author credits in new artifacts. The current review target is the package-selected v0.2 experiment, whose completed sources and Chapter 16 control must be preserved.
+Use `COPY_EDITOR_AGENT.md` and `docs/copy_editor/README.md` for copyediting. The author selected proposed corrections for review; the first pass records exact changes and queries without changing source prose. Prepare runs with `tools/prepare_copy_editor.py` and account for every selected section. Use **Nicholas J. Sisco** for author credits in new artifacts. The current review target is the author-approved v0.2 working manuscript in `docs/canonical_md/`, selected by the package configuration. Preserve frozen trial sources and dated packages, including the original Chapter 16 control. Initial copyediting remains proposals for review.

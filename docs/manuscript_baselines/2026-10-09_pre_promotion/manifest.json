@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-09",
+  "pre_promotion_commit": "7392e3917b64e4da6a8325c06c1bf45943526612",
+  "github_parent": "26a569044fc6abd2054f9b6cb481c77aeab56296",
+  "files": [
+    {
+      "source_path": "docs/canonical_md/Chapter 1 – The Return.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 1 – The Return.md",
+      "sha256": "7025d019506c9837542aeb0dd5266d01dfe1f30c4a7ef00119e968847acf3635"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 10 – Signal to Noise.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 10 – Signal to Noise.md",
+      "sha256": "ba3ba69285febfa6c83c684ee178aa3658c27f6d290108097be396987936b6e3"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 11 – Contingencies.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 11 – Contingencies.md",
+      "sha256": "3374503118df831602a207834b7cfe50464246cff40efc22586a84370da2e88a"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 12 – The Lanes Between Signals.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 12 – The Lanes Between Signals.md",
+      "sha256": "d5dd5ce366accf0699af31d22454e26c014a2942a581400cc7a8803c605c4120"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 13 – The Soft Edge.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 13 – The Soft Edge.md",
+      "sha256": "487051afd162d71034ad6293ec1cc2595c8d6426f058b502b9d03921c201226e"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 14 – The Broken Clinic.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 14 – The Broken Clinic.md",
+      "sha256": "0f55f5d723d1e56497c348b3073082098d45fcf72a39bb5eb24ae59c97c7dca5"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 15 – The Night the Oath Broke.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 15 – The Night the Oath Broke.md",
+      "sha256": "371ef64958b9da8a540aed34708d09efb6c56d3a18e06b1c458ca9c8bd1a720b"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 16 – Dead Relay.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 16 – Dead Relay.md",
+      "sha256": "15d9a8bb3deaee13d3df55ee76a94bf99e5903fc19374a49ed3306d7cb74b91f"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 17 – The Far Side.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 17 – The Far Side.md",
+      "sha256": "ccc218999fd74c124669cc76bf312f150a9df94559aaf0ca14d3fc0f1a900910"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 18 – Hold Time.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 18 – Hold Time.md",
+      "sha256": "075621b3d08bbd58148c2cc1067faa8a483212d07a6dd67fa0e357691f4827ae"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 19 – Below the Map.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 19 – Below the Map.md",
+      "sha256": "0dcd01326b09d44028af6944d9ab21dedac15d5183c9db3b5082bc85b936d237"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 20 – The Line Answers.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 20 – The Line Answers.md",
+      "sha256": "37fd05df4bed9fd971e5e90f9a29476d9ba056adc0571dbade5f716da73bf047"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 21 – Terms of Shelter.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 21 – Terms of Shelter.md",
+      "sha256": "f102adbc6f370248a20b1e1c30da314800a6303913f2fb4df39d6bdf474bf46c"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 22 – The Runoff Cut.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 22 – The Runoff Cut.md",
+      "sha256": "acacadc29f3311e06468071e78da131848cba2e480e996ff026d4c65b1f53494"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 23 – The Cost of the Line.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 23 – The Cost of the Line.md",
+      "sha256": "6d7ffc6c2ab54f3e796ee6c9e91c76443b56047939a8765a71b2996bd2de5a58"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 24 – The Biomechanic.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 24 – The Biomechanic.md",
+      "sha256": "c1c19ed306f11d29441c31b0eb9627d8e5c2d05292dfaad9df6ebd21a00b233f"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 25 – Release.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 25 – Release.md",
+      "sha256": "d80ebc4c116a378f58a52bd2c33ebdfedea1b03afcab290fa9b345f35c91dee4"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 26 – The Carrier.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 26 – The Carrier.md",
+      "sha256": "5caec0f0dbbe7c0986ba37117f1bb0f3b679b6bb0e40b642100db7298e3b7a7b"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 27 – The Key.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 27 – The Key.md",
+      "sha256": "ec49f550f687925fea2ec3c18ada4dc96da04ca003f433f9619600be7255a75d"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 28 – The Containment Room.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 28 – The Containment Room.md",
+      "sha256": "8c7136241751c3abe2712c9268ffcf9cb4dbd18556887a5198d86d0426bc6d39"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 29 – The Noise.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 29 – The Noise.md",
+      "sha256": "7927d8342e8a38c16bd186d53804ec5c8820e909ebcbaa1b80f631871a56b368"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 30 – Outside.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 30 – Outside.md",
+      "sha256": "3774b2e4f404749772dfe55de2e915cda1222d7de0d6d3845d9574c114bec13e"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 4 – The Walk.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 4 – The Walk.md",
+      "sha256": "d4a23f86241acd3aa74c7ebc268819e73a4a3a2c914c119184ad94cd3d2b509b"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 5 – The Opening Move.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 5 – The Opening Move.md",
+      "sha256": "bec16c527376cc765241eb0b5475090d00cc3c9d2d4de3724a4b2b2670f8b10a"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 6 – Controlled Variables.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 6 – Controlled Variables.md",
+      "sha256": "684c0e1e89c7d97145eb7dc72cfa83fb4a4a70920d70483c64206624d5f3f47e"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 7 – The Seam.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 7 – The Seam.md",
+      "sha256": "e0304cff4bf4dde9b469f83a4693c64f96019c1181e1d78dff4d76c80a7c99dd"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 8 – The Drop.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 8 – The Drop.md",
+      "sha256": "e6b4fbee197f96bda889e69b1b23f5e6c21e7cb9c123357fea0e9c69f4964f71"
+    },
+    {
+      "source_path": "docs/canonical_md/Chapter 9 – Fractures in the Core.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Chapter 9 – Fractures in the Core.md",
+      "sha256": "64ab5616ce3ef110670da1b02c3456252eeda68db047d67331c9b8f895df5e4c"
+    },
+    {
+      "source_path": "docs/canonical_md/Current Timeline Summary.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/canonical_md/Current Timeline Summary.md",
+      "sha256": "b5f0ab679f1c07f0f46f56c622e147a685ee73319fa06856945941cbb37e79ea"
+    },
+    {
+      "source_path": "docs/developmental/Author’s Foreword – What the Record Loses.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/developmental/Author’s Foreword – What the Record Loses.md",
+      "sha256": "b2cc1f41ded69499f9af469432afaecc90afce0d0b0e5802989d9b39af8f49c6"
+    },
+    {
+      "source_path": "docs/appendices/Appendix – Figures of the Turning Time.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/appendices/Appendix – Figures of the Turning Time.md",
+      "sha256": "c6548220a74cecb1d860c831457edb1831a43bd162c16b418660795e9b7a60f5"
+    },
+    {
+      "source_path": "docs/appendices/Appendix - The Voss Conquest.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/appendices/Appendix - The Voss Conquest.md",
+      "sha256": "6a195f3ecff2a0828385fd8c37d0e34be7df2d34ba24b93d968bfcb22de81cab"
+    },
+    {
+      "source_path": "docs/appendices/Appendix – Gor of Almelah.md",
+      "snapshot_path": "docs/manuscript_baselines/2026-10-09_pre_promotion/docs/appendices/Appendix – Gor of Almelah.md",
+      "sha256": "ac411796d74533df8712d95c72b9252473a30ae6532d1fa75029753f6701f7b4"
+    }
+  ]
+}

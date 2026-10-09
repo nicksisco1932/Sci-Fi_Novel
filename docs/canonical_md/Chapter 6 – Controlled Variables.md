@@ -1,6 +1,6 @@
 [[Cassian Rho|Cassian]] sat alone in the observation chamber, staring at the pale surface of the table in front of him. No restraints. No visible sensors. Just a low hum from the walls and the faint scent of sterilized air. Nothing to push against except the room itself.
 
-His thoughts refused to hold shape. He had tried—tried hard—to reconstruct the final moments before the jump collapsed. The wave. The anomaly. The AI’s voice: There is an anomaly in the destination field.
+His thoughts refused to hold shape. He had tried—tried hard—to reconstruct the final moments before the jump collapsed: the wave, the anomaly, the AI’s voice saying, There is an anomaly in the destination field.
 
 He remembered that clearly.
 
@@ -30,7 +30,7 @@ Cassian raised an eyebrow. “That sounds specific.”
 
 “It’s designed to stimulate dormant neural layers affected by long-term quantum displacement. The protocols are quite old—salvaged from deep-space reconditioning programs.”
 
-Cassian didn’t argue. He needed more information. If cooperation bought him time, he would take it.
+Cassian didn’t argue. He needed more information, and if cooperation bought him time, he would take it.
 
 Korin placed the slate on the table. It projected a calm, almost meditative interface—geometric patterns, subtle movement, ambient light. Harmless on the surface.
 

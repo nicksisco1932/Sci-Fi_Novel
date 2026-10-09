@@ -38,11 +38,9 @@ Thena raised her blade.
 
 Cassian stepped through first.
 
-The chamber beyond had once been a relay watch station. Enough remained to show its shape: control banks stripped to frames, broken monitors, a rack of manual override tools rusting in brackets by the wall. But someone had cleared the center of the room recently. A table. Two chairs. A med case. Three sealed water packs. Power routed through one active terminal at the far end.
+The chamber beyond had once been a relay watch station. Enough remained to show its shape: control banks stripped to frames, broken monitors, and a rack of manual override tools rusting in brackets by the wall. Someone had cleared the center recently, placing a table, two chairs, a med case, and three sealed water packs there. Power had been routed to one active terminal at the far end.
 
-Prepared.
-
-Not comfortable. Deliberately not comfortable.
+The room was prepared, deliberately, without any effort to make it comfortable.
 
 The door sealed behind them.
 

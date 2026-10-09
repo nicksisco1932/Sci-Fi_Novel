@@ -1,8 +1,4 @@
-The maintenance valve clicked again.
-
-The biomechanic turned toward the wall.
-
-The sound had come from below the floor, somewhere past the sealed bay and the local return. A small change in pressure followed it. The crèche answered with a pulse of light.
+The maintenance valve clicked again below the floor, somewhere past the sealed bay and local return. The biomechanic turned toward the wall as a small change in pressure followed, and the crèche answered with a pulse of light.
 
 The younger attendant reached for the outer screen.
 

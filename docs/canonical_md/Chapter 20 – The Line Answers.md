@@ -228,19 +228,7 @@ The masked watcher gestured with the weapon.
 
 They were taken deeper in, not roughly but with enough control to make resistance idiotic.
 
-The corridor widened after two turns into a chamber hidden behind the false wall of the buried street. The architecture changed immediately. Not civic fiction anymore. Survival, layered over ruins.
-
-Hand-strung lights.
-
-Water catchments built from cut pipe and welded sheet.
-
-Sleeping rolls tucked into service alcoves.
-
-Storage crates marked in chalk.
-
-A cook surface gone cold but not long cold.
-
-People pretending not to stare and failing.
+After two turns, the corridor widened into a chamber hidden behind the false wall of the buried street. The architecture changed immediately: not civic fiction anymore, but survival layered over ruins. The chamber held hand-strung lights, water catchments built from cut pipe and welded sheet, sleeping rolls tucked into service alcoves, storage crates marked in chalk, and a cook surface gone cold but not long cold. People pretended not to stare and failed.
 
 Cassian catalogued without turning his head.
 

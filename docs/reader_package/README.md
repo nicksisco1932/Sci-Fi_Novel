@@ -7,13 +7,13 @@ When the author asks for a **package**, **share copy**, or **beta-reader edition
 3. The complete selected manuscript in its established chapter order.
 4. The appendices after the manuscript.
 
-The current selection is the v0.2 style-trial manuscript, including the author's latest Chapter 1 transition addition, the foreword **What the Record Loses**, and the Figures of the Turning Time, Voss Conquest, and Gor appendices. This package selection does not promote the experimental manuscript or developmental appendix to canonical status.
+The current selection is the author-approved v0.2 working manuscript, including the author's latest Chapter 1 transition addition, the foreword **What the Record Loses**, and the Figures of the Turning Time, Voss Conquest, and Gor appendices. On 2026-10-09 the author explicitly promoted this manuscript to the current working baseline. The selected text now lives in `docs/canonical_md/`; frozen trial copies and dated packages remain preserved. Gor’s developmental status and disclosed conflicts remain unchanged.
 
 ## Share file
 
 The current shareable edition is:
 
-`beta_readers/packages/v0.2_2026-10-08_correct-cover/Hive_Earth_Beta_Reader_Package.pdf`
+`beta_readers/packages/v0.2_working_2026-10-09/Hive_Earth_Beta_Reader_Package.pdf`
 
 A combined Markdown copy and `package_manifest.json` accompany the PDF for reproducibility. The PDF alone contains the entire reader edition; recipients do not need the source files or manifest.
 
@@ -43,7 +43,7 @@ The foreword's editorial development-status line is omitted from the reader pres
 
 Update the selected source snapshots and SHA-256 values only when an author-approved source changes. Set a new version/date/output directory for changed inputs. The builder refuses to replace an existing edition with different inputs. Earlier packages must remain available. Chapter 16 and other source-preservation requirements still apply to manuscript revisions.
 
-The supporting snapshots were copied from the main checkout; `supporting_sources.json` records their original locations and hashes. Their paths are repository snapshot paths, not Obsidian mirror paths.
+The original supporting snapshots remain preserved; `supporting_sources.json` records their original locations and hashes. Current package inputs use the promoted supporting files at the repository paths selected in `package.json`. These are not Obsidian mirror paths.
 
 Each new edition also saves its exact `package_config.json`. The earlier plain-cover October 8 edition is preserved in `beta_readers/packages/v0.2_2026-10-08/`. To reproduce it, pass its saved configuration using `--config` and `--rebuild`.
 
@@ -58,9 +58,13 @@ Use `--pages 11,12` to include additional changed pages. Renders go to `tmp/pdfs
 ## Start here next time
 
 1. Read this workflow and `package.json`; the author credit is Nicholas J. Sisco, the current share format is a single PDF with the agreed Hive artwork as its front cover, and the existing serif design can be reused.
-2. Use the selected manuscript version; do not substitute this worktree's canonical chapter set for an explicitly selected experiment. The current experiment has 28 files numbered 1 and 4–30.
+2. Use the selected manuscript version; use this worktree’s author-approved canonical chapter set for current working editions. The accepted working manuscript has 28 files numbered 1 and 4–30. The frozen experiment supplies historical comparison text.
 3. Locate any newly requested supporting revision using the original-source paths in `supporting_sources.json`. Read and snapshot it with Python's `pathlib` and UTF-8; preserve the bytes and hash them. Non-ASCII filenames can look wrong in Windows console output, so verify bytes and code points before claiming corruption or trying to reconstruct sources from a diff.
 4. Choose a new dated output directory when inputs change. Run the existing builder, which validates the pinned sources before writing. Skip reconstruction of earlier manuscript trials.
 5. Reuse the package if nothing changed. For a new edition, run the renderer, inspect the new layout and changed passages, record verification, and give the author the PDF link.
 
 This records the successful local workflow. It requires no new models, dependencies, LaTeX export, or Obsidian sync.
+
+## Working manuscript and frozen exports
+
+`docs/canonical_md/` is now the author's accepted working manuscript. `working_chapters.sha256` pins the current package inputs; the immutable acceptance record is `docs/manuscript_baselines/2026-10-09_v0.2/`. Future authorized manuscript edits may change the working files. Pin those edited bytes with a new package configuration/hash manifest and new dated output before exporting; never bypass a hash mismatch or regenerate a completed edition from altered inputs. Use saved edition configurations for historical rebuilds.

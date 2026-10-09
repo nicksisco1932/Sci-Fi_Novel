@@ -77,11 +77,3 @@ The corridor went quiet except for the burn in his lungs.
 Then footsteps.
 
 Thena stepped back into view, blade wet and breathing steady. She looked at the bodies, then at Cassian on one knee with blood across his face.
-
-The look she gave him had changed.
-
-There was respect in it.
-
-And caution.
-
-A revised estimate.

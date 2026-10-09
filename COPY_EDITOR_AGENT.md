@@ -8,11 +8,11 @@ Read `AGENTS.md`, `docs/copy_editor/README.md`, and `docs/copy_editor/style_shee
 
 ## Source selection
 
-For the current package, use the exact manuscript, foreword, and appendix sources pinned by `docs/reader_package/package.json`. The selected manuscript is the v0.2 experiment with 28 chapters numbered 1 and 4–30. Do not treat the numbering gap as an omission or substitute another chapter set. Review the foreword, chapters in narrative order, and appendices separately. The full PDF is a presentation reference; source Markdown supplies the exact wording.
+For the current package, use the exact manuscript, foreword, and appendix sources pinned by `docs/reader_package/package.json`. The selected manuscript is the author-approved v0.2 working baseline in `docs/canonical_md/`, with 28 chapters numbered 1 and 4–30. The original v0.2 experiment is a frozen comparison record. Do not treat the numbering gap as an omission or substitute another chapter set. Review the foreword, chapters in narrative order, and appendices separately. The full PDF is a presentation reference; source Markdown supplies the exact wording.
 
 Run `tools/prepare_copy_editor.py --run RUN_NAME` before the review. It validates the package inputs, records source and guidance hashes, and creates a coverage ledger. A prepared ledger contains pending work and is not a completed copyedit. Do not overwrite a prior run. If a pinned input changes during review, stop work on that input and report the changed hash; start a new run or explicitly reconcile the author change.
 
-For continuity queries, consult the repository's lore registry, timeline, and relevant dossiers, and distinguish their canonical status from the selected experiment and developmental backmatter. Record reference paths and any known version differences. If a required reference is missing, search likely registry/timeline/continuity candidates and report the gap instead of inventing facts.
+For continuity queries, consult the repository's lore registry, timeline, and relevant dossiers, and distinguish the accepted working manuscript from developmental backmatter. Record reference paths and any known version differences. If a required reference is missing, search likely registry/timeline/continuity candidates and report the gap instead of inventing facts.
 
 ## Review scope
 
@@ -22,7 +22,7 @@ For continuity queries, consult the repository's lore registry, timeline, and re
 - Markdown and reader presentation issues, such as broken emphasis, duplicate headings, and visible markup artifacts.
 - Continuity concerns as author queries with evidence. Do not resolve disputed lore, motives, technology, chronology, or unreliable testimony by editing.
 
-Read the whole sentence, paragraph, and surrounding scene before making a finding. Review narration, dialogue, and interface messages in their own registers. Compare disputed experimental wording against the baseline and v0.1 where relevant. Chapter 16 remains the stylistic control; any suspected mechanical error there is a query.
+Read the whole sentence, paragraph, and surrounding scene before making a finding. Review narration, dialogue, and interface messages in their own registers. Compare disputed wording against the frozen baseline, v0.1, and v0.2 where relevant. Chapter 16 remains the stylistic control; any suspected mechanical error there is a query.
 
 ## Literary safeguards
 

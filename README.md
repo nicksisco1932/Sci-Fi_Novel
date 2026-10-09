@@ -1,21 +1,19 @@
-# Sci Fi Novel
+# Hive: Earth
 
-The current private Hive Earth beta edition is **2026-10-07 v2**, assembled from the merged Chapter 1 and Chapters 4–30, followed by all three selected appendices.
+**Nicholas J. Sisco**
 
-Start with [the beta release index](beta_readers/README.md). It identifies the reading copy, exact source checkpoint, verification record, rebuild command, and superseded exports.
+## Current working manuscript
 
-## Sources and working state
+On **October 9, 2026**, the author selected the current v0.2 beta manuscript as the most polished version and the working baseline for all further development. Edit **`docs/canonical_md/`**: the merged Chapter 1 followed by Chapters 4–30, 28 chapter files. The gap is intentional; Chapters 2–3 were merged into the opening.
 
-- Manuscript prose: `docs/canonical_md/`.
-- Selected appendices: `docs/appendices/`.
-- Beta recovery branch: `codex/beta-reader-rectification`.
-- Verified source checkpoint: `c41140b00b9fe348f546ada77a9143413ae5894e`.
-- Repo working rules: [AGENTS.md](AGENTS.md).
+- [Baseline and recovery record](docs/working_baseline.md).
+- [Accepted source manifest](docs/working_baseline.json).
+- [Current share package](beta_readers/SHARE_PACKAGE.md): correct HIVE cover, Nicholas J. Sisco credit, author's foreword, complete manuscript, and all three appendices.
+- [Working rules](AGENTS.md) and [editorial workflow](docs/editorial_workflow.md).
+- [Copy Editor](COPY_EDITOR_AGENT.md): proposed corrections for author review; its review is still pending.
 
-Check the branch and working changes at the start of a session. Source files may contain later author edits; a dated export is a frozen reading edition and must be checked against its manifest before reuse. The main checkout and Codex worktrees are distinct working directories, even when they share Git history.
+The v0.2 trial folder and dated beta packages are frozen comparison editions. The canonical files were promoted byte-for-byte from the selected beta. Future authorized edits belong in the canonical working files, with new commits and new dated exports. The acceptance is a baseline decision; it does not claim a completed copyedit or a final publication edition.
 
-The Chapter 15 stopping point belongs to historical release and graphic-novel v1 records. It must not truncate the current beta edition. Artwork, archived exports, and public website files do not select the current manuscript.
+The selected foreword remains at `docs/developmental/Author’s Foreword – What the Record Loses.md`; the selected appendices are in `docs/appendices/`. Gor's developmental notice and unresolved Chapter 15 differences remain visible. Its inclusion does not reconcile those differences or promote its conflicting history to canon.
 
-The expanded Gor appendix is included for beta review with its developmental notice and unresolved differences from Chapter 15 preserved. Its inclusion does not establish canon.
-
-Earlier beta files remain intact as superseded artifacts. Unrelated artwork and governance work may remain uncommitted; the beta recovery commits do not imply that the whole working tree is clean or backed up.
+The October 7 beta edition and earlier manuscript, art, and release checkpoints remain historical records. The Chapter 15 public web and graphic-novel release boundary does not truncate the working manuscript. The main checkout and Codex worktrees are separate directories; this worktree's canonical folder is the local editing source for this task.

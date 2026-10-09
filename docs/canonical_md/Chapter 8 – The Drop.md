@@ -2,7 +2,7 @@
 
 He couldn’t see. The panel had given way beneath him before he fully understood what he had escaped into, and now the shaft had become a larger tube, less passage than machine.
 
-Not a vent. Not a service crawl. A wind tunnel designed for maintenance drones, not human bodies. Air hammered through it with engineered force, clawing at every inch of him, trying to pin him backward even as it dragged him deeper. He tucked tight, arms close, body streamlined, but it wasn’t enough. Direction meant nothing in the violence of it. He was accelerating the wrong way with no way to stop.
+It was a wind tunnel designed for maintenance drones, not human bodies. Air hammered through it with engineered force, clawing at every inch of him and trying to pin him backward even as it dragged him deeper. He tucked tight, arms close, body streamlined, but it wasn’t enough; direction meant nothing in the violence of it, and he was accelerating the wrong way with no way to stop.
 
 He caught flashes—cabling, fan blades, pressure valves. Nothing sized for a person. Nothing built to forgive an organic body.
 
@@ -78,9 +78,7 @@ He staggered.
 
 It kept coming.
 
-Cassian parried three blows, four, then the fifth clipped his temple. He turned into a counter—
-
-Too late. It was reading him now. The counter was waiting before he committed to it.
+Cassian parried three blows, four, then the fifth clipped his temple. He turned into a counter—too late. It was reading him now, the counter waiting before he committed to it.
 
 It was done testing.
 

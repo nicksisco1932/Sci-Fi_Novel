@@ -1,8 +1,14 @@
 # Hive Earth beta release index
 
-## Current reading edition
+## Current working and reading edition
 
-**2026-10-07 v2** is the corrected private beta edition. Read [the combined PDF](../output/pdf/Hive_Earth_Beta_Reader_2026-10-07-v2.pdf).
+The author approved the v0.2 beta as the working baseline on **2026-10-09**. Use [the current Package](SHARE_PACKAGE.md), with the correct HIVE cover and **Nicholas J. Sisco** credit. Work on manuscript prose in `docs/canonical_md/`; see [baseline and recovery](../docs/working_baseline.md).
+
+The October 7 materials below are preserved historical records, superseded by the current package.
+
+## Historical reading edition — October 7
+
+**2026-10-07 v2** was the corrected private beta edition. Read [the combined PDF](../output/pdf/Hive_Earth_Beta_Reader_2026-10-07-v2.pdf).
 
 The verified reading copy has **166 pages** and 32 navigation bookmarks. Its SHA-256 is `5862984250b5693c357d150a669912df22aff5f8eaefc79a180bd5bd8e2f6cf2`. Beta PDFs have a scoped Git binary attribute so checkout line-ending conversion cannot alter their bytes.
 

@@ -2,7 +2,7 @@ Three months.
 
 They had hollowed him with precision.
 
-Every day, the same chair. The same chamber. The same jagged glyphs flooding his visual cortex until language gave way to pressure and pattern. [[Alyen Ithra]] never raised her voice. Never showed emotion. She didn’t need to. The system did the cutting. She made sure it kept cutting.
+Every day brought the same chair and chamber, the same jagged glyphs flooding his visual cortex until language gave way to pressure and pattern. [[Alyen Ithra]] never raised her voice or showed emotion; she didn’t need to. The system did the cutting, and she made sure it kept cutting.
 
 [[Cassian Rho|Cassian]] never broke. But something in him had changed.
 
@@ -60,9 +60,7 @@ Cassian stared.
 
 The timer was already moving.
 
-No signature. No seal.
-
-Just one word at the bottom.
+No signature. No seal. Just one word at the bottom.
 
 > "Reversionist."
 
@@ -76,7 +74,7 @@ Or it could be real.
 
 And what more could they do to him?
 
-He had survived the wave. The interrogation. The neural shredding.
+He had survived the wave, the interrogation, the neural shredding.
 
 If this was death, it was a cleaner death than what awaited tomorrow.
 

@@ -6,7 +6,7 @@ He rolled onto one elbow. Muscle seized along his ribs. Every breath tasted like
 
 "You made it," a woman's voice said. Rough around the edges. Not Hive.
 
-He blinked until her silhouette resolved. Leathers. Makeshift armor. Scavenged tech welded into worn gear. Her face gave away nothing except the eyes: alert, suspicious, fully awake.
+He blinked until her silhouette resolved: leathers, makeshift armor, scavenged tech welded into worn gear. Her face gave away nothing except the alert, suspicious eyes that remained fully awake.
 
 "You pulled me out?"
 

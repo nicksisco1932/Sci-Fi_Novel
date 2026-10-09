@@ -27,3 +27,7 @@ This directory tracks isolated prose experiments. The canonical manuscript remai
 | 2026-10-08 | Setup | Created the baseline snapshot, v0.1 working copy, and Chapter 16-derived style guide. |
 | 2026-10-08 | v0.1 | Refined and froze the guide around connected attention, physical detail, evidence before inference, and varied rhythm. No guide changes during the v0.1 prose pass. |
 | 2026-10-08 | v0.1 | Completed a selective style pass across all active chapters; Chapter 16 remains the unchanged control. Per-chapter decisions are in `review_ledger.md`. |
+
+## Author acceptance — 2026-10-09
+
+The author selected the completed v0.2 beta as the most polished version and the working baseline. Its exact chapter bytes now occupy `docs/canonical_md/`. Future development starts with those canonical files. This acceptance supersedes the experiment's pending/non-canon status for the selected manuscript text; it does not authorize modifying the frozen trial directories, infer approval of every experimental editing rule, or reconcile the developmental Gor appendix. See `docs/working_baseline.md`.

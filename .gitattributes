@@ -10,6 +10,16 @@ beta_readers/assets/*.png binary
 docs/developmental/manuscript_style_tests/** -text whitespace=cr-at-eol
 docs/reader_package/** -text whitespace=cr-at-eol
 docs/copy_editor/runs/** -text whitespace=cr-at-eol
+docs/manuscript_baselines/** -text whitespace=cr-at-eol
+docs/working_baseline.json -text
+# Prepared copyedit runs record these guidance files' exact byte hashes.
+AGENTS.md -text
+COPY_EDITOR_AGENT.md -text
+docs/copy_editor/README.md -text
+docs/copy_editor/style_sheet.md -text
+docs/canonical_md/*.md -text whitespace=cr-at-eol
+docs/appendices/*.md -text whitespace=cr-at-eol
+"docs/developmental/Author’s Foreword – What the Record Loses.md" -text
 beta_readers/packages/** -text whitespace=cr-at-eol
 beta_readers/packages/**/*.pdf binary
 

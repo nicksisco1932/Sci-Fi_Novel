@@ -7,14 +7,14 @@ The Copy Editor is a reusable Codex role defined in `COPY_EDITOR_AGENT.md`. The 
 Read the role brief and style sheet. From the repository root:
 
 ```powershell
-& 'C:/Users/nicks/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe' -B tools/prepare_copy_editor.py --run v0.2_first-review
+& 'C:/Users/nicks/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe' -B tools/prepare_copy_editor.py --run v0.2_working_first-review
 ```
 
 The command checks all pinned package input hashes before writing its run files, records the package configuration and guidance, and initializes the 32-section coverage ledger. Choose a fresh run name for each review. It does not make editorial judgments or apply corrections.
 
 Use this instruction to invoke the role in the existing chat:
 
-> Act as the Copy Editor using COPY_EDITOR_AGENT.md. Review the sources pinned in docs/reader_package/package.json in reading order, including the author's foreword and all appendices. Prepare the v0.2_first-review run if it does not already exist; otherwise validate its hashes before continuing. Produce exact proposed corrections and author queries for my review, with a completed coverage ledger and machine-readable findings. Preserve source prose and the completed v0.2 experiment.
+> Act as the Copy Editor using COPY_EDITOR_AGENT.md. Review the sources pinned in docs/reader_package/package.json in reading order, including the author's foreword and all appendices. Prepare the v0.2_working_first-review run if it does not already exist; otherwise validate its hashes before continuing. Produce exact proposed corrections and author queries for my review, with a completed coverage ledger and machine-readable findings. Preserve source prose and the frozen v0.2 comparison edition.
 
 ## Run records
 
@@ -54,3 +54,7 @@ For a correction, fill `after` with the minimal proposed replacement and set `qu
 ## Later acceptance
 
 Author approval applies to selected findings. Apply those findings to a new version after confirming source integrity; preserve frozen reading versions, review records, and package editions. Pending or rejected findings remain unapplied. Name the author **Nicholas J. Sisco** in new reading copies and metadata.
+
+## Accepted working baseline
+
+The author promoted the v0.2 beta to the current working manuscript on 2026-10-09. The current package configuration selects `docs/canonical_md/` and the selected supporting source files. The earlier prepared `v0.2_first-review` run remains a historical setup record; no sections were reviewed. Use `v0.2_working_first-review` for the current canonical review. Author-approved corrections are applied to the working canonical files in a new version/commit, preserving frozen trials and dated packages.

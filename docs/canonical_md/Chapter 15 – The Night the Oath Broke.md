@@ -2,15 +2,7 @@ The safehouse was a lie, but it was the only lie they had.
 
 Thena slept in a medicated half-drift on a makeshift cot, wounded hand propped on a rolled jacket, crude bandage already spotting through. Around them, the storage cell pressed close: damp walls, low ceiling, a single salvage coil humming overhead.
 
-[[Cassian Rho|Cassian]] sat on the floor with his back to cold metal, knees up, breathing slow. He had pushed his awareness as far as pain would let him.
-
-No footsteps.
-
-No drone hum.
-
-No movement in the vents.
-
-For now.
+[[Cassian Rho|Cassian]] sat on the floor with his back to cold metal, knees up, breathing slow. He had pushed his awareness as far as pain would let him. There were no footsteps, no drone hum, no movement in the vents. For now.
 
 He closed his eyes.
 

@@ -1,13 +1,10 @@
 # Editorial Workflow
 
 ## Current Stage
-The active manuscript pass is happening chapter by chapter in `docs/canonical_md/`.
 
-At this stage, the editorial work is to:
-- make the prose feel more human
-- expand selectively where clarity, tension, pacing, or character depth need it
-- sharpen concrete sensory and behavioral detail
-- preserve canon, continuity, and character intent
+On 2026-10-09 the author accepted the current v0.2 beta manuscript as the most polished version and the working baseline. Its 28 chapter files were promoted exactly into `docs/canonical_md/`. Start future development there. See `docs/working_baseline.md` for source hashes, recovery, and acceptance scope.
+
+The next editorial milestone is a proposal-only Copy Editor review. Preserve the accepted voice and rhythm; further developmental changes require the author's requested scope. The author has accepted the baseline, not claimed that copyediting is complete.
 
 ## Source of Truth
 - Primary working draft: `docs/canonical_md/`
@@ -27,7 +24,7 @@ At this stage, the editorial work is to:
 
 ## Book 1 Boundary
 
-Current private beta edition, confirmed 2026-10-07: use the merged Chapter 1 and Chapters 4–30, plus the three selected appendices. The Chapter 15 stopping point below describes the historical release/graphic-novel v1 boundary and must not truncate the current beta manuscript. See `beta_readers/README.md` for the verified edition, source checkpoint, and superseded exports. The expanded Gor appendix retains its developmental status and disclosed differences from Chapter 15.
+Current working baseline, approved 2026-10-09: use the merged Chapter 1 and Chapters 4–30, plus the three selected appendices. The Chapter 15 stopping point below describes the historical release/graphic-novel v1 boundary and must not truncate the current beta manuscript. See `beta_readers/README.md` for the verified edition, source checkpoint, and superseded exports. The expanded Gor appendix retains its developmental status and disclosed differences from Chapter 15.
 
 - Author-confirmed titles, 2026-09-26: Book 1 is **Hive: Earth**; Book 2 is **Hive: Dyson**.
 - Author decision, 2026-09-26: prose Book 1 ends at the same narrative stopping point as graphic-novel Volume One: the end of `Chapter 15 – The Night the Oath Broke.md`, including Gor's rain epilogue and the final sentence, "The rain took his footsteps."
@@ -62,7 +59,7 @@ If the same chapter exists in both `docs/canonical_md/` and an archived LaTeX ar
 
 ## Reader Package
 
-Requests for a package, share copy, or beta-reader edition mean one combined PDF with the agreed Hive artwork as its front cover, selected author's note/foreword, complete manuscript, and appendices. Follow `docs/reader_package/README.md` and the pinned source and cover selection in `docs/reader_package/package.json`. Preserve previous dated editions and retain any developmental appendix notices. The current package uses the author-selected v0.2 style-trial manuscript; it does not replace the canonical source.
+Requests for a package, share copy, or beta-reader edition mean one combined PDF with the agreed Hive artwork as its front cover, selected author's note/foreword, complete manuscript, and appendices. Follow `docs/reader_package/README.md` and the pinned source and cover selection in `docs/reader_package/package.json`. Preserve previous dated editions and retain any developmental appendix notices. The current package selects the author-approved v0.2 working manuscript in `docs/canonical_md/`. The original style-trial and earlier packages remain frozen comparison editions.
 
 ## Copy Editor
 
